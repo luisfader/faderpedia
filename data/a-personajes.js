@@ -523,18 +523,34 @@ Es la [[resonante|resonante]] más fuerte de la ciudad, pero no acepta ser un in
 A({
   id: 'dmitri-petrovich', type: 'personaje', uni: 'resonancia', img: 'img/covers/rezonans-lyubvi.webp',
   novels: ['rezonans-lyubvi'],
-  see: ['servicio-celestial', 'resonante'],
+  see: ['servicio-celestial', 'resonante', 'archipielago-memoria', 'memoria-arquitectonica'],
   es: {
     t: 'Dmitri Petróvich',
-    s: 'Coordinador del Servicio de Asuntos Celestiales que vigila las anomalías de San Petersburgo y busca personas resonantes.',
-    box: [['Cargo', 'Coordinador del [[servicio-celestial|Servicio de Asuntos Celestiales]]'], ['Misión', 'Vigilar anomalías; reclutar [[resonante|resonantes]]']],
-    b: `**Dmitri Petróvich** preside el Consejo Supremo del [[servicio-celestial|Servicio]] en el cuartel provisional de San Petersburgo, rodeado de resonantes invitados, archiveros y especialistas en la memoria arquitectónica de la ciudad. Su objetivo: entender la anomalía y encontrar a los [[resonante|resonantes]] capaces de estabilizarla.`
+    s: 'Coordinador del Servicio de Asuntos Celestiales que vigila las anomalías de San Petersburgo y busca resonantes… y el gran villano de Resonancia del amor: quiere convertirse en dueño de la ciudad.',
+    box: [['Cargo', 'Coordinador del [[servicio-celestial|Servicio de Asuntos Celestiales]]'], ['Papel', 'Antagonista oculto'], ['Plan', 'El [[archipielago-memoria|archipiélago de la memoria]]'], ['Centro de su red', 'La cúpula de la Casa Singer']],
+    b: `**Dmitri Petróvich** parece el jefe ideal: preside el Consejo Supremo del [[servicio-celestial|Servicio]] en el cuartel provisional de San Petersburgo, rodeado de resonantes, archiveros y especialistas en [[memoria-arquitectonica|memoria arquitectónica]]; defiende públicamente a Luis como «el mejor empleado»; se quita las gafas, las limpia y vuelve a ponérselas cuando algo lo sorprende.
+
+## El giro
+
+En la segunda mitad de la novela los héroes descubren que es él quien «abre los nodos de la ciudad». «—¿Entonces Dmitri Petróvich quiere convertirse en dueño de San Petersburgo?» Arranca del suelo el Hermitage, parte del circuito teatral y un fragmento del Museo Ruso, y con hilos dorados los ata a la cúpula de cristal de la Casa Singer para construir un centro de control artificial: el [[archipielago-memoria|archipiélago de la memoria]].
+
+## Su método
+
+No quiere destruir la ciudad, sino algo peor: «obligar a San Petersburgo a aceptar una voluntad ajena como propia». Su voz llega por las interferencias de la radio, por los hilos dorados y por el agua bajo el puente. Lo detiene un vínculo que él no puede controlar: el de Natalia, Luis y la propia ciudad.`
   },
   ru: {
     t: 'Дмитрий Петрович',
-    s: 'Координатор службы небесных дел, который следит за аномалиями Петербурга и ищет людей-резонантов.',
-    box: [['Должность', 'координатор [[servicio-celestial|службы небесных дел]]'], ['Задача', 'следить за аномалиями; искать [[resonante|резонантов]]']],
-    b: `**Дмитрий Петрович** проводит Верховное собрание [[servicio-celestial|службы]] во временном штабе в Петербурге — в окружении приглашённых резонантов, архивистов и специалистов по архитектурной памяти города. Его цель — понять аномалию и найти [[resonante|резонантов]], способных её стабилизировать.`
+    s: 'Координатор службы небесных дел, который следит за аномалиями Петербурга и ищет резонантов… и главный злодей «Резонанса любви»: он хочет стать хозяином города.',
+    box: [['Должность', 'координатор [[servicio-celestial|службы небесных дел]]'], ['Роль', 'скрытый антагонист'], ['План', '[[archipielago-memoria|архипелаг памяти]]'], ['Центр сети', 'купол Дома Зингера']],
+    b: `**Дмитрий Петрович** кажется идеальным начальником: проводит Верховное собрание [[servicio-celestial|службы]] во временном штабе в Петербурге в окружении резонантов, архивистов и специалистов по [[memoria-arquitectonica|архитектурной памяти]]; публично называет Луиса «лучшим сотрудником»; снимает очки, протирает их и снова надевает, когда что-то его удивляет.
+
+## Поворот
+
+Во второй половине романа герои понимают: это он «вскрыл городские узлы». «— То есть Дмитрий Петрович хочет стать хозяином Санкт-Петербурга?» Он поднимает в воздух Эрмитаж, часть театрального контура и фрагмент Русского музея и золотыми нитями стягивает их к стеклянному куполу Дома Зингера, чтобы получить искусственный центр управления, — [[archipielago-memoria|архипелаг памяти]].
+
+## Его метод
+
+Он хочет не разрушить город, а сделать хуже: «заставить Санкт-Петербург принять чужую волю как собственную». Его голос звучит в помехах рации, в золотых нитях, в воде под мостом. Останавливает его связь, которую он не может контролировать, — связь Натальи, Луиса и самого города.`
   }
 });
 
