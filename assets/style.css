@@ -85,7 +85,7 @@ button { font: inherit; color: inherit; }
 
 /* ---------- Barra superior ---------- */
 .topbar {
-  position: sticky; top: 0; z-index: 30;
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 30;
   height: var(--top);
   display: flex; align-items: center; gap: 16px;
   padding: 0 20px;
