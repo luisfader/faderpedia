@@ -275,7 +275,7 @@ A({
   es: {
     t: 'Verdegrad',
     s: 'Antigua ciudad tranquila de calles verdes, con la leyenda de una fortaleza que detuvo ejércitos de distintos siglos. Su corazón es Natalia, «el Sol de Verdegrad».',
-    box: [['Nombre original', 'Вердеград'], ['Tipo', 'Ciudad-fortaleza ficticia'], ['Universo', '[[olas|Olas de amor]]'], ['Corazón', '[[natalia-verdegrad|Natalia]]'], ['Habitantes notables', 'Víktor (padre de Natalia), el soldado fantasma Julien'], ['Acceso', 'En autobús, desde la estación «Oblachko»']],
+    box: [['Nombre original', 'Вердеград'], ['Tipo', 'Ciudad-fortaleza ficticia'], ['Universo', '[[olas|Ondas de amor]]'], ['Corazón', '[[natalia-verdegrad|Natalia]]'], ['Habitantes notables', 'Víktor (padre de Natalia), el soldado fantasma Julien'], ['Acceso', 'En autobús, desde la estación «Oblachko»']],
     b: `**Verdegrad** parece no haber sido construida entre los árboles, sino nacida de ellos. Luis llega en autobús, después de pasar por la estación «Oblachko» («Nubecita»), y el aire de la tarde lo rodea con un frescor suave.
 
 ## La fortaleza en penumbra

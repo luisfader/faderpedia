@@ -11,7 +11,7 @@ A({
   es: {
     t: 'Multiverso Fader',
     s: 'El conjunto de mundos narrativos creados por Robert Fader: decenas de novelas en diecinueve idiomas donde los mismos nombres —Luis, Natalia, Robert, Oxana— reaparecen en vidas distintas, y donde las historias se cruzan cuando menos se espera.',
-    box: [['Tipo', 'Universo de ficción compartido'], ['Autor', '[[robert-fader|Robert Fader]]'], ['Novelas', '75+'], ['Idiomas', '19 (del ruso al suajili y el volapük)'], ['Personajes catalogados', '190+'], ['Universos principales', '[[hora-salvaje|La hora salvaje]], [[utopia|Utopía Turquesa]], [[sinea|Sinea]], [[fader|Los Fader]], [[resonancia|Resonancia del amor]], [[olas|Olas de amor]], [[venecia|Venecia]]']],
+    box: [['Tipo', 'Universo de ficción compartido'], ['Autor', '[[robert-fader|Robert Fader]]'], ['Novelas', '75+'], ['Idiomas', '19 (del ruso al suajili y el volapük)'], ['Personajes catalogados', '190+'], ['Universos principales', '[[hora-salvaje|La hora salvaje]], [[utopia|Utopía Turquesa]], [[sinea|Sinea]], [[fader|Los Fader]], [[resonancia|Resonancia del amor]], [[olas|Ondas de amor]], [[venecia|Venecia]]']],
     b: `El **Multiverso Fader** es el nombre que esta enciclopedia da al mundo literario de [[robert-fader|Robert Fader]], publicado en la plataforma *Литературный мир* (Litmir). No es una única cronología: es una constelación de universos que comparten nombres, obsesiones y una misma convicción —que **el mundo puede ser mejor**.
 
 ## Una regla: los nombres vuelven
@@ -27,7 +27,7 @@ No son la misma persona: son *versiones*. El propio autor lo confirma en [[karna
 - [[sinea|Historias de Sinea]] — una ciudad imaginaria donde se prohíbe reír, pasan trenes fantasma y los delfines hablan.
 - [[fader|El misterio de los Fader]] — aventura familiar en Mendoza: un elixir, una [[maldicion-fader|maldición]] y un antepasado inmortal.
 - [[resonancia|Resonancia del amor]] — fantasía urbana rusa: monumentos que despiertan, [[resonante|resonantes]] y la [[penumbra|Penumbra]].
-- [[olas|Olas de amor]] — un zorro nacido de un dibujo y una ciudad-fortaleza llamada [[verdegrad|Verdegrad]].
+- [[olas|Ondas de amor]] — un zorro nacido de un dibujo y una ciudad-fortaleza llamada [[verdegrad|Verdegrad]].
 - [[venecia|Venecia]] — una máscara de poder ilimitado, una orden secreta y una ciudad hundida bajo la laguna.
 
 ## Puentes entre mundos
@@ -42,7 +42,7 @@ Los universos no están sellados. Algunos cruces documentados:
 
 ## Temas que atraviesan todo
 
-- **El amor como fuerza física.** En casi todos los universos el vínculo entre dos personas tiene efectos reales: resonancias, olas, despertar de dragones.
+- **El amor como fuerza física.** En casi todos los universos el vínculo entre dos personas tiene efectos reales: resonancias, ondas, despertar de dragones.
 - **La sátira del poder.** Alcaldes que prohíben la risa, federaciones de fútbol corruptas, algoritmos que vacían almas, jueces que se convierten en ratas.
 - **Mendoza y Rusia.** Los dos polos biográficos del autor: el viñedo al pie de los Andes y la nieve de Moscú.
 - **La utopía.** La idea de que, incluso después de la catástrofe, se puede construir algo más humano.
@@ -291,7 +291,7 @@ A({
 - **[[grustnyj-gorod|La ciudad triste]]** — el alcalde [[octavio-grande|Octavio Grande]] prohíbe reír. [[franco|Franco]] y [[chiara|Chiara]] devuelven la sonrisa a la ciudad con un arma que dispara… risa.
 - **[[tren-fantasma|El tren fantasma]]** — el detective [[marcos|Marcos]] busca a [[alicia|Alicia]] en un tren de vagones imposibles; lo preside el juez [[casimiro-condena|Casimiro Condena]].
 - **La voz** — una brecha bajo la ciudad deja salir sombras y leshis; los delfines, guiados por [[ael|Ael]], se alían con los humanos.
-- **Olas de amor** — en un café de Sinea, un zorro nace de un dibujo (ver [[olas|Olas de amor]]).
+- **Ondas de amor** — en un café de Sinea, un zorro nace de un dibujo (ver [[olas|Ondas de amor]]).
 - **Los sueños y la Bestia** — el [[doctor-crane|doctor Crane]] roba el subconsciente de la gente y de él nace la [[bestia|Bestia]].
 - **Lluvia de meteoritos** — Elena, Felipe, el misterioso Luciano y una cúpula de cristal.
 - **La chica del retrato** — un hacker enamorado deja la ciudad a oscuras.
@@ -439,10 +439,10 @@ A({
   novels: ['volny-lyubvi', 'volny-lyubvi-krepost'],
   see: ['zorro', 'verdegrad', 'natalia-verdegrad', 'sinea-ciudad'],
   es: {
-    t: 'Olas de amor',
+    t: 'Ondas de amor',
     s: 'Romance mágico en dos libros: en un café de Sinea, el dibujo de Luis se convierte en un zorro parlante; en la segunda parte, la antigua ciudad de Verdegrad y su fortaleza en penumbra despiertan.',
     box: [['Género', 'Fantasía urbana · mística · romance'], ['Idioma', 'ruso'], ['Protagonistas', 'Luis y [[natalia-verdegrad|Natalia]]'], ['Guía', '[[zorro|El Zorro]]'], ['Escenarios', '[[sinea-ciudad|Sinea]], [[verdegrad|Verdegrad]]'], ['Villano', 'David (libro 1)']],
-    b: `**Olas de amor** (*Волны любви*) es el universo más lírico del [[multiverso|multiverso]]. Todo empieza con una luz cálida en un pequeño café de [[sinea-ciudad|Sinea]], una conversación tranquila y una mirada en la que ya hay algo conocido. El tiempo se detiene, y de un simple dibujo de Luis aparece un [[zorro|zorro]].
+    b: `**Ondas de amor** (*Волны любви*) es el universo más lírico del [[multiverso|multiverso]]. Todo empieza con una luz cálida en un pequeño café de [[sinea-ciudad|Sinea]], una conversación tranquila y una mirada en la que ya hay algo conocido. El tiempo se detiene, y de un simple dibujo de Luis aparece un [[zorro|zorro]].
 
 ## Libro I
 
@@ -450,7 +450,7 @@ La ciudad se llena de un nuevo aliento. Pero David, un hombre frío de unos trei
 
 ## Libro II: La fortaleza en penumbra
 
-Luis viaja por primera vez a casa de [[natalia-verdegrad|Natalia]], a la antigua [[verdegrad|Verdegrad]]: paseos por calles verdes, la leyenda de una fortaleza y una música que suena de noche. Pero la fortaleza despierta, la melodía puede curar y también someter, Luis cae prisionero y la ciudad pierde su corazón. Natalia —«el Sol de Verdegrad»— y sus amigos deberán demostrar que las olas de amor son más fuertes que cualquier oscuridad. Aparece el soldado fantasma Julien, que había olvidado su nombre.
+Luis viaja por primera vez a casa de [[natalia-verdegrad|Natalia]], a la antigua [[verdegrad|Verdegrad]]: paseos por calles verdes, la leyenda de una fortaleza y una música que suena de noche. Pero la fortaleza despierta, la melodía puede curar y también someter, Luis cae prisionero y la ciudad pierde su corazón. Natalia —«el Sol de Verdegrad»— y sus amigos deberán demostrar que las ondas de amor son más fuertes que cualquier oscuridad. Aparece el soldado fantasma Julien, que había olvidado su nombre.
 
 ## Detalles
 
@@ -541,7 +541,7 @@ window.FACTS = [
   { es: 'la [[seleccion-humanidad|Selección de la Humanidad]] perdió la final… y aun así cambió el mundo.', ru: '[[seleccion-humanidad|Сборная Человечества]] проиграла финал — и всё равно изменила мир.' },
   { es: 'según [[karl-fader|Karl Fader]], el apellido se remonta a Reinbold Vader, canónigo de Colonia en el siglo XII.', ru: 'по словам [[karl-fader|Карла Фадера]], фамилия восходит к Рейнбольду Фадеру, канонику из Кёльна XII века.' },
   { es: 'la [[penumbra|Penumbra]] se debilita con música: la clave fue un viejo armonio.', ru: '[[penumbra|Хмурь]] слабеет от музыки: ключом стала старинная фисгармония.' },
-  { es: 'el [[zorro|Zorro]] de *Olas de amor* nació de un dibujo y siempre conoce el camino.', ru: '[[zorro|Лис]] из «Волн любви» родился из рисунка и всегда знает дорогу.' },
+  { es: 'el [[zorro|Zorro]] de *Ondas de amor* nació de un dibujo y siempre conoce el camino.', ru: '[[zorro|Лис]] из «Волн любви» родился из рисунка и всегда знает дорогу.' },
   { es: 'el [[agente-l|Agente L]] detuvo a un dios toro tocando la guitarra.', ru: '[[agente-l|Агент Л]] остановил древнего бога-быка игрой на гитаре.' },
   { es: 'Luis llegó a Belgrado desde Moscú sin saberlo: al final de [[hora-anomala|La hora anómala]] cerró los ojos en una época y los abrió en Kalemegdan.', ru: 'Луис попал в Белград из Москвы, сам того не зная: в финале «[[hora-anomala|Аномального часа]]» он закрыл глаза в одной эпохе и открыл их на Калемегдане.' },
   { es: 'en [[necrologia|Necrología]], cuanto más pobre eres, más profundo vives.', ru: 'в [[necrologia|Некрологии]] чем ты беднее, тем глубже живёшь.' }

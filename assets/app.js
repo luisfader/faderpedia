@@ -80,7 +80,7 @@
     'sinea': { es: 'Historias de Sinea', ru: 'Истории Синеи', series: 'sinea' },
     'fader': { es: 'Los Fader', ru: 'Тайна семьи Фадер', series: 'fader' },
     'resonancia': { es: 'Resonancia del amor', ru: 'Резонанс любви' },
-    'olas': { es: 'Olas de amor', ru: 'Волны любви', series: 'volny-lyubvi' },
+    'olas': { es: 'Ondas de amor', ru: 'Волны любви', series: 'volny-lyubvi' },
     'venecia': { es: 'Máscara de Venecia', ru: 'Венецианская маска', series: 'roberto-natalia' },
     'multiverso': { es: 'Multiverso', ru: 'Мультивселенная' },
     'otros': { es: 'Historias independientes', ru: 'Отдельные истории' }

@@ -29,7 +29,7 @@ Zmaj lo resume en su entrevista: «Es una rareza. No quería poder. No buscaba h
 
 ## Los otros Luis
 
-El nombre reaparece en casi todos los universos: [[luis-fader|Luis Fader]], el mendocino inmortal; [[luis-resonancia|Luis Fader]], agente de asuntos celestiales; [[luis-arquitecto|Luis]], arquitecto de la Utopía; Luis, músico argentino en Praga (*Podzemní tajemství*, *Misteroj sub Parizo*); Luis, artista de *La gran conspiración* y de *Olas de amor*; Luiz, de veinte años, en *Do outro lado do mundo*.`
+El nombre reaparece en casi todos los universos: [[luis-fader|Luis Fader]], el mendocino inmortal; [[luis-resonancia|Luis Fader]], agente de asuntos celestiales; [[luis-arquitecto|Luis]], arquitecto de la Utopía; Luis, músico argentino en Praga (*Podzemní tajemství*, *Misteroj sub Parizo*); Luis, artista de *La gran conspiración* y de *Ondas de amor*; Luiz, de veinte años, en *Do outro lado do mundo*.`
   },
   ru: {
     t: 'Луис',
@@ -274,11 +274,11 @@ A({
   see: ['olas', 'verdegrad', 'fader', 'mendoza'],
   es: {
     t: 'El Zorro',
-    s: 'Animal guía que aparece en varios universos: nace de un dibujo de Luis en Olas de amor, es un zorro de madera parlante en Anomalía y un protector de la montaña en El misterio de los Fader.',
-    box: [['Tipo', 'Criatura mágica / guía'], ['Apariciones', '[[olas|Olas de amor]], *Anomalía*, [[fader|El misterio de los Fader]]'], ['Rasgos', 'Habla en acertijos, siempre conoce el camino, ojos ámbar']],
+    s: 'Animal guía que aparece en varios universos: nace de un dibujo de Luis en Ondas de amor, es un zorro de madera parlante en Anomalía y un protector de la montaña en El misterio de los Fader.',
+    box: [['Tipo', 'Criatura mágica / guía'], ['Apariciones', '[[olas|Ondas de amor]], *Anomalía*, [[fader|El misterio de los Fader]]'], ['Rasgos', 'Habla en acertijos, siempre conoce el camino, ojos ámbar']],
     b: `El **Zorro** (*Лис*) es el animal totémico del [[multiverso|multiverso]].
 
-## En Olas de amor
+## En Ondas de amor
 
 Nace de un **dibujo de Luis** en un café de Sinea: «el mundo se hace más amplio». Habla en acertijos, siempre conoce el camino y guía a Luis y Natalia por los secretos de [[sinea-ciudad|Sinea]] y de [[verdegrad|Verdegrad]]. Tiene capítulo propio («El regreso del zorro») y hasta una entrevista.
 
@@ -1009,13 +1009,13 @@ A({
   es: {
     t: 'Alicia',
     s: 'Astróloga, numeróloga e investigadora de enigmas, amada de Marcos. Sueña con la libertad y sube al tren fantasma; después ayuda a Luis y Natalia en Moscú y es experta en el Mundial.',
-    box: [['Nombre completo', 'Alicia Gómez'], ['Oficio', 'Astróloga, numeróloga'], ['Pareja', '[[marcos|Marcos]]'], ['Cruces', '[[hora-anomala|La hora anómala]], [[epic-match|El partido épico]], *Olas de amor II*']],
+    box: [['Nombre completo', 'Alicia Gómez'], ['Oficio', 'Astróloga, numeróloga'], ['Pareja', '[[marcos|Marcos]]'], ['Cruces', '[[hora-anomala|La hora anómala]], [[epic-match|El partido épico]], *Ondas de amor II*']],
     b: `**Alicia Gómez** es una de las viajeras del [[multiverso|multiverso]]: tiene dossier propio en *Призрачный поезд* y aparece en universos muy distintos.
 
 - En el [[tren-fantasma|tren fantasma]] es la desaparecida cuya búsqueda pone en marcha la historia.
 - En [[hora-anomala|La hora anómala]] viaja en el asiento trasero del Peugeot con la gata Pliushka, sosteniendo cuatro pergaminos recién robados.
 - En [[epic-match|El partido épico]] es experta en el Mundial.
-- En *Olas de amor II* concede una entrevista sobre la novela.`
+- En *Ondas de amor II* concede una entrevista sobre la novela.`
   },
   ru: {
     t: 'Алисия',
@@ -1250,7 +1250,7 @@ A({
   }
 });
 
-/* ---------- Olas de amor ---------- */
+/* ---------- Ondas de amor ---------- */
 
 A({
   id: 'natalia-verdegrad', type: 'personaje', uni: 'olas', img: 'img/covers/volny-lyubvi-krepost.webp',

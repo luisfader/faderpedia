@@ -1297,13 +1297,13 @@ A({
   es: {
     t: 'Amor (como fuerza)',
     s: 'El motor de casi todas las tramas del multiverso. En las novelas de Fader el amor no es un adorno de la aventura: produce efectos físicos, abre caminos, despierta artefactos y vence a la oscuridad.',
-    box: [['Ruso', 'Любовь'], ['Lema', '«El amor y la magia son inseparables»'], ['Formas', 'Resonancia, olas, el Corazón de la brújula, la Llave atlante, el beso que da fuerza']],
+    box: [['Ruso', 'Любовь'], ['Lema', '«El amor y la magia son inseparables»'], ['Formas', 'Resonancia, ondas, el Corazón de la brújula, la Llave atlante, el beso que da fuerza']],
     b: `> «El amor y la magia son inseparables.» — Robert Fader, sobre *El misterio de los Fader*
 
 ## Cómo actúa
 
 - **Resonancia.** En [[resonancia|Resonancia del amor]] el vínculo entre Luis y Natalia es «una fuerza que nace de la cercanía y de la confianza» y puede salvar San Petersburgo. Hasta un puente responde al amor.
-- **Olas.** En [[olas|Olas de amor]] un beso despierta una conexión mágica, y Natalia debe demostrar que «las olas de amor son más fuertes que cualquier oscuridad».
+- **Ondas.** En [[olas|Ondas de amor]] un beso despierta una conexión mágica, y Natalia debe demostrar que «las ondas de amor son más fuertes que cualquier oscuridad».
 - **La C.** En *Las coordenadas del amor*, la [[brujula-escr|brújula]] apunta siempre al Corazón: lo que todos los seres humanos anhelan es «amar y ser amados».
 - **El beso.** En *Los sueños y la Bestia* hay un capítulo titulado «La fuerza del beso».
 - **La Llave.** En *Romance estelar* la Llave atlante se activa gracias a la conexión entre Laura y Luciano.
