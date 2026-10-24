@@ -178,7 +178,8 @@
   }
   function slugify(s) { return norm(s).replace(/[^a-z0-9а-я]+/g, '-').replace(/^-|-$/g, ''); }
   function renderBody(src, toc) {
-    var blocks = src.trim().split(/\n\s*\n/);
+    // Tolera subtítulos pegados al texto: «## Título\nPárrafo» se trata como dos bloques.
+    var blocks = src.trim().replace(/^(## [^\n]*)\n(?!\n)/gm, '$1\n\n').split(/\n\s*\n/);
     var out = [], first = true;
     blocks.forEach(function (b) {
       var lines = b.split('\n');
