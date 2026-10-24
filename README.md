@@ -20,6 +20,7 @@ index.html              el sitio completo (no necesita compilación)
 assets/                 estilos, lógica e icono
 data/a-*.js             los artículos, escritos a mano (ES + RU)
 data/library.js         novelas y personajes, generado desde litmir
+data/sinopsis.js        sinopsis traducidas al español y al ruso
 img/                    portadas y retratos reducidos (webp)
 tools/build_library.py  regenera data/library.js e img/ desde una copia de litmir
 tools/check.js          comprueba enlaces internos y referencias
@@ -48,6 +49,10 @@ Después de editar:
 ```
 node tools/check.js
 ```
+
+## Sinopsis en español y ruso
+
+Cada ficha de novela muestra la sinopsis en el idioma de la página. La original viene de litmir; las traducciones están en `data/sinopsis.js` (`slug: { es: '…', ru: '…' }`). Al añadir una novela nueva, agregá ahí su traducción.
 
 ## Actualizar la biblioteca
 

@@ -422,9 +422,13 @@
     h.push('<div class="novel fade-in"><div><div class="n-cover">' + (n.cover ? '<img src="' + n.cover + '" alt="">' : '<div class="book"><div class="cover"><div class="gen" style="--uc:' + uniColor(u) + '">' + esc(n.title) + '</div></div></div>') + '</div></div><div>');
     h.push('<div class="eyebrow">' + esc(LANG_NAMES[lang][n.lang] || n.lang) + (n.year ? ' · ' + n.year : '') + '</div><h1>' + esc(n.title) + '</h1>');
     h.push('<div class="meta">' + uniChip(u) + (n.genre ? '<span class="chip">' + esc(n.genre) + '</span>' : '') + '<span class="chip">' + n.chapters + ' ' + t('chapters') + '</span>' + (n.adult ? '<span class="chip"><span class="badge-18">18+</span> ' + t('adult') + '</span>' : '') + '</div>');
-    if (n.desc) {
-      if (n.lang !== lang) h.push('<div class="orig-note">' + t('origText') + ' (' + esc(LANG_NAMES[lang][n.lang] || n.lang) + ')</div>');
-      h.push('<div class="desc" lang="' + n.lang + '">' + esc(n.desc) + '</div>');
+    var tr0 = (window.SINOPSIS || {})[slug] || {};
+    var own = n.lang === lang ? n.desc : tr0[lang];
+    if (own) h.push('<div class="desc" lang="' + lang + '">' + esc(own) + '</div>');
+    if (n.desc && n.lang !== lang) {
+      var origLabel = t('origText') + ' (' + esc(LANG_NAMES[lang][n.lang] || n.lang) + ')';
+      if (own) h.push('<details class="orig"><summary>' + origLabel + '</summary><div class="desc" lang="' + n.lang + '">' + esc(n.desc) + '</div></details>');
+      else h.push('<div class="orig-note">' + origLabel + '</div><div class="desc" lang="' + n.lang + '">' + esc(n.desc) + '</div>');
     }
     h.push('<p style="margin-top:22px"><a class="chip" href="' + SOURCE + encodeURIComponent(slug) + '" target="_blank" rel="noopener">↗ ' + t('readSource') + '</a></p>');
     var tr = n.translations || {};
