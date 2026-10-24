@@ -36,9 +36,9 @@
       catHead: 'Categoría', allHead: 'Todos los artículos', allText: 'Índice alfabético de la enciclopedia.',
       footer: 'Faderpedia es una enciclopedia de lectores sobre la obra de Robert Fader. Las novelas se leen en <a href="https://github.com/luisfader/litmir">Litmir</a>.',
       adult: 'Para adultos', orig: 'original',
-      types: { universo: 'Universos', personaje: 'Personajes', criatura: 'Criaturas', lugar: 'Lugares', organizacion: 'Organizaciones', fenomeno: 'Fenómenos', artefacto: 'Artefactos', acontecimiento: 'Acontecimientos', concepto: 'Conceptos', autor: 'Autor' },
-      type1: { universo: 'Universo', personaje: 'Personaje', criatura: 'Criatura', lugar: 'Lugar', organizacion: 'Organización', fenomeno: 'Fenómeno', artefacto: 'Artefacto', acontecimiento: 'Acontecimiento', concepto: 'Concepto', autor: 'Autor' },
-      catDesc: { universo: 'Las grandes sagas y ciclos', personaje: 'Héroes, villanos y arquetipos', criatura: 'Dragones, zorros, dioses y bestias', lugar: 'Ciudades reales e imaginarias', organizacion: 'Ministerios, órdenes y federaciones', fenomeno: 'Horas, maldiciones y anomalías', artefacto: 'Máscaras, pergaminos y elixires', acontecimiento: 'Carnavales y campeonatos', concepto: 'Ideas que atraviesan todo', autor: 'Quien lo escribió' }
+      types: { universo: 'Universos', personaje: 'Personajes', criatura: 'Criaturas', lugar: 'Lugares', organizacion: 'Organizaciones', fenomeno: 'Fenómenos', artefacto: 'Artefactos', acontecimiento: 'Acontecimientos', concepto: 'Conceptos', historia: 'Referencias históricas', autor: 'Autor' },
+      type1: { universo: 'Universo', personaje: 'Personaje', criatura: 'Criatura', lugar: 'Lugar', organizacion: 'Organización', fenomeno: 'Fenómeno', artefacto: 'Artefacto', acontecimiento: 'Acontecimiento', concepto: 'Concepto', historia: 'Referencia histórica', autor: 'Autor' },
+      catDesc: { universo: 'Las grandes sagas y ciclos', personaje: 'Héroes, villanos y arquetipos', criatura: 'Dragones, zorros, dioses y bestias', lugar: 'Ciudades reales e imaginarias', organizacion: 'Ministerios, órdenes y federaciones', fenomeno: 'Horas, maldiciones y anomalías', artefacto: 'Máscaras, pergaminos y elixires', acontecimiento: 'Carnavales y campeonatos', concepto: 'Ideas que atraviesan todo', historia: 'Personas, lugares y hechos reales', autor: 'Quien lo escribió' }
     },
     ru: {
       tag: 'Энциклопедия мультивселенной', search: 'Поиск по Фадерпедии', skip: 'Перейти к содержанию',
@@ -66,13 +66,13 @@
       catHead: 'Категория', allHead: 'Все статьи', allText: 'Алфавитный указатель энциклопедии.',
       footer: 'Фадерпедия — читательская энциклопедия о творчестве Роберта Фадера. Романы читайте в <a href="https://github.com/luisfader/litmir">«Литературном мире»</a>.',
       adult: '18+', orig: 'оригинал',
-      types: { universo: 'Вселенные', personaje: 'Персонажи', criatura: 'Существа', lugar: 'Места', organizacion: 'Организации', fenomeno: 'Явления', artefacto: 'Артефакты', acontecimiento: 'События', concepto: 'Понятия', autor: 'Автор' },
-      type1: { universo: 'Вселенная', personaje: 'Персонаж', criatura: 'Существо', lugar: 'Место', organizacion: 'Организация', fenomeno: 'Явление', artefacto: 'Артефакт', acontecimiento: 'Событие', concepto: 'Понятие', autor: 'Автор' },
-      catDesc: { universo: 'Большие саги и циклы', personaje: 'Герои, злодеи и архетипы', criatura: 'Драконы, лисы, боги и звери', lugar: 'Реальные и вымышленные города', organizacion: 'Министерства, ордены и федерации', fenomeno: 'Часы, проклятия и аномалии', artefacto: 'Маски, пергаменты и эликсиры', acontecimiento: 'Карнавалы и чемпионаты', concepto: 'Идеи, которые проходят сквозь всё', autor: 'Тот, кто это написал' }
+      types: { universo: 'Вселенные', personaje: 'Персонажи', criatura: 'Существа', lugar: 'Места', organizacion: 'Организации', fenomeno: 'Явления', artefacto: 'Артефакты', acontecimiento: 'События', concepto: 'Понятия', historia: 'Исторические отсылки', autor: 'Автор' },
+      type1: { universo: 'Вселенная', personaje: 'Персонаж', criatura: 'Существо', lugar: 'Место', organizacion: 'Организация', fenomeno: 'Явление', artefacto: 'Артефакт', acontecimiento: 'Событие', concepto: 'Понятие', historia: 'Историческая отсылка', autor: 'Автор' },
+      catDesc: { universo: 'Большие саги и циклы', personaje: 'Герои, злодеи и архетипы', criatura: 'Драконы, лисы, боги и звери', lugar: 'Реальные и вымышленные города', organizacion: 'Министерства, ордены и федерации', fenomeno: 'Часы, проклятия и аномалии', artefacto: 'Маски, пергаменты и эликсиры', acontecimiento: 'Карнавалы и чемпионаты', concepto: 'Идеи, которые проходят сквозь всё', historia: 'Реальные люди, места и события', autor: 'Тот, кто это написал' }
     }
   };
-  var TYPE_ORDER = ['universo', 'personaje', 'criatura', 'lugar', 'organizacion', 'fenomeno', 'artefacto', 'acontecimiento', 'concepto', 'autor'];
-  var TYPE_ICON = { universo: '✦', personaje: '☺', criatura: '🐉', lugar: '⌖', organizacion: '⚑', fenomeno: '☄', artefacto: '⚱', acontecimiento: '⚽', concepto: '∞', autor: '✒' };
+  var TYPE_ORDER = ['universo', 'personaje', 'criatura', 'lugar', 'organizacion', 'fenomeno', 'artefacto', 'acontecimiento', 'concepto', 'historia', 'autor'];
+  var TYPE_ICON = { universo: '✦', personaje: '☺', criatura: '🐉', lugar: '⌖', organizacion: '⚑', fenomeno: '☄', artefacto: '⚱', acontecimiento: '⚽', concepto: '∞', historia: '⌛', autor: '✒' };
 
   var UNIS = {
     'hora-salvaje': { es: 'La hora salvaje', ru: 'Дикий час', series: 'ora-selvaggia' },

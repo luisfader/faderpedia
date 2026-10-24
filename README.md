@@ -6,7 +6,7 @@ La enciclopedia del multiverso de Robert Fader, en **español** y **ruso**: los 
 
 ## Qué tiene
 
-- **124 artículos bilingües** (incluidos 31 conceptos) con ficha, índice, «véase también» y «lo que enlaza aquí» calculado automáticamente.
+- **150 artículos bilingües** (incluidos 31 conceptos y 26 referencias históricas) con ficha, índice, «véase también» y «lo que enlaza aquí» calculado automáticamente.
 - **Portadas de universos**: La hora salvaje, Utopía Turquesa, Historias de Sinea, Los Fader, Resonancia del amor, Ondas de amor y Máscara de Venecia.
 - **Biblioteca** con las 75 novelas del catálogo de Litmir, filtrable por idioma, con sinopsis, versiones en otros idiomas y personajes.
 - **Índice de personajes** con los 191 personajes del catálogo.
@@ -40,7 +40,7 @@ A({
 });
 ```
 
-Tipos: `universo`, `personaje`, `criatura`, `lugar`, `organizacion`, `fenomeno`, `artefacto`, `acontecimiento`, `concepto`, `autor`.
+Tipos: `universo`, `personaje`, `criatura`, `lugar`, `organizacion`, `fenomeno`, `artefacto`, `acontecimiento`, `concepto`, `historia` (referencias históricas reales), `autor`.
 
 Formato del cuerpo: párrafos separados por una línea en blanco, `## Título`, listas con `- `, citas con `> `, `**negrita**`, `*cursiva*` y enlaces internos `[[id]]` o `[[id|texto]]` (el id puede ser un artículo o el slug de una novela).
 
