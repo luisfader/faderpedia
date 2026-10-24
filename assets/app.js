@@ -744,6 +744,13 @@
   });
   document.getElementById('scrim').addEventListener('click', function () { document.body.classList.remove('nav-open'); });
 
+  // La altura real de la cabecera cambia en móvil (buscador en dos filas): se mide en vez de suponerla.
+  var topbar = document.querySelector('.topbar');
+  function syncTop() { document.documentElement.style.setProperty('--top', Math.round(topbar.getBoundingClientRect().height) + 'px'); }
+  syncTop();
+  window.addEventListener('resize', syncTop);
+  if (window.ResizeObserver) new ResizeObserver(syncTop).observe(topbar);
+
   window.addEventListener('hashchange', route);
   route();
 })();

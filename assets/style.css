@@ -422,10 +422,14 @@ a.chip:hover { border-color: var(--accent); color: var(--ink); }
   .layout { grid-template-columns: minmax(0, 1fr); }
   .menu-btn { display: inline-grid; }
   .sidebar {
-    position: fixed; top: var(--top); left: 0; bottom: 0; width: 280px; z-index: 40; height: auto;
+    position: fixed; top: var(--top); left: 0; bottom: auto; width: min(280px, 85vw); z-index: 40;
+    height: calc(100vh - var(--top)); height: calc(100dvh - var(--top)); max-height: calc(100dvh - var(--top));
+    overflow-y: auto; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; touch-action: pan-y;
+    padding-bottom: calc(40px + env(safe-area-inset-bottom, 0px));
     background: var(--panel); border-right: 1px solid var(--line); transform: translateX(-102%); transition: transform .25s ease;
   }
   body.nav-open .sidebar { transform: none; box-shadow: var(--shadow); }
+  body.nav-open { overflow: hidden; }
   body.nav-open .scrim { display: block; position: fixed; inset: var(--top) 0 0 0; background: rgba(0,0,0,.35); z-index: 35; }
   main { padding: 20px 20px 56px; }
   .home-grid { grid-template-columns: minmax(0, 1fr); }
