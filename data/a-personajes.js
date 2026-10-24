@@ -1307,3 +1307,161 @@ A({
     b: "**Яна** — молодая пражанка, героиня чешской фантастической повести *[[podzemni-tajemstvi|Podzemní tajemství]]*. В дождливый день она встречает в кафе аргентинского музыканта **Луиса**, который только приехал в Прагу и ещё не знает чешского. Он спрашивает, как сказать *café*; Яна отвечает: *káva*. Она не привыкла скрывать чувства и почти сразу признаётся, что он ей понравился.\n\n## Прага, друзья и концерт\n\nЯна живёт недалеко от **Мала-Страны**. Её друзья — **Люция**, знающая тайны пражских подземелий, и фотограф **Марк**. Когда Луис решает дать концерт под городом, Люция предупреждает о древних правилах входа. Яна возмущается из-за замечания о короткой юбке и поначалу ревнует, но затем выясняется, что подземелье нуждается не в определённой длине одежды, а в защитной вышивке.\n\n## Юбка, сшитая матерью\n\nВ шкафу, пахнущем деревом и лавандой, хранится **длинная бордовая юбка до пола**, которую мать Яны шила целый год. На ткани вышиты красные тюльпаны, синие васильки, жёлтые колосья, белые птицы, зелёные листья, кружево и большое красное сердце в окружении золотых звёзд. У нижнего края — странные чёрные знаки, похожие на ноты.\n\nПозже Яна узнаёт, что мать вышила на юбке мелодию Луиса, найденную в интернете задолго до их знакомства: музыкант сочинил её в восемнадцать лет. Вышивка откликается на музыку и танец; когда Яна кружится, ткань раскрывается словно огромный цветок. Юбка связывает любовь матери, прошлое Праги и будущее героев.\n\n## Любовь и смелость\n\nПервый поцелуй Яны и Луиса происходит, когда она примеряет материнскую юбку. Сначала он говорит ей *te quiero* по-испански, а в финале учится чешскому *miluju tě*. Яна проявляет нежность, но сохраняет самостоятельность и умеет сама принимать решения.\n\nКогда **принцесса Людмила** подчиняет горожан гипнозом и пытается отнять у Яны Луиса, сила вышивки помогает ей сопротивляться. Во время битвы Яна даже **прыгает с летающей «Шкоды»**, чтобы спасти любимого. На Карловом мосту она танцует под общую мелодию, вышитые символы вспыхивают, и заклятие над Прагой рушится.\n\n## Неожиданное милосердие\n\nПобедив Людмилу, Яна замечает её искренние слёзы и понимает, что жестокость принцессы выросла из одиночества. Яна прощает бывшую противницу, потребовав оставить Прагу в покое. Эта сцена показывает, что её решимость совместима с состраданием.\n\n## После приключения\n\nЧерез неделю Яна и Луис снова сидят в том самом кафе. На Яне короткая красная юбка, а волшебная бордовая отдыхает в шкафу. Луис произносит *miluju tě*, и Яна называет эти слова самой важной фразой на чешском языке.\n\n**Другая версия героини:** [[jana-predtucha|Яна из «Předtucha»]] живёт в постапокалиптическом мире, защищает Утопию с помощью дронов и хранит другую материнскую юбку — тоже бордовую, но с иной вышивкой."
   }
 });
+
+
+/* ---------- El tren fantasma: personajes ---------- */
+A({
+  "id": "hombre-gordo",
+  "type": "personaje",
+  "uni": "sinea",
+  "img": "img/covers/el-tren-fantasma.webp",
+  "novels": [
+    "el-tren-fantasma",
+    "prizrachnyj-poezd",
+    "il-treno-fantasma"
+  ],
+  "see": [
+    "dona-carmen",
+    "marcos",
+    "alicia",
+    "tren-fantasma"
+  ],
+  "es": {
+    "t": "El Hombre Gordo",
+    "s": "Pasajero del tren fantasma. En el dossier español es Roberto «Bobby» López Mendoza; en la versión rusa se llama Роберт y el hombre de la estación italiana se llama Vittorio.",
+    "box": [
+      [
+        "Nombre en español",
+        "Roberto «Bobby» López Mendoza"
+      ],
+      [
+        "Otros nombres según la versión",
+        "Роберт (ruso); Vittorio (italiano)"
+      ],
+      [
+        "Edad (dossier español)",
+        "44 años"
+      ],
+      [
+        "Origen",
+        "[[sinea-ciudad|Sinea]], barrio de Los Tulipanes"
+      ],
+      [
+        "Familia",
+        "Yerno de [[dona-carmen|Doña Carmen]]; hermano de Laura en la edición rusa"
+      ],
+      [
+        "Primera aparición",
+        "Capítulo 2 (español y ruso); capítulo 3 (italiano)"
+      ]
+    ],
+    "b": "**El Hombre Gordo** aparece inicialmente en la estación central, donde [[marcos|Marcos]] le pregunta por el [[tren-fantasma|tren fantasma]]. Responde alegremente que el tren se llevó a su suegra, y el aparente chiste acaba convirtiéndose en una trama importante.\n\n## Dossier español\nSe llama **Roberto «Bobby» López Mendoza**. Tiene 44 años, mide 1,72 m y pesa alrededor de 128 kg. Es robusto, con cabello negro escaso y ojos marrones pequeños. Viste camisa a cuadros, pantalones de vestir, zapatos marrones gastados y un reloj dorado falso que le regaló su suegra. Antiguo empleado de la conservera *La Lata Feliz*, sueña con abrir una parrilla llamada *El Yerno en Llamas*. Le gustan las telenovelas, los billetes de tren antiguos y los alfajores de maicena.\n\nEn el capítulo 10, [[alicia|Alicia]] baila con él en la discoteca. Luego los boyscouts zombis secuestran a ambos y a [[dona-carmen|Doña Carmen]]; en el vagón del Juicio Final lo acusan de tener demasiado miedo. Finalmente recupera la libertad y baja del tren junto a su suegra, con quien alcanza una tregua.\n\n## Edición rusa: Роберт\nEn *Призрачный поезд*, Laura lo llama **Роберт** (Robert) en el capítulo 17 y revela que es su hermano. Él se enfrenta a su suegra y decide no vivir más sometido a ella. Más adelante confronta a su esposa, descrita como una bruja. Esta variante tiene un desarrollo más extenso sobre el miedo y la autonomía. No hay que confundirlo con otros Robert o Roberto que aparecen en el multiverso.\n\n## Edición italiana: Vittorio\nEn *Il treno fantasma* el hombre gordo que habla con Marco en la estación (capítulo 3) es identificado como **Vittorio** cuando reaparece en el capítulo 15. **Matteo**, presentado en el capítulo 6 como otro hombre corpulento que conoce a Alice en el restaurante, es **un personaje distinto**. La versión italiana reparte entre los dos algunos motivos narrativos que en español se asocian al Hombre Gordo.\n\n## Función\nAporta humor por su miedo a la suegra y por sus reacciones desmesuradas; en ruso ese miedo se convierte en una lucha por decidir su propia vida."
+  },
+  "ru": {
+    "t": "Толстяк (Роберт)",
+    "s": "Герой «Призрачного поезда», боящийся тёщи. В испанском досье — Роберто «Бобби» Лопес Мендоса; в итальянском романе мужчина с вокзала — Витторио.",
+    "box": [
+      [
+        "Имя в русской истории",
+        "Роберт"
+      ],
+      [
+        "Испанское досье",
+        "Роберто «Бобби» Лопес Мендоса"
+      ],
+      [
+        "Итальянская версия",
+        "Витторио (не Маттео)"
+      ],
+      [
+        "Возраст в испанском досье",
+        "44 года"
+      ],
+      [
+        "Город",
+        "[[sinea-ciudad|Синея]]"
+      ],
+      [
+        "Родственные связи",
+        "Зять [[dona-carmen|доньи Кармен]], в русской версии брат Лауры"
+      ]
+    ],
+    "b": "**Толстяк** встречает [[marcos|Марка]] на вокзале и с радостью рассказывает, что [[tren-fantasma|Призрачный поезд]] увёз его тёщу.\n\n## Испанское досье\nПолное имя — **Роберто «Бобби» Лопес Мендоса**. Ему 44 года, рост 172 см, вес около 128 кг. У него редкие чёрные волосы, карие глаза и клетчатая рубашка. Он работал на консервном заводе «La Lata Feliz» и мечтает открыть гриль-закусочную «El Yerno en Llamas». В испанской версии его похищают зомби-бойскауты и судят за чрезмерный страх; в конце он уходит вместе с тёщей.\n\n## Русская версия: Роберт\nВ главе 17 Лаура впервые называет его **Робертом** и открывает, что она его сестра. Он перестаёт подчиняться тёще, а затем противостоит собственной жене-ведьме. Сюжет превращается из семейного анекдота в историю об ответственности и свободе.\n\n## Итальянская версия: Витторио\nВ *Il treno fantasma* мужчина, который сообщает Марко о пропавшей тёще в главе 3, в главе 15 назван **Vittorio**. Не путать с **Matteo** — другим полным мужчиной, который в главе 6 знакомится с Алисой в вагоне-ресторане. Не следует смешивать и этого Роберта с другими Робертами и Роберто литературной вселенной."
+  }
+});
+
+A({
+  "id": "dona-carmen",
+  "type": "personaje",
+  "uni": "sinea",
+  "img": "img/covers/el-tren-fantasma.webp",
+  "novels": [
+    "el-tren-fantasma",
+    "prizrachnyj-poezd",
+    "il-treno-fantasma"
+  ],
+  "see": [
+    "hombre-gordo",
+    "marcos",
+    "alicia",
+    "tren-fantasma"
+  ],
+  "es": {
+    "t": "Doña Carmen (la suegra del Hombre Gordo)",
+    "s": "Suegra dominante y mordaz del Hombre Gordo, pasajera recurrente del tren fantasma. Su historia va de la sátira familiar al conflicto entre miedo y autonomía.",
+    "box": [
+      [
+        "Nombre en dossier español",
+        "Doña Carmen"
+      ],
+      [
+        "Parentesco",
+        "Suegra de [[hombre-gordo|Roberto «Bobby» López Mendoza]]"
+      ],
+      [
+        "Otros nombres",
+        "La suegra; тёща Роберта; la suocera"
+      ],
+      [
+        "Primera referencia",
+        "Capítulo 2 en español y ruso"
+      ],
+      [
+        "Primera aparición directa (español)",
+        "Capítulo 5"
+      ],
+      [
+        "Final español",
+        "Sale del tren reconciliada provisionalmente con su yerno"
+      ]
+    ],
+    "b": "**Doña Carmen** es la suegra del [[hombre-gordo|Hombre Gordo]]. Se la menciona desde el capítulo 2 de *El tren fantasma*: su yerno celebra que el tren se la haya llevado. En el capítulo 5, Marcos encuentra en un vagón a una mujer de unos 55 años que habla de su yerno; la pregunta sobre si él es muy gordo confirma la conexión.\n\n## Versión española\nEl dossier de Roberto «Bobby» López Mendoza la llama **Doña Carmen**. Considera a su yerno poco ambicioso y demasiado blando. En el capítulo 6, sugiere que Alicia puede estar en la discoteca; en el 10 reprende al yerno por bailar con ella. Los boyscouts zombis la secuestran junto a Alicia y su yerno. En el vagón del Juicio Final la acusan de ser entrometida y chismosa. Tras quedar en libertad, sale del tren junto al Hombre Gordo y ambos parecen haberse reconciliado temporalmente.\n\n## Versión rusa\nEn *Призрачный поезд* la llaman **тёща Роберта**. Busca controlar sus decisiones, lo humilla y actúa junto a la esposa de él, una bruja, y al juez. En el capítulo 17, Роберт empieza a resistirse abiertamente; en los capítulos 18–20 su miedo disminuye y con él se debilita el dominio de la suegra. El nombre **Carmen procede del dossier español**: en las escenas rusas verificadas no se confirma ese nombre.\n\n## Versión italiana\nEn el capítulo 3 de *Il treno fantasma*, Vittorio menciona a su **suocera**, a quien el tren se llevó. La escena no da su nombre.\n\n## Función narrativa\nEl conflicto con su yerno aporta humor al principio y, sobre todo en la edición rusa, plantea la dificultad de elegir libremente frente al control familiar."
+  },
+  "ru": {
+    "t": "Донья Кармен (тёща Роберта)",
+    "s": "Властная и язвительная тёща Толстяка. Имя «донья Кармен» взято из испанского досье; в русской книге она обозначается как «тёща Роберта».",
+    "box": [
+      [
+        "Имя в испанском досье",
+        "Донья Кармен"
+      ],
+      [
+        "Русская форма упоминания",
+        "Тёща Роберта (личное имя не установлено)"
+      ],
+      [
+        "Родство",
+        "Тёща [[hombre-gordo|Толстяка / Роберта]]"
+      ],
+      [
+        "Дочь",
+        "Жена Роберта; в русской истории — жена-ведьма"
+      ],
+      [
+        "Испанский финал",
+        "Уходит с поезда вместе с зятем"
+      ]
+    ],
+    "b": "**Донья Кармен** — имя тёщи [[hombre-gordo|Толстяка]], которое указано в испанском досье. В начале [[tren-fantasma|«Призрачного поезда»]] он радуется, что загадочный поезд увёз её.\n\n## Испанский сюжет\nОна появляется среди пассажиров, рассказывает Маркосу о зяте и позже вмешивается в сцену с Алисией на дискотеке. Зомби-бойскауты уводят её на суд, где её обвиняют в навязчивости и сплетнях. В финале она освобождается и выходит с поезда вместе с зятем; между ними наступает временное перемирие.\n\n## Русский сюжет\nЗдесь её называют **тёщей Роберта**. Она пытается руководить его поступками и внушает ему страх. В главе 17 Роберт впервые отвечает ей отказом. Позднее она действует вместе с его женой-ведьмой и судьёй. Когда Роберт перестаёт бояться, её власть ослабевает. **Имя Кармен не встречается в проверенных русских сценах** — оно известно из испанского досье.\n\n## Итальянский сюжет\nВ третьей главе *Il treno fantasma* Витторио упоминает свою **suocera**, которую увёз поезд; в этой сцене её имя не названо.\n\nПерсонаж соединяет сатиру на семейный контроль с темой самостоятельности."
+  }
+});
