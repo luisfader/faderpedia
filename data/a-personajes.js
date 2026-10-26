@@ -1003,7 +1003,7 @@ Tras pasar por el vagón confesionario, insinúa conocer los secretos del juez [
 });
 
 A({
-  id: 'alicia', type: 'personaje', uni: 'sinea', img: 'img/covers/prizrachnyj-poezd.webp',
+  id: 'alicia', type: 'personaje', uni: 'sinea', img: 'img/chars/alicia-1.webp',
   novels: ['el-tren-fantasma', 'prizrachnyj-poezd', 'anomalnyj-chas', 'epicheskij-match', 'volny-lyubvi-krepost', 'lux-pacis'],
   see: ['marcos', 'tren-fantasma', 'hora-anomala', 'seleccion-humanidad'],
   es: {

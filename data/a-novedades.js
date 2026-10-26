@@ -417,65 +417,6 @@ En la secuela rusa, **Вася** es un muchacho flaco de la fortaleza, con una m
   }
 });
 
-/* ---------- El tren fantasma: la esposa del Hombre Gordo ---------- */
-
-A({
-  id: 'esposa-bruja', type: 'personaje', uni: 'sinea', img: 'img/chars/esposa-bruja-1.webp',
-  novels: ['prizrachnyj-poezd'],
-  see: ['hombre-gordo', 'dona-carmen', 'tren-fantasma', 'casimiro-condena'],
-  es: {
-    t: 'La esposa bruja del Hombre Gordo',
-    s: 'En la edición rusa de El tren fantasma, la mujer de Роберт, el Hombre Gordo: morena, de mirada fría, aliada de su madre y del juez. Él la llama bruja… hasta que se atreve a decirle por qué.',
-    box: [['Ruso', 'жена Роберта, «жена-ведьма»'], ['Novela', '[[prizrachnyj-poezd|Призрачный поезд]], caps. 18–20'], ['Esposo', '[[hombre-gordo|Роберт, el Hombre Gordo]]'], ['Madre', '[[dona-carmen|La suegra]]'], ['Aliado', '[[casimiro-condena|El juez]]'], ['Aspecto', 'Pelo oscuro, mirada fría']],
-    b: `En *Призрачный поезд*, la versión rusa de [[tren-fantasma|El tren fantasma]], el [[hombre-gordo|Hombre Gordo]] no solo le tiene miedo a su [[dona-carmen|suegra]]: también tiene una esposa. Aparece en la discoteca del tren, en la puerta, junto al juez y a su madre, «estricta e inmóvil como una estatua de piedra»: **una mujer de mirada fría y pelo oscuro**.
-
-Роберт palidece: «—Es mi mujer». Ella da unos pasos y responde con calma, pero con una amenaza en la voz: «—Ya veo». Luego se vuelve hacia el juez: «—Haga algo».
-
-## La bruja
-
-A partir de ahí el libro la llama **la esposa-bruja** (*жена-ведьма*). Vuelve con el juez, la suegra, los funcionarios, el revisor y los boyscouts zombis, en fila «como espectadores en un teatro», cada vez que el tren pone a prueba a los pasajeros.
-
-## La respuesta de Роберт
-
-En el capítulo 20, cuando el miedo ya no lo gobierna, Роберт da un paso adelante, se vuelve hacia ella y le dice lo que nunca se había atrevido a decir:
-
-> «—Eres una bruja solo porque sigues obedeciendo a tu madre. La usas contra mí.»
-
-Es el momento en que el Hombre Gordo deja de ser el chiste del tren y decide sobre su propia vida. La esposa no aparece en las versiones española e italiana.
-
-> En la ilustración, ella sonríe y él se encoge en el asiento del vagón: la comedia del miedo que el tren obliga a superar.`
-  },
-  ru: {
-    t: 'Жена-ведьма Роберта',
-    s: 'В русском «Призрачном поезде» — жена Роберта, толстяка: темноволосая, с холодным взглядом, союзница своей матери и судьи. Он зовёт её ведьмой… пока не решается сказать почему.',
-    box: [['Испанский', 'la esposa del Hombre Gordo'], ['Роман', '[[prizrachnyj-poezd|Призрачный поезд]], гл. 18–20'], ['Муж', '[[hombre-gordo|Роберт]]'], ['Мать', '[[dona-carmen|тёща Роберта]]'], ['Союзник', '[[casimiro-condena|судья]]'], ['Облик', 'тёмные волосы, холодный взгляд']],
-    b: `В «Призрачном поезде» [[hombre-gordo|Роберт]] боится не только [[dona-carmen|тёщи]]: у него есть и жена. Она появляется на дискотеке поезда, в дверях, рядом с судьёй и своей матерью, «строгой и неподвижной, как каменная статуя»: **женщина с холодным взглядом и тёмными волосами**.
-
-Роберт бледнеет: «— Это моя жена». Она делает несколько шагов вперёд и отвечает спокойно, но с угрозой в голосе: «— Вижу». Потом поворачивается к судье: «— Сделайте что-нибудь».
-
-## Ведьма
-
-С этого момента книга называет её **женой-ведьмой**. Она возвращается вместе с судьёй, тёщей, чиновниками, инспектором билетов и зомби-бойскаутами, которые выстраиваются в ряд, «словно зрители в театре», всякий раз, когда поезд испытывает пассажиров.
-
-## Ответ Роберта
-
-В двадцатой главе, когда страх больше не управляет им, Роберт делает шаг вперёд, поворачивается к ней и говорит то, на что никогда не решался:
-
-> «— Ты ведьма только потому, что продолжаешь слушаться свою мать. Ты используешь её против меня».
-
-В этот момент толстяк перестаёт быть шуткой поезда и начинает сам решать свою жизнь. В испанской и итальянской версиях жены нет.
-
-> На иллюстрации она улыбается, а он вжимается в сиденье вагона: комедия страха, который поезд заставляет преодолеть.`
-  }
-});
-
-(function () {
-  ['hombre-gordo', 'dona-carmen'].forEach(function (id) {
-    var a = window.ARTICLES.filter(function (x) { return x.id === id; })[0];
-    if (a && a.see.indexOf('esposa-bruja') < 0) a.see.unshift('esposa-bruja');
-  });
-})();
-
 /* ---------- Julián ---------- */
 
 A({
