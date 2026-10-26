@@ -1314,7 +1314,7 @@ A({
   "id": "hombre-gordo",
   "type": "personaje",
   "uni": "sinea",
-  "img": "img/covers/el-tren-fantasma.webp",
+  "img": "img/chars/hombre-gordo-1.webp",
   "novels": [
     "el-tren-fantasma",
     "prizrachnyj-poezd",
