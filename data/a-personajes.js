@@ -1394,7 +1394,7 @@ A({
   "id": "dona-carmen",
   "type": "personaje",
   "uni": "sinea",
-  "img": "img/covers/el-tren-fantasma.webp",
+  "img": "img/chars/dona-carmen-1.webp",
   "novels": [
     "el-tren-fantasma",
     "prizrachnyj-poezd",
