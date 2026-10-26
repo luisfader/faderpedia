@@ -887,7 +887,7 @@ A({
 });
 
 A({
-  id: 'oxana', type: 'personaje', uni: 'multiverso', img: 'img/covers/predchuvstvie-2.webp',
+  id: 'oxana', type: 'personaje', uni: 'multiverso', img: 'img/covers/siyayushchij-gorizont.webp',
   novels: ['siyayushchij-gorizont', 'predchuvstvie', 'golos', 'vlyublennye-lebedi'],
   see: ['kennet', 'necrologia', 'utopia', 'sinea'],
   es: {

@@ -8,9 +8,10 @@ La enciclopedia del multiverso de Robert Fader, en **español** y **ruso**: los 
 
 - **152 artículos bilingües** (incluidos 31 conceptos y 26 referencias históricas) con ficha, índice, «véase también» y «lo que enlaza aquí» calculado automáticamente.
 - **Portadas de universos**: La hora salvaje, Utopía Turquesa, Historias de Sinea, Los Fader, Resonancia del amor, Ondas de amor y Máscara de Venecia.
-- **Biblioteca** con las 75 novelas del catálogo de Litmir, filtrable por idioma, con sinopsis, versiones en otros idiomas y personajes.
+- **Biblioteca** con las 77 novelas del catálogo de Litmir, filtrable por idioma, con sinopsis, versiones en otros idiomas y personajes.
 - **Índice de personajes** con los 191 personajes del catálogo.
 - **Mapa del multiverso** con los cruces entre universos.
+- **Galería** con las 375 ilustraciones de los capítulos de Litmir, visor a pantalla completa y ilustraciones en cada ficha y artículo.
 - Búsqueda instantánea (tecla `/`), tema claro/oscuro, adaptado a móvil.
 
 ## Estructura
@@ -19,9 +20,10 @@ La enciclopedia del multiverso de Robert Fader, en **español** y **ruso**: los 
 index.html              el sitio completo (no necesita compilación)
 assets/                 estilos, lógica e icono
 data/a-*.js             los artículos, escritos a mano (ES + RU)
+data/a-novedades.js     artículos nuevos y ampliaciones (addTo) de la última actualización
 data/library.js         novelas y personajes, generado desde litmir
 data/sinopsis.js        sinopsis traducidas al español y al ruso
-img/                    portadas y retratos reducidos (webp)
+img/                    portadas, retratos e ilustraciones de capítulos (img/ill/), reducidos a webp
 tools/build_library.py  regenera data/library.js e img/ desde una copia de litmir
 tools/check.js          comprueba enlaces internos y referencias
 ```
@@ -61,6 +63,8 @@ Cuando litmir tenga novelas o personajes nuevos:
 ```
 python3 tools/build_library.py ../litmir
 ```
+
+El script también copia y reduce las ilustraciones de los capítulos a `img/ill/<novela>/` y aplica las correcciones de nombres pendientes en litmir (por ejemplo «Olas de amor» → «Ondas de amor»). Las novelas marcadas como `wip` en litmir aparecen con la etiqueta «En curso».
 
 ## Ver el sitio en local
 

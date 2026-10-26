@@ -191,7 +191,7 @@ Moscú (hotel «Pokrovski», la pista de patinaje de la Plaza Roja, el primer cr
 });
 
 A({
-  id: 'gran-catastrofe', type: 'fenomeno', uni: 'utopia', img: 'img/covers/predchuvstvie-2.webp',
+  id: 'gran-catastrofe', type: 'fenomeno', uni: 'utopia', img: 'img/covers/siyayushchij-gorizont.webp',
   novels: ['siyayushchij-gorizont', 'predchuvstvie', 'la-corazonada', 'the-foreboding', 'reve-turquoise'],
   see: ['utopia', 'robert', 'salvajes', 'necrologia', 'prepotencia-central'],
   es: {

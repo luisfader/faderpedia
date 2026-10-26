@@ -351,7 +351,7 @@ Motos de los [[salvajes|salvajes]], catapultas, traiciones internas, drones-gavi
 });
 
 A({
-  id: 'necrologia', type: 'lugar', uni: 'utopia', img: 'img/covers/predchuvstvie-2.webp',
+  id: 'necrologia', type: 'lugar', uni: 'utopia', img: 'img/covers/siyayushchij-gorizont.webp',
   novels: ['siyayushchij-gorizont', 'predchuvstvie-2', 'la-corazonada', 'col-gulu', 'presentimento'],
   see: ['utopia', 'fortaleza-turquesa', 'salvajes', 'prepotencia-central'],
   es: {

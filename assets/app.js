@@ -18,7 +18,8 @@
       heroTitle: 'El multiverso de <em>Robert Fader</em>',
       heroText: 'Dragones serbios, fortalezas turquesa, trenes fantasma, esfinges que pasean por la Nevski y una familia mendocina que no puede morir. Todo lo que hay que saber sobre los mundos de Litmir, en un solo lugar.',
       start: 'Empezar por el multiverso', openMap: 'Ver el mapa',
-      stArticles: 'artículos', stNovels: 'novelas', stLangs: 'idiomas', stPeople: 'personajes',
+      stArticles: 'artículos', stNovels: 'novelas', stLangs: 'idiomas', stPeople: 'personajes', stIll: 'ilustraciones',
+      gallery: 'Galería', illustrations: 'Ilustraciones', chap: 'Cap.', wip: 'En curso', galText: 'Las ilustraciones de los capítulos de Litmir, novela por novela. Tocá una imagen para verla grande y pasar a la siguiente.', allNovels: 'Todas las novelas', seeAllIll: 'Ver todas', fromGallery: 'De la galería', close: 'Cerrar', prev: 'Anterior', next: 'Siguiente',
       featured: 'Artículo destacado', readMore: 'Leer el artículo', didYouKnow: '¿Sabías que…', another: 'Otros datos',
       exploreUni: 'Explora los universos', byCat: 'Por categoría', latest: 'Novelas de 2026', articlesN: 'artículos',
       contents: 'Contenido', appearsIn: 'Aparece en', seeAlso: 'Véase también', linksHere: 'Lo que enlaza aquí',
@@ -48,7 +49,8 @@
       heroTitle: 'Мультивселенная <em>Роберта Фадера</em>',
       heroText: 'Сербские драконы, бирюзовые крепости, призрачные поезда, сфинксы на Невском и мендосская семья, которая не может умереть. Всё о мирах «Литературного мира» — в одном месте.',
       start: 'Начать с мультивселенной', openMap: 'Открыть карту',
-      stArticles: 'статей', stNovels: 'романов', stLangs: 'языков', stPeople: 'персонажей',
+      stArticles: 'статей', stNovels: 'романов', stLangs: 'языков', stPeople: 'персонажей', stIll: 'иллюстраций',
+      gallery: 'Галерея', illustrations: 'Иллюстрации', chap: 'Гл.', wip: 'Пишется', galText: 'Иллюстрации к главам «Литературного мира», роман за романом. Нажмите на картинку, чтобы увеличить её и листать дальше.', allNovels: 'Все романы', seeAllIll: 'Смотреть все', fromGallery: 'Из галереи', close: 'Закрыть', prev: 'Назад', next: 'Вперёд',
       featured: 'Избранная статья', readMore: 'Читать статью', didYouKnow: 'Знаете ли вы, что…', another: 'Другие факты',
       exploreUni: 'Вселенные', byCat: 'По категориям', latest: 'Романы 2026 года', articlesN: 'статей',
       contents: 'Содержание', appearsIn: 'Появляется в', seeAlso: 'См. также', linksHere: 'Ссылки сюда',
@@ -82,10 +84,11 @@
     'resonancia': { es: 'Resonancia del amor', ru: 'Резонанс любви' },
     'olas': { es: 'Ondas de amor', ru: 'Волны любви', series: 'volny-lyubvi' },
     'venecia': { es: 'Máscara de Venecia', ru: 'Венецианская маска', series: 'roberto-natalia' },
+    'praga': { es: 'El subsuelo de Praga', ru: 'Пражское подземелье', series: 'prazske-podzemi' },
     'multiverso': { es: 'Multiverso', ru: 'Мультивселенная' },
     'otros': { es: 'Historias independientes', ru: 'Отдельные истории' }
   };
-  var UNI_ORDER = ['hora-salvaje', 'utopia', 'sinea', 'fader', 'resonancia', 'olas', 'venecia', 'otros'];
+  var UNI_ORDER = ['hora-salvaje', 'utopia', 'sinea', 'fader', 'resonancia', 'olas', 'venecia', 'praga', 'otros'];
   var NOVEL_UNI_OVERRIDE = {
     'anomalnyj-chas': 'hora-salvaje', 'ora-selvaggia-venezia': 'hora-salvaje',
     'rezonans-lyubvi': 'resonancia', 'rezonans-lyubvi-3-protiv-mraka': 'resonancia',
@@ -93,7 +96,7 @@
     'maschera-di-venezia': 'venecia', 'venecianskaya-maska': 'venecia',
     'divlji-chas': 'hora-salvaje', 'przeczucie': 'utopia',
     'grustnyj-gorod': 'sinea', 'golos': 'sinea', 'il-treno-fantasma': 'sinea',
-    'misteroj-sub-parizo': 'otros', 'do-outro-lado-do-mundo': 'otros'
+    'misteroj-sub-parizo': 'praga', 'do-outro-lado-do-mundo': 'otros'
   };
   var LANG_NAMES = {
     es: { es: 'español', ru: 'ruso', it: 'italiano', en: 'inglés', de: 'alemán', fr: 'francés', tr: 'turco', pt: 'portugués', cs: 'checo', pl: 'polaco', sr: 'serbio', eo: 'esperanto', isv: 'interslavo', vo: 'volapük', ia: 'interlingua', ld: 'lingwa de planeta', la: 'latín', sw: 'suajili', bg: 'búlgaro' },
@@ -205,7 +208,7 @@
     var u = novelUni[n.slug];
     var cover = n.cover ? '<img loading="lazy" src="' + n.cover + '" alt="">' : '<div class="gen" style="--uc:' + uniColor(u) + '">' + esc(n.title) + '</div>';
     return '<a class="book" href="' + href('n/' + n.slug) + '">' +
-      '<div class="cover">' + cover + (n.adult ? '<span class="badge-18">18+</span>' : '') + '<span class="lang-tag">' + n.lang.toUpperCase() + '</span></div>' +
+      '<div class="cover">' + cover + (n.adult ? '<span class="badge-18">18+</span>' : '') + (n.wip ? '<span class="badge-wip">' + t('wip') + '</span>' : '') + '<span class="lang-tag">' + n.lang.toUpperCase() + '</span></div>' +
       '<span class="b-title">' + esc(n.title) + '</span>' +
       (small ? '' : '<span class="b-sub">' + esc(LANG_NAMES[lang][n.lang] || n.lang) + (n.year ? ' · ' + n.year : '') + '</span>') +
       '</a>';
@@ -223,6 +226,83 @@
     return a ? '<a class="chip" href="' + href('a/' + u) + '">' + inner + '</a>' : '<span class="chip">' + inner + '</span>';
   }
 
+  /* ---------- Ilustraciones ---------- */
+  var ALL_ILL = [];
+  LIB.novels.forEach(function (n) { (n.ill || []).forEach(function (it) { ALL_ILL.push({ src: it.src, ch: it.ch, chTitle: it.chTitle, slug: n.slug }); }); });
+  // Hasta «max» ilustraciones repartidas entre varias novelas, de forma estable.
+  function illOf(slugs, max) {
+    var lists = slugs.map(function (s) { return ALL_ILL.filter(function (x) { return x.slug === s; }); }).filter(function (l) { return l.length; });
+    var out = [], i = 0;
+    while (out.length < max && lists.some(function (l) { return l.length > i; })) {
+      lists.forEach(function (l) {
+        if (out.length >= max || i >= l.length) return;
+        var step = Math.max(1, Math.floor(l.length / Math.ceil(max / lists.length)));
+        var k = i * step;
+        if (k < l.length) out.push(l[k]);
+      });
+      i++;
+      if (i > 60) break;
+    }
+    return out;
+  }
+  var GAL = [];
+  function illCap(it) { return t('chap') + ' ' + it.ch + (it.chTitle ? ' · ' + it.chTitle : ''); }
+  function galleryHTML(items) {
+    var base = GAL.length;
+    GAL = GAL.concat(items);
+    return '<div class="gallery">' + items.map(function (it, i) {
+      return '<button type="button" class="g-item" data-g="' + (base + i) + '" aria-label="' + esc(novelBySlug[it.slug].title + ' — ' + illCap(it)) + '"><img loading="lazy" src="' + it.src + '" alt=""><span class="g-cap">' + esc(illCap(it)) + '</span></button>';
+    }).join('') + '</div>';
+  }
+  var lb = null, lbIdx = 0, lbTouch = null;
+  function lbShow(i) {
+    if (!GAL.length) return;
+    lbIdx = (i + GAL.length) % GAL.length;
+    var it = GAL[lbIdx], n = novelBySlug[it.slug];
+    lb.querySelector('img').src = it.src;
+    lb.querySelector('.lb-cap').innerHTML = '<a href="' + href('n/' + it.slug) + '">' + esc(n.title) + '</a> · ' + esc(illCap(it)) + ' <span class="muted">' + (lbIdx + 1) + ' / ' + GAL.length + '</span>';
+  }
+  function lbOpen(i) {
+    if (!lb) {
+      lb = document.createElement('div');
+      lb.className = 'lightbox';
+      lb.setAttribute('role', 'dialog');
+      lb.setAttribute('aria-modal', 'true');
+      lb.innerHTML = '<button type="button" class="lb-btn lb-close" aria-label="">✕</button><button type="button" class="lb-btn lb-prev" aria-label="">‹</button><figure><img alt=""><figcaption class="lb-cap"></figcaption></figure><button type="button" class="lb-btn lb-next" aria-label="">›</button>';
+      document.body.appendChild(lb);
+      lb.addEventListener('click', function (e) {
+        if (e.target.closest('.lb-prev')) lbShow(lbIdx - 1);
+        else if (e.target.closest('.lb-next')) lbShow(lbIdx + 1);
+        else if (e.target.closest('.lb-close') || e.target === lb) lbClose();
+        else if (e.target.closest('.lb-cap a')) lbClose();
+      });
+      lb.addEventListener('touchstart', function (e) { lbTouch = e.touches[0].clientX; }, { passive: true });
+      lb.addEventListener('touchend', function (e) {
+        if (lbTouch == null) return;
+        var dx = e.changedTouches[0].clientX - lbTouch; lbTouch = null;
+        if (Math.abs(dx) > 50) lbShow(lbIdx + (dx < 0 ? 1 : -1));
+      });
+    }
+    lb.querySelector('.lb-close').setAttribute('aria-label', t('close'));
+    lb.querySelector('.lb-prev').setAttribute('aria-label', t('prev'));
+    lb.querySelector('.lb-next').setAttribute('aria-label', t('next'));
+    lb.hidden = false;
+    document.body.classList.add('lb-open');
+    lbShow(i);
+    lb.querySelector('.lb-close').focus();
+  }
+  function lbClose() { if (lb) { lb.hidden = true; document.body.classList.remove('lb-open'); } }
+  document.addEventListener('keydown', function (e) {
+    if (!lb || lb.hidden) return;
+    if (e.key === 'Escape') lbClose();
+    else if (e.key === 'ArrowRight') lbShow(lbIdx + 1);
+    else if (e.key === 'ArrowLeft') lbShow(lbIdx - 1);
+  });
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest('.g-item');
+    if (b) lbOpen(+b.getAttribute('data-g'));
+  });
+
   /* ---------- Barra lateral ---------- */
   function renderSidebar(route) {
     var counts = {};
@@ -238,6 +318,7 @@
     item('mapa', '◎', t('map'));
     item('biblioteca', '❒', t('library'), '<span class="count">' + LIB.novels.length + '</span>');
     item('personajes', '☺', t('people'), '<span class="count">' + LIB.characters.length + '</span>');
+    item('galeria', '▦', t('gallery'), '<span class="count">' + ALL_ILL.length + '</span>');
     item('azar', '⚄', t('random'));
     h.push('<h4>' + t('universes') + '</h4>');
     UNI_ORDER.forEach(function (u) {
@@ -264,7 +345,7 @@
     h.push('<section class="hero fade-in"><div class="hero-covers">' + covers.map(function (c) { return '<img src="' + c + '" alt="">'; }).join('') + '</div>' +
       '<div class="hero-inner"><div class="eyebrow">' + t('heroEyebrow') + '</div><h1>' + t('heroTitle') + '</h1><p>' + t('heroText') + '</p>' +
       '<div class="btn-row"><a class="btn btn-primary" href="' + href('a/multiverso') + '">' + t('start') + ' →</a><a class="btn btn-ghost" href="' + href('mapa') + '">' + t('openMap') + '</a></div>' +
-      '<div class="hero-stats"><div><b>' + ARTS.length + '</b><span>' + t('stArticles') + '</span></div><div><b>' + LIB.novels.length + '</b><span>' + t('stNovels') + '</span></div><div><b>' + Object.keys(langs).length + '</b><span>' + t('stLangs') + '</span></div><div><b>' + LIB.characters.length + '</b><span>' + t('stPeople') + '</span></div></div>' +
+      '<div class="hero-stats"><div><b>' + ARTS.length + '</b><span>' + t('stArticles') + '</span></div><div><b>' + LIB.novels.length + '</b><span>' + t('stNovels') + '</span></div><div><b>' + Object.keys(langs).length + '</b><span>' + t('stLangs') + '</span></div><div><b>' + LIB.characters.length + '</b><span>' + t('stPeople') + '</span></div><div><b>' + ALL_ILL.length + '</b><span>' + t('stIll') + '</span></div></div>' +
       '</div></section>');
 
     h.push('<div class="home-grid">');
@@ -284,6 +365,10 @@
       h.push('<a class="uni-card" style="--uc:' + uniColor(u) + '" href="' + href('a/' + u) + '"><img loading="lazy" src="' + articleImg(a) + '" alt=""><div class="u-body"><h4>' + esc(L(a).t) + '</h4><p>' + esc(L(a).s) + '</p><div class="u-meta">' + n + ' ' + t('articlesN') + ' · ' + nn + ' ' + t('stNovels') + '</div></div></a>');
     });
     h.push('</div>');
+
+    if (ALL_ILL.length) {
+      h.push('<h2 class="section-title">' + t('fromGallery') + ' <small><a href="' + href('galeria') + '">' + t('gallery') + ' →</a></small></h2>' + galleryHTML(shuffle(ALL_ILL).slice(0, 10)).replace('class="gallery"', 'class="gallery strip"'));
+    }
 
     h.push('<h2 class="section-title">' + t('byCat') + '</h2><div class="cat-strip">');
     TYPE_ORDER.forEach(function (k) {
@@ -338,6 +423,12 @@
       if (nov.length) h.push('<section><h3>' + t('novelsOfUni') + '</h3><div class="book-grid">' + nov.map(function (n) { return bookCard(n); }).join('') + '</div></section>');
     } else if (a.novels && a.novels.length) {
       h.push('<section><h3>' + t('appearsIn') + '</h3><div class="book-grid">' + a.novels.map(function (s) { return bookCard(novelBySlug[s]); }).join('') + '</div></section>');
+    }
+    var illSlugs = a.type === 'universo' ? LIB.novels.filter(function (n) { return novelUni[n.slug] === a.id || (a.novels || []).indexOf(n.slug) >= 0; }).map(function (n) { return n.slug; }) : (a.novels || []);
+    var aIll = illOf(illSlugs, a.type === 'universo' ? 12 : 8);
+    if (aIll.length) {
+      var oneNovel = illSlugs.filter(function (s) { return (novelBySlug[s] && novelBySlug[s].ill || []).length; });
+      h.push('<section><h3>' + t('illustrations') + (oneNovel.length === 1 ? ' <small><a href="' + href('n/' + oneNovel[0]) + '">' + t('seeAllIll') + ' →</a></small>' : ' <small><a href="' + href('galeria') + '">' + t('gallery') + ' →</a></small>') + '</h3>' + galleryHTML(aIll) + '</section>');
     }
     if (a.see && a.see.length) {
       h.push('<section><h3>' + t('seeAlso') + '</h3><div class="a-grid">' + a.see.filter(function (s) { return byId[s]; }).map(function (s) { return articleCard(byId[s]); }).join('') + '</div></section>');
@@ -422,7 +513,7 @@
     var h = ['<div class="crumbs"><a href="' + href('') + '">Faderpedia</a> › <a href="' + href('biblioteca') + '">' + t('library') + '</a> › ' + esc(uniName(u)) + '</div>'];
     h.push('<div class="novel fade-in"><div><div class="n-cover">' + (n.cover ? '<img src="' + n.cover + '" alt="">' : '<div class="book"><div class="cover"><div class="gen" style="--uc:' + uniColor(u) + '">' + esc(n.title) + '</div></div></div>') + '</div></div><div>');
     h.push('<div class="eyebrow">' + esc(LANG_NAMES[lang][n.lang] || n.lang) + (n.year ? ' · ' + n.year : '') + '</div><h1>' + esc(n.title) + '</h1>');
-    h.push('<div class="meta">' + uniChip(u) + (n.genre ? '<span class="chip">' + esc(n.genre) + '</span>' : '') + '<span class="chip">' + n.chapters + ' ' + t('chapters') + '</span>' + (n.adult ? '<span class="chip"><span class="badge-18">18+</span> ' + t('adult') + '</span>' : '') + '</div>');
+    h.push('<div class="meta">' + uniChip(u) + (n.genre ? '<span class="chip">' + esc(n.genre) + '</span>' : '') + '<span class="chip">' + n.chapters + ' ' + t('chapters') + '</span>' + (n.wip ? '<span class="chip"><span class="badge-wip">' + t('wip') + '</span></span>' : '') + (n.adult ? '<span class="chip"><span class="badge-18">18+</span> ' + t('adult') + '</span>' : '') + '</div>');
     var tr0 = (window.SINOPSIS || {})[slug] || {};
     var own = n.lang === lang ? n.desc : tr0[lang];
     if (own) h.push('<div class="desc" lang="' + lang + '">' + esc(own) + '</div>');
@@ -438,11 +529,32 @@
       h.push('<h3 class="section-title" style="font-size:20px;margin-top:28px">' + t('translations') + '</h3><div class="chip-row">' + trKeys.map(function (k) { return '<a class="chip" href="' + href('n/' + tr[k]) + '"><b>' + k.toUpperCase() + '</b> ' + esc(novelBySlug[tr[k]].title) + '</a>'; }).join('') + '</div>');
     }
     h.push('</div></div>');
+    var nIll = ALL_ILL.filter(function (x) { return x.slug === slug; });
+    if (nIll.length) h.push('<h2 class="section-title">' + t('illustrations') + ' <small>' + nIll.length + '</small></h2>' + galleryHTML(nIll));
     var arts = ARTS.filter(function (a) { return (a.novels || []).indexOf(slug) >= 0; });
     if (arts.length) h.push('<h2 class="section-title">' + t('mentioned') + '</h2><div class="a-grid">' + arts.map(articleCard).join('') + '</div>');
     var cast = LIB.characters.filter(function (c) { return c.novels.indexOf(slug) >= 0; });
     if (cast.length) h.push('<h2 class="section-title">' + t('cast') + ' <small>' + cast.length + '</small></h2><div class="people">' + cast.map(personCard).join('') + '</div>');
     setMain(h.join(''), n.title);
+  }
+
+  function viewGallery(only) {
+    var withIll = LIB.novels.filter(function (n) { return (n.ill || []).length; });
+    withIll.sort(function (a, b) { return b.ill.length - a.ill.length; });
+    var h = ['<header class="page-head"><h1>▦ ' + t('gallery') + '</h1><p>' + t('galText') + ' ' + ALL_ILL.length + ' ' + t('stIll') + '.</p></header>',
+      '<div class="filters"><select id="galSel"><option value="">' + t('allNovels') + '</option>' + withIll.map(function (n) { return '<option value="' + n.slug + '"' + (n.slug === only ? ' selected' : '') + '>' + esc(n.title) + ' (' + n.ill.length + ')</option>'; }).join('') + '</select></div><div id="galOut"></div>'];
+    setMain(h.join(''), t('gallery'));
+    var sel = document.getElementById('galSel');
+    function draw() {
+      GAL = [];
+      var list = sel.value ? withIll.filter(function (n) { return n.slug === sel.value; }) : withIll;
+      document.getElementById('galOut').innerHTML = list.map(function (n) {
+        var items = ALL_ILL.filter(function (x) { return x.slug === n.slug; });
+        return '<div class="series-block"><h2><span class="dot" style="background:' + uniColor(novelUni[n.slug]) + '"></span><a href="' + href('n/' + n.slug) + '">' + esc(n.title) + '</a></h2><p>' + esc(uniName(novelUni[n.slug])) + ' · ' + items.length + ' ' + t('stIll') + '</p>' + galleryHTML(items) + '</div>';
+      }).join('');
+    }
+    sel.addEventListener('change', draw);
+    draw();
   }
 
   function charUni(c) {
@@ -664,6 +776,7 @@
   }
 
   function setMain(html, title) {
+    lbClose();
     var m = document.getElementById('main');
     m.innerHTML = html;
     document.title = (title ? title + ' — ' : '') + 'Faderpedia';
@@ -699,6 +812,7 @@
     var query = '';
     if (qi >= 0) { query = path.slice(qi + 1); path = path.slice(0, qi); }
     applyChrome();
+    GAL = [];
     document.body.classList.remove('nav-open');
     document.getElementById('menuBtn').setAttribute('aria-expanded', 'false');
 
@@ -711,6 +825,7 @@
     else if (path === 'biblioteca') viewLibrary();
     else if (path === 'personajes') { viewPeople(); var pq = query.match(/q=([^&]+)/); if (pq) { var inp = document.getElementById('pQ'); var c = LIB.characters.filter(function (x) { return x.id === decodeURIComponent(pq[1]); })[0]; inp.value = c ? ((c[lang] && c[lang].name) || c.name.replace(/\s*\(.*\)$/, '')) : decodeURIComponent(pq[1]); inp.dispatchEvent(new Event('input')); } }
     else if (path === 'mapa') viewMap();
+    else if (path === 'galeria') { var gq = query.match(/n=([^&]+)/); viewGallery(gq ? decodeURIComponent(gq[1]) : ''); }
     else if (path === 'todos') viewAll();
     else if (parts[0] === 'buscar') viewSearch(parts.slice(1).join('/'));
     else if (path === 'azar') { var r = ARTS[Math.floor(Math.random() * ARTS.length)]; location.replace(href('a/' + r.id)); return; }
