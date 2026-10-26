@@ -184,7 +184,7 @@
     'galina-sergeevna': 'galina-sergeevna', plyushka: 'plyushka', 'natalia-verdegrad': 'natalia-verdegrad', lis: 'zorro', ael: 'ael',
     'oksana-swan': 'oxana', 'oxana-voice': 'oxana', 'octavio-grande': 'octavio-grande', 'presidente-sinea': 'octavio-grande',
     'doktor-krein': 'doctor-crane', zver: 'bestia', 'presidente-futbol': 'fafi', 'sasha-voice': 'ael',
-    laura: 'laura-estelar', luciano: 'luciano', vitka: 'vitka'
+    laura: 'laura-estelar', luciano: 'luciano', vitka: 'vitka', 'natalia-pt': 'natalia-pt'
   };
 
   /* ---------- Utilidades ---------- */
@@ -290,13 +290,22 @@
       return '<button type="button" class="g-item" data-g="' + (base + i) + '" aria-label="' + esc(novelBySlug[it.slug].title + ' — ' + illCap(it)) + '"><img loading="lazy" src="' + it.src + '" alt=""><span class="g-cap">' + esc(illCap(it)) + '</span></button>';
     }).join('') + '</div>';
   }
+  // Ficha: la imagen principal y, si el artículo tiene a.gal, más retratos en miniatura; todas se abren en el visor.
+  function ibImages(a, l) {
+    var srcs = [articleImg(a)].concat(a.gal || []);
+    if (srcs.length === 1) return '<div class="ib-img"><img src="' + srcs[0] + '" alt=""></div>';
+    var base = GAL.length;
+    GAL = GAL.concat(srcs.map(function (src) { return { src: src, cap: l.t }; }));
+    return '<div class="ib-img"><button type="button" class="ib-open" data-g="' + base + '"><img src="' + srcs[0] + '" alt=""></button></div>' +
+      '<div class="ib-thumbs">' + srcs.map(function (src, i) { return '<button type="button" class="ib-open' + (i ? '' : ' on') + '" data-g="' + (base + i) + '"><img loading="lazy" src="' + src + '" alt=""></button>'; }).join('') + '</div>';
+  }
   var lb = null, lbIdx = 0, lbTouch = null;
   function lbShow(i) {
     if (!GAL.length) return;
     lbIdx = (i + GAL.length) % GAL.length;
-    var it = GAL[lbIdx], n = novelBySlug[it.slug];
+    var it = GAL[lbIdx], n = it.slug && novelBySlug[it.slug];
     lb.querySelector('img').src = it.src;
-    lb.querySelector('.lb-cap').innerHTML = '<a href="' + href('n/' + it.slug) + '">' + esc(n.title) + '</a> · ' + esc(illCap(it)) + ' <span class="muted">' + (lbIdx + 1) + ' / ' + GAL.length + '</span>';
+    lb.querySelector('.lb-cap').innerHTML = (n ? '<a href="' + href('n/' + it.slug) + '">' + esc(n.title) + '</a> · ' + esc(illCap(it)) : esc(it.cap || '')) + ' <span class="muted">' + (lbIdx + 1) + ' / ' + GAL.length + '</span>';
   }
   function lbOpen(i) {
     if (!lb) {
@@ -335,7 +344,7 @@
     else if (e.key === 'ArrowLeft') lbShow(lbIdx - 1);
   });
   document.addEventListener('click', function (e) {
-    var b = e.target.closest('.g-item');
+    var b = e.target.closest('.g-item, .ib-open');
     if (b) lbOpen(+b.getAttribute('data-g'));
   });
 
@@ -473,7 +482,7 @@
     // Ficha
     var rows = (l.box || []).map(function (r) { return '<tr><th>' + esc(r[0]) + '</th><td>' + inline(r[1]) + '</td></tr>'; }).join('');
     h.push('<aside class="infobox" style="--uc:' + uniColor(a.uni) + '"><div class="ib-title">' + esc(l.t) + '</div>' +
-      '<div class="ib-img"><img src="' + articleImg(a) + '" alt=""></div>' +
+      ibImages(a, l) +
       '<table><tbody><tr><th>' + t('series') + '</th><td>' + (byId[a.uni] && a.uni !== a.id ? '<a href="' + href('a/' + a.uni) + '">' + esc(uniName(a.uni)) + '</a>' : esc(uniName(a.uni))) + '</td></tr>' + rows + '</tbody></table></aside>');
     h.push('</div>');
 

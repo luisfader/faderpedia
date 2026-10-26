@@ -57,7 +57,7 @@ El nombre reaparece en casi todos los universos: [[luis-fader|Luis Fader]], el m
 });
 
 A({
-  id: 'natasha', type: 'personaje', uni: 'hora-salvaje', img: 'img/chars/natasha-1.webp',
+  id: 'natasha', type: 'personaje', uni: 'hora-salvaje', img: 'img/chars/natasha-1.webp', gal: ['img/chars/natasha-2.webp'],
   novels: ['dikij-chas', 'divlji-chas', 'dikij-chas-2', 'dikij-chas-karnaval-razdora', 'epicheskij-match', 'divlji-chas-7', 'la-savo-de-zmaj', 'ora-selvaggia-venezia'],
   see: ['luis', 'zmaj', 'milena', 'la-hora-salvaje', 'natalia'],
   es: {
@@ -667,7 +667,7 @@ Luis ya no puede morir. Para volver a ser mortal busca el frasco perdido desde l
 });
 
 A({
-  id: 'natalia-fader', type: 'personaje', uni: 'fader', img: 'img/covers/el-misterio-de-los-fader.webp',
+  id: 'natalia-fader', type: 'personaje', uni: 'fader', img: 'img/chars/natalia-fader-1.webp', gal: ['img/chars/natalia-fader-2.webp'],
   novels: ['el-misterio-de-los-fader', 'tajna-semi-fader', 'operacion-londres'],
   see: ['luis-fader', 'maldicion-fader', 'natalia'],
   es: {
@@ -1291,7 +1291,7 @@ A({
 
 
 A({
-  id: "jana", type: "personaje", uni: "multiverso", img: "img/chars/jana-praga.webp",
+  id: "jana", type: "personaje", uni: "multiverso", img: "img/chars/jana-praga.webp", gal: ["img/chars/jana-praga-2.webp"],
   novels: ["podzemni-tajemstvi"],
   see: ["jana-predtucha","luis","multiverso"],
   es: {

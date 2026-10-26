@@ -19,6 +19,7 @@ W.ARTICLES.forEach(a => {
   (a.novels || []).forEach(s => novels.has(s) || err(a.id + ': novela inexistente ' + s));
   (a.see || []).forEach(s => ids.has(s) || err(a.id + ': see inexistente ' + s));
   if (a.img && !fs.existsSync(path.join(root, a.img))) err(a.id + ': imagen inexistente ' + a.img);
+  (a.gal || []).forEach(g => fs.existsSync(path.join(root, g)) || err(a.id + ': imagen inexistente ' + g));
 });
 (W.FACTS || []).forEach(f => ['es', 'ru', 'en'].forEach(l => { if (!f[l]) return err('fact sin ' + l + ': ' + f.es.slice(0, 40)); for (const m of f[l].matchAll(/\[\[([a-z0-9-]+)/g)) if (!ids.has(m[1])) err('fact: ' + m[1]); }));
 (W.LINKS || []).forEach(k => { [k[0], k[1]].forEach(u => ids.has(u) || err('link: ' + u)); if (!k[2].en) err('link sin en: ' + k[0] + '-' + k[1]); });

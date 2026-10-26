@@ -194,3 +194,28 @@ When the Heart of the World awakens, it turns red and dozens of dots appear on t
 
 Laura and Luciano's victory does not destroy the enemy, but it takes away what he came for. In [[regreso-atlantida|Atlantis]], the elders warn that this was only the **vanguard**: the awakening of the Heart was a signal to the forces that destroyed Atlantis, and their next target will be the Earth. At the end, the heroes' "new mission" begins with a green and violet glow in the sky.`
 });
+
+EN('natalia-pt', {
+  t: 'Natalia (Do outro lado do mundo)',
+  s: 'The young Russian heroine of Do outro lado do mundo: she chats with Luiz online, asks him to come to Moscow and turns out to be a witch wanted by the "Mystical Interpol". A good witch.',
+  box: [['Portuguese', 'Natalia / Natália'], ['Novel', '[[do-outro-lado-do-mundo|Do outro lado do mundo]]'], ['Age', '20'], ['City', '[[moscu|Moscow]]'], ['Beloved', 'Luiz, from Brazil'], ['Secret', 'She is a good witch'], ['Wanted by', 'The "Mystical Interpol"']],
+  b: `*Do outro lado do mundo* ("On the other side of the world") is a short novel in Portuguese for beginners. **Natalia** is twenty, lives in Russia and chats online with **Luiz**, a Brazilian of the same age. One day she writes: "—I want to meet you. Will you come?" He answers yes at once… although he has no money for the plane.
+
+## The messages
+
+Natalia is always there through the phone, and each message gives Luiz a strength he did not know he had:
+
+- At half-time in a football match: "How are you, my love? It's cold here in Russia. I love you very much." Luiz scores three goals.
+- "I miss you. When are you coming?", just before he passes himself off as a guitarist without ever having played.
+- After the concert: "I dreamed you were playing music for me. It was beautiful."
+- On the phone she tells him her plans: Red Square, the Kremlin, blinis with caviar and the Moscow metro, "which looks like a palace".
+- In the Formula 1 race, Luiz hears her voice: "I believe in you, my love!"
+
+## The witch
+
+Agent Castro of the mystical police shows Luiz photos of Natalia in different clothes and in ancient places: according to him, she is **a witch wanted by the Mystical Interpol** who uses magic to deceive people. Luiz does not believe it; his eyes blaze with orange fire and he escapes. At the airport he turns a notebook into a passport and flies to Russia.
+
+At Domodedovo airport, Natalia is waiting. "—You really came! No passport, no money… This is magic." Luiz looks at her and understands: "—And you… you're a witch. A good witch, aren't you?" She smiles: "—Yes, Luiz. And you are a wizard too. A very good and very powerful one." Hand in hand, they go out to walk through snowy Red Square.
+
+> She is another of the multiverse's [[natalia|Natalias]], and Luiz another version of [[luis|Luis]]: here, two twenty-year-olds whose love is magical, "literally".`
+});

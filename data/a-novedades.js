@@ -417,6 +417,62 @@ En la secuela rusa, **Вася** es un muchacho flaco de la fortaleza, con una m
   }
 });
 
+/* ---------- Do outro lado do mundo ---------- */
+
+A({
+  id: 'natalia-pt', type: 'personaje', uni: 'otros', img: 'img/chars/natalia-pt-1.webp',
+  novels: ['do-outro-lado-do-mundo'],
+  see: ['natalia', 'luis', 'moscu', 'amor'],
+  es: {
+    t: 'Natalia (Do outro lado do mundo)',
+    s: 'La joven rusa de Do outro lado do mundo: chatea con Luiz por internet, le pide que venga a Moscú y resulta ser una bruja buscada por la «Interpol Mística». Una bruja buena.',
+    box: [['Portugués', 'Natalia / Natália'], ['Novela', '[[do-outro-lado-do-mundo|Do outro lado do mundo]]'], ['Edad', '20 años'], ['Ciudad', '[[moscu|Moscú]]'], ['Amado', 'Luiz, de Brasil'], ['Secreto', 'Es una bruja buena'], ['La busca', 'La «Interpol Mística»']],
+    b: `*Do outro lado do mundo* («Al otro lado del mundo») es una novela corta en portugués para principiantes. **Natalia** tiene veinte años, vive en Rusia y chatea por internet con **Luiz**, un brasileño de su misma edad. Un día le escribe: «—Quiero conocerte. ¿Vienes?». Él responde enseguida que sí… aunque no tiene dinero para el avión.
+
+## Los mensajes
+
+Natalia está siempre presente a través del teléfono, y cada mensaje le da a Luiz una fuerza que no sabía que tenía:
+
+- En el descanso de un partido de fútbol: «¿Cómo estás, mi amor? Aquí en Rusia hace frío. Te quiero mucho». Luiz marca tres goles.
+- «Te echo de menos. ¿Cuándo vienes?», justo antes de que él se haga pasar por guitarrista sin haber tocado nunca.
+- Después del concierto: «Soñé que tocabas música para mí. Fue precioso».
+- Por teléfono le cuenta sus planes: la Plaza Roja, el Kremlin, blinis con caviar y el metro de Moscú, «que parece un palacio».
+- En la carrera de Fórmula 1, Luiz oye su voz: «Creo en ti, mi amor».
+
+## La bruja
+
+El agente Castro, de la policía mística, le enseña a Luiz fotos de Natalia con ropa distinta y en lugares antiguos: según él, es **una bruja buscada por la Interpol Mística** que usa la magia para engañar a la gente. Luiz no lo cree; sus ojos se encienden de fuego naranja y escapa. En el aeropuerto convierte un cuaderno en pasaporte y vuela a Rusia.
+
+En el aeropuerto de Domodédovo, Natalia lo espera. «—¡De verdad viniste! Sin pasaporte, sin dinero… Esto es magia». Luiz la mira y lo entiende: «—Y tú… eres una bruja. Una bruja buena, ¿verdad?». Ella sonríe: «—Sí, Luiz. Y tú también eres un brujo. Un brujo muy bueno y muy poderoso». Los dos salen de la mano a pasear por la Plaza Roja nevada.
+
+> Es otra de las [[natalia|Natalias]] del multiverso, y Luiz, otra versión de [[luis|Luis]]: aquí, dos jóvenes de veinte años cuyo amor es mágico, «literalmente».`
+  },
+  ru: {
+    t: 'Наталья («Do outro lado do mundo»)',
+    s: 'Юная русская героиня «Do outro lado do mundo»: переписывается с Луисом по интернету, зовёт его в Москву и оказывается ведьмой, которую ищет «Мистический Интерпол». Доброй ведьмой.',
+    box: [['Португальский', 'Natalia / Natália'], ['Роман', '[[do-outro-lado-do-mundo|Do outro lado do mundo]]'], ['Возраст', '20 лет'], ['Город', '[[moscu|Москва]]'], ['Любимый', 'Луис (Luiz) из Бразилии'], ['Тайна', 'добрая ведьма'], ['Её ищет', '«Мистический Интерпол»']],
+    b: `«Do outro lado do mundo» («На другом конце света») — короткий роман на португальском для начинающих. **Наталье** двадцать лет, она живёт в России и переписывается по интернету с **Луисом** (Luiz), бразильцем того же возраста. Однажды она пишет: «— Хочу с тобой познакомиться. Приедешь?» Он сразу отвечает «да»… хотя денег на самолёт у него нет.
+
+## Сообщения
+
+Наталья всё время рядом — через телефон, и каждое её сообщение даёт Луису силу, о которой он не подозревал:
+
+- В перерыве футбольного матча: «Как ты, любимый? У нас в России холодно. Очень тебя люблю». Луис забивает три гола.
+- «Скучаю. Когда ты приедешь?» — прямо перед тем, как он выдаёт себя за гитариста, ни разу не державшего гитару.
+- После концерта: «Мне снилось, что ты играешь для меня. Это было прекрасно».
+- По телефону она рассказывает о планах: Красная площадь, Кремль, блины с икрой и московское метро, «похожее на дворец».
+- На гонке «Формулы-1» Луис слышит её голос: «Я в тебя верю, любимый!»
+
+## Ведьма
+
+Агент Кастро из мистической полиции показывает Луису фотографии Натальи в разной одежде и в старинных местах: по его словам, она **ведьма, которую разыскивает Мистический Интерпол**, и обманывает людей магией. Луис не верит; его глаза вспыхивают оранжевым огнём, и он убегает. В аэропорту он превращает блокнот в паспорт и летит в Россию.
+
+В Домодедове Наталья ждёт его. «— Ты правда приехал! Без паспорта, без денег… Это магия». Луис смотрит ей в глаза и понимает: «— А ты… ты ведьма. Добрая ведьма, да?» Она улыбается: «— Да, Луис. А ты тоже колдун. Очень добрый и очень сильный». Держась за руки, они идут гулять по заснеженной Красной площади.
+
+> Это ещё одна [[natalia|Наталья]] мультивселенной, а Луис — ещё одна версия [[luis|Луиса]]: здесь это двое двадцатилетних, чья любовь волшебна «в буквальном смысле».`
+  }
+});
+
 /* ---------- Julián ---------- */
 
 A({
