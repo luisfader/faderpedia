@@ -14,7 +14,7 @@
       tag: 'La enciclopedia del multiverso', search: 'Buscar en Faderpedia', skip: 'Saltar al contenido',
       home: 'Portada', explore: 'Explorar', universes: 'Universos', categories: 'Categorías', tools: 'Herramientas',
       library: 'Biblioteca', people: 'Índice de personajes', map: 'Mapa del multiverso', random: 'Artículo al azar', all: 'Todos los artículos',
-      heroEyebrow: 'Enciclopedia en español y ruso',
+      heroEyebrow: 'Enciclopedia en español, ruso e inglés',
       heroTitle: 'El multiverso de <em>Robert Fader</em>',
       heroText: 'Dragones serbios, fortalezas turquesa, trenes fantasma, esfinges que pasean por la Nevski y una familia mendocina que no puede morir. Todo lo que hay que saber sobre los mundos de Litmir, en un solo lugar.',
       start: 'Empezar por el multiverso', openMap: 'Ver el mapa',
@@ -45,7 +45,7 @@
       tag: 'Энциклопедия мультивселенной', search: 'Поиск по Фадерпедии', skip: 'Перейти к содержанию',
       home: 'Главная', explore: 'Обзор', universes: 'Вселенные', categories: 'Категории', tools: 'Инструменты',
       library: 'Библиотека', people: 'Указатель персонажей', map: 'Карта мультивселенной', random: 'Случайная статья', all: 'Все статьи',
-      heroEyebrow: 'Энциклопедия на испанском и русском',
+      heroEyebrow: 'Энциклопедия на испанском, русском и английском',
       heroTitle: 'Мультивселенная <em>Роберта Фадера</em>',
       heroText: 'Сербские драконы, бирюзовые крепости, призрачные поезда, сфинксы на Невском и мендосская семья, которая не может умереть. Всё о мирах «Литературного мира» — в одном месте.',
       start: 'Начать с мультивселенной', openMap: 'Открыть карту',
@@ -71,23 +71,54 @@
       types: { universo: 'Вселенные', personaje: 'Персонажи', criatura: 'Существа', lugar: 'Места', organizacion: 'Организации', fenomeno: 'Явления', artefacto: 'Артефакты', acontecimiento: 'События', concepto: 'Понятия', historia: 'Исторические отсылки', autor: 'Автор' },
       type1: { universo: 'Вселенная', personaje: 'Персонаж', criatura: 'Существо', lugar: 'Место', organizacion: 'Организация', fenomeno: 'Явление', artefacto: 'Артефакт', acontecimiento: 'Событие', concepto: 'Понятие', historia: 'Историческая отсылка', autor: 'Автор' },
       catDesc: { universo: 'Большие саги и циклы', personaje: 'Герои, злодеи и архетипы', criatura: 'Драконы, лисы, боги и звери', lugar: 'Реальные и вымышленные города', organizacion: 'Министерства, ордены и федерации', fenomeno: 'Часы, проклятия и аномалии', artefacto: 'Маски, пергаменты и эликсиры', acontecimiento: 'Карнавалы и чемпионаты', concepto: 'Идеи, которые проходят сквозь всё', historia: 'Реальные люди, места и события', autor: 'Тот, кто это написал' }
+    },
+    en: {
+      tag: 'The encyclopedia of the multiverse', search: 'Search Faderpedia', skip: 'Skip to content',
+      home: 'Main page', explore: 'Explore', universes: 'Universes', categories: 'Categories', tools: 'Tools',
+      library: 'Library', people: 'Character index', map: 'Map of the multiverse', random: 'Random article', all: 'All articles',
+      heroEyebrow: 'Encyclopedia in English, Spanish and Russian',
+      heroTitle: 'The multiverse of <em>Robert Fader</em>',
+      heroText: 'Serbian dragons, turquoise fortresses, ghost trains, sphinxes strolling down Nevsky Prospect and a family from Mendoza that cannot die. Everything you need to know about the worlds of Litmir, in one place.',
+      start: 'Start with the multiverse', openMap: 'Open the map',
+      stArticles: 'articles', stNovels: 'novels', stLangs: 'languages', stPeople: 'characters', stIll: 'illustrations',
+      gallery: 'Gallery', illustrations: 'Illustrations', chap: 'Ch.', wip: 'In progress', galText: 'The chapter illustrations from Litmir, novel by novel. Tap a picture to enlarge it and browse to the next one.', allNovels: 'All novels', seeAllIll: 'See all', fromGallery: 'From the gallery', close: 'Close', prev: 'Previous', next: 'Next',
+      featured: 'Article of the day', prevDays: 'Previous days', today: 'Today', readMore: 'Read the article', didYouKnow: 'Did you know…', another: 'More facts',
+      exploreUni: 'Explore the universes', byCat: 'By category', latest: 'Novels of 2026', articlesN: 'articles',
+      contents: 'Contents', appearsIn: 'Appears in', seeAlso: 'See also', linksHere: 'What links here',
+      inUniverse: 'Articles in this universe', novelsOfUni: 'Novels in this universe',
+      notFound: 'There is no article with that name.', backHome: 'Back to the main page',
+      results: 'Search results for', noResults: 'Nothing found. Try another name or another language.',
+      allResults: 'See all results', articles: 'Articles', novels: 'Novels', characters: 'Characters',
+      libHead: 'Library', libText: 'Every novel published on Litmir, grouped by universe. Each card links to the articles that mention it.',
+      filterNovels: 'Filter by title…', allLangs: 'All languages', standalone: 'Standalone stories',
+      chapters: 'chapters', year: 'Year', lang: 'Language', genre: 'Genre', series: 'Universe', translations: 'Other versions',
+      origText: 'Synopsis in the original language', readSource: 'Read the chapters on Litmir (GitHub)', mentioned: 'Articles that mention it', cast: 'Characters',
+      peopleHead: 'Character index', peopleText: 'Almost two hundred characters from the Litmir catalogue. Those with an article of their own have a highlighted link.',
+      filterPeople: 'Find a character…', allUnis: 'All', article: 'article',
+      mapHead: 'Map of the multiverse', mapText: 'Fader’s universes are not isolated: characters cross from one story to another, names repeat and objects travel. Tap a universe to highlight its connections.',
+      catHead: 'Category', allHead: 'All articles', allText: 'Alphabetical index of the encyclopedia.',
+      footer: 'Faderpedia is a readers’ encyclopedia about the work of Robert Fader. The novels can be read on <a href="https://github.com/luisfader/litmir">Litmir</a>.',
+      adult: 'Adults only', orig: 'original',
+      types: { universo: 'Universes', personaje: 'Characters', criatura: 'Creatures', lugar: 'Places', organizacion: 'Organizations', fenomeno: 'Phenomena', artefacto: 'Artifacts', acontecimiento: 'Events', concepto: 'Concepts', historia: 'Historical references', autor: 'Author' },
+      type1: { universo: 'Universe', personaje: 'Character', criatura: 'Creature', lugar: 'Place', organizacion: 'Organization', fenomeno: 'Phenomenon', artefacto: 'Artifact', acontecimiento: 'Event', concepto: 'Concept', historia: 'Historical reference', autor: 'Author' },
+      catDesc: { universo: 'The great sagas and cycles', personaje: 'Heroes, villains and archetypes', criatura: 'Dragons, foxes, gods and beasts', lugar: 'Real and imaginary cities', organizacion: 'Ministries, orders and federations', fenomeno: 'Hours, curses and anomalies', artefacto: 'Masks, scrolls and elixirs', acontecimiento: 'Carnivals and championships', concepto: 'Ideas that run through everything', historia: 'Real people, places and events', autor: 'The one who wrote it' }
     }
   };
   var TYPE_ORDER = ['universo', 'personaje', 'criatura', 'lugar', 'organizacion', 'fenomeno', 'artefacto', 'acontecimiento', 'concepto', 'historia', 'autor'];
   var TYPE_ICON = { universo: '✦', personaje: '☺', criatura: '🐉', lugar: '⌖', organizacion: '⚑', fenomeno: '☄', artefacto: '⚱', acontecimiento: '⚽', concepto: '∞', historia: '⌛', autor: '✒' };
 
   var UNIS = {
-    'hora-salvaje': { es: 'La hora salvaje', ru: 'Дикий час', series: 'ora-selvaggia' },
-    'utopia': { es: 'Utopía Turquesa', ru: 'Наша Утопия', series: 'predchuvstvie' },
-    'sinea': { es: 'Historias de Sinea', ru: 'Истории Синеи', series: 'sinea' },
-    'fader': { es: 'Los Fader', ru: 'Тайна семьи Фадер', series: 'fader' },
-    'resonancia': { es: 'Resonancia del amor', ru: 'Резонанс любви' },
-    'olas': { es: 'Ondas de amor', ru: 'Волны любви', series: 'volny-lyubvi' },
-    'venecia': { es: 'Máscara de Venecia', ru: 'Венецианская маска', series: 'roberto-natalia' },
-    'praga': { es: 'El subsuelo de Praga', ru: 'Пражское подземелье', series: 'prazske-podzemi' },
-    'estelar': { es: 'Romance estelar', ru: 'Звёздный роман' },
-    'multiverso': { es: 'Multiverso', ru: 'Мультивселенная' },
-    'otros': { es: 'Historias independientes', ru: 'Отдельные истории' }
+    'hora-salvaje': { es: 'La hora salvaje', ru: 'Дикий час', en: 'The Wild Hour', series: 'ora-selvaggia' },
+    'utopia': { es: 'Utopía Turquesa', ru: 'Наша Утопия', en: 'Turquoise Utopia', series: 'predchuvstvie' },
+    'sinea': { es: 'Historias de Sinea', ru: 'Истории Синеи', en: 'Sinea Stories', series: 'sinea' },
+    'fader': { es: 'Los Fader', ru: 'Тайна семьи Фадер', en: 'The Faders', series: 'fader' },
+    'resonancia': { es: 'Resonancia del amor', ru: 'Резонанс любви', en: 'Resonance of Love' },
+    'olas': { es: 'Ondas de amor', ru: 'Волны любви', en: 'Waves of Love', series: 'volny-lyubvi' },
+    'venecia': { es: 'Máscara de Venecia', ru: 'Венецианская маска', en: 'The Venetian Mask', series: 'roberto-natalia' },
+    'praga': { es: 'El subsuelo de Praga', ru: 'Пражское подземелье', en: 'Prague Underground', series: 'prazske-podzemi' },
+    'estelar': { es: 'Romance estelar', ru: 'Звёздный роман', en: 'A Starlit Romance' },
+    'multiverso': { es: 'Multiverso', ru: 'Мультивселенная', en: 'Multiverse' },
+    'otros': { es: 'Historias independientes', ru: 'Отдельные истории', en: 'Standalone stories' }
   };
   var UNI_ORDER = ['hora-salvaje', 'utopia', 'sinea', 'fader', 'resonancia', 'olas', 'venecia', 'praga', 'estelar', 'otros'];
   var NOVEL_UNI_OVERRIDE = {
@@ -102,7 +133,8 @@
   };
   var LANG_NAMES = {
     es: { es: 'español', ru: 'ruso', it: 'italiano', en: 'inglés', de: 'alemán', fr: 'francés', tr: 'turco', pt: 'portugués', cs: 'checo', pl: 'polaco', sr: 'serbio', eo: 'esperanto', isv: 'interslavo', vo: 'volapük', ia: 'interlingua', ld: 'lingwa de planeta', la: 'latín', sw: 'suajili', bg: 'búlgaro' },
-    ru: { es: 'испанский', ru: 'русский', it: 'итальянский', en: 'английский', de: 'немецкий', fr: 'французский', tr: 'турецкий', pt: 'португальский', cs: 'чешский', pl: 'польский', sr: 'сербский', eo: 'эсперанто', isv: 'межславянский', vo: 'волапюк', ia: 'интерлингва', ld: 'лингва де планета', la: 'латынь', sw: 'суахили', bg: 'болгарский' }
+    ru: { es: 'испанский', ru: 'русский', it: 'итальянский', en: 'английский', de: 'немецкий', fr: 'французский', tr: 'турецкий', pt: 'португальский', cs: 'чешский', pl: 'польский', sr: 'сербский', eo: 'эсперанто', isv: 'межславянский', vo: 'волапюк', ia: 'интерлингва', ld: 'лингва де планета', la: 'латынь', sw: 'суахили', bg: 'болгарский' },
+    en: { es: 'Spanish', ru: 'Russian', it: 'Italian', en: 'English', de: 'German', fr: 'French', tr: 'Turkish', pt: 'Portuguese', cs: 'Czech', pl: 'Polish', sr: 'Serbian', eo: 'Esperanto', isv: 'Interslavic', vo: 'Volapük', ia: 'Interlingua', ld: 'Lingwa de Planeta', la: 'Latin', sw: 'Swahili', bg: 'Bulgarian' }
   };
 
   /* ---------- Índices ---------- */
@@ -129,7 +161,8 @@
   // Enlaces entrantes
   var backlinks = {};
   ARTS.forEach(function (a) {
-    ['es', 'ru'].forEach(function (l) {
+    ['es', 'ru', 'en'].forEach(function (l) {
+      if (!a[l]) return;
       var src = (a[l].b || '') + ' ' + JSON.stringify(a[l].box || []);
       var re = /\[\[([a-z0-9-]+)/g, m;
       while ((m = re.exec(src))) {
@@ -317,7 +350,7 @@
     }
     h.push('<h4>' + t('explore') + '</h4>');
     item('', '⌂', t('home'));
-    item('a/multiverso', '∞', lang === 'es' ? 'Multiverso Fader' : 'Мультивселенная');
+    item('a/multiverso', '∞', { es: 'Multiverso Fader', ru: 'Мультивселенная', en: 'Fader Multiverse' }[lang]);
     item('mapa', '◎', t('map'));
     item('biblioteca', '❒', t('library'), '<span class="count">' + LIB.novels.length + '</span>');
     item('personajes', '☺', t('people'), '<span class="count">' + LIB.characters.length + '</span>');
@@ -375,7 +408,7 @@
     h.push('<div class="home-grid">');
     if (feat) {
       var fl = L(feat);
-      var dateStr = new Date().toLocaleDateString(lang === 'ru' ? 'ru-RU' : 'es-ES', { day: 'numeric', month: 'long' });
+      var dateStr = new Date().toLocaleDateString({ es: 'es-ES', ru: 'ru-RU', en: 'en-GB' }[lang], { day: 'numeric', month: 'long' });
       var prev = [1, 2, 3].map(function (k) { return articleOfDay(day - k); }).filter(function (a) { return a && a !== feat; });
       h.push('<article class="card" style="--uc:' + uniColor(feat.uni) + '"><h3>★ ' + t('featured') + ' <span class="feat-date">' + esc(dateStr) + '</span></h3>' +
         '<div class="featured"><a href="' + href('a/' + feat.id) + '"><img src="' + articleImg(feat) + '" alt=""></a><div>' +
@@ -411,7 +444,7 @@
     });
     h.push('</div>');
 
-    var recent = LIB.novels.filter(function (n) { return n.year === 2026 && n.cover && (n.lang === 'es' || n.lang === 'ru'); });
+    var recent = LIB.novels.filter(function (n) { return n.year === 2026 && n.cover && (n.lang === 'es' || n.lang === 'ru' || n.lang === 'en'); });
     if (recent.length) {
       h.push('<h2 class="section-title">' + t('latest') + ' <small><a href="' + href('biblioteca') + '">' + t('library') + ' →</a></small></h2><div class="shelf">' + recent.map(function (n) { return bookCard(n); }).join('') + '</div>');
     }
@@ -422,7 +455,7 @@
   function renderFacts() {
     var box = document.getElementById('facts');
     if (!box) return;
-    box.innerHTML = shuffle(FACTS).slice(0, 4).map(function (f) { return '<li>…' + inline(f[lang]) + '</li>'; }).join('');
+    box.innerHTML = shuffle(FACTS).slice(0, 4).map(function (f) { return '<li>…' + inline(f[lang] || f.es) + '</li>'; }).join('');
   }
 
   function viewArticle(id) {
@@ -601,10 +634,10 @@
     var loc = c[lang] || null;
     var base = c.name.replace(/\s*\(.*\)$/, '').split(' / ');
     var name = loc && loc.name ? loc.name : (lang === 'ru' && base[1] ? base[1] : base[0]);
-    var desc = loc && loc.description ? loc.description : (c.es && c.es.description) || c.role;
+    var desc = loc && loc.description ? loc.description : (lang !== 'ru' && c.es && c.es.description) || c.role;
     var art = CHAR_ART[c.id] && byId[CHAR_ART[c.id]] ? CHAR_ART[c.id] : null;
     var u = charUni(c);
-    var tag = c.name.match(/\(([^)]+)\)$/);
+    var tag = loc && loc.tag !== undefined ? (loc.tag ? [0, loc.tag] : null) : c.name.match(/\(([^)]+)\)$/);
     return '<div class="person" style="--uc:' + uniColor(u) + '"><b>' + (art ? '<a href="' + href('a/' + art) + '">' + esc(name) + '</a>' : esc(name)) + '</b>' +
       (tag ? ' <span class="muted" style="font-size:12.5px">· ' + esc(tag[1]) + '</span>' : '') +
       (art ? '<a class="p-art" href="' + href('a/' + art) + '">→ ' + t('article') + '</a>' : '') +
@@ -624,7 +657,7 @@
       var list = LIB.characters.filter(function (c) {
         if (current && charUni(c) !== current) return false;
         if (!nq) return true;
-        var hay = c.name + ' ' + c.role + ' ' + (c.es ? c.es.name + ' ' + c.es.description : '') + ' ' + (c.ru ? c.ru.name + ' ' + c.ru.description : '');
+        var hay = c.name + ' ' + c.role + ' ' + (c.es ? c.es.name + ' ' + c.es.description : '') + ' ' + (c.ru ? c.ru.name + ' ' + c.ru.description : '') + ' ' + (c.en ? c.en.name + ' ' + c.en.description : '');
         return norm(hay).indexOf(nq) >= 0;
       });
       list.sort(function (a, b) { return (CHAR_ART[b.id] ? 1 : 0) - (CHAR_ART[a.id] ? 1 : 0); });
@@ -667,11 +700,11 @@
         '<text x="' + p.x + '" y="' + (p.y + r + 22) + '">' + esc(a ? L(a).t.replace(/\s*\(.*\)$/, '') : uniName(u)) + '</text>' +
         '<text class="sub" x="' + p.x + '" y="' + (p.y + r + 38) + '">' + (sub || cnt + ' ' + t('articlesN')) + '</text></g>';
     }
-    svg.push(node('multiverso', 30, esc(lang === 'es' ? 'Robert Fader' : 'Роберт Фадер')));
+    svg.push(node('multiverso', 30, esc(lang === 'ru' ? 'Роберт Фадер' : 'Robert Fader')));
     nodes.forEach(function (u) { svg.push(node(u, 20)); });
     svg.push('</svg>');
     var list = LINKS.map(function (lk, i) {
-      return '<li data-i="' + i + '"><div class="pair"><span class="dot" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:' + uniColor(lk[0]) + '"></span><a href="' + href('a/' + lk[0]) + '">' + esc(uniName(lk[0])) + '</a> ↔ <span class="dot" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:' + uniColor(lk[1]) + '"></span><a href="' + href('a/' + lk[1]) + '">' + esc(uniName(lk[1])) + '</a></div><span class="muted">' + esc(lk[2][lang]) + '</span></li>';
+      return '<li data-i="' + i + '"><div class="pair"><span class="dot" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:' + uniColor(lk[0]) + '"></span><a href="' + href('a/' + lk[0]) + '">' + esc(uniName(lk[0])) + '</a> ↔ <span class="dot" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:' + uniColor(lk[1]) + '"></span><a href="' + href('a/' + lk[1]) + '">' + esc(uniName(lk[1])) + '</a></div><span class="muted">' + esc(lk[2][lang] || lk[2].es) + '</span></li>';
     }).join('');
     setMain('<header class="page-head"><h1>◎ ' + t('mapHead') + '</h1><p>' + t('mapText') + '</p></header><div class="map-wrap fade-in">' + svg.join('') + '</div><ul class="links-list">' + list + '</ul>', t('mapHead'));
 
@@ -710,13 +743,13 @@
   function buildIndex() {
     INDEX = [];
     ARTS.forEach(function (a) {
-      INDEX.push({ kind: 'a', id: a.id, keys: norm(a.es.t + ' | ' + a.ru.t + ' | ' + a.id), body: norm(a.es.s + ' ' + a.ru.s), a: a });
+      INDEX.push({ kind: 'a', id: a.id, keys: norm(a.es.t + ' | ' + a.ru.t + ' | ' + (a.en ? a.en.t : '') + ' | ' + a.id), body: norm(a.es.s + ' ' + a.ru.s + ' ' + (a.en ? a.en.s : '')), a: a });
     });
     LIB.novels.forEach(function (n) {
       INDEX.push({ kind: 'n', id: n.slug, keys: norm(n.title + ' | ' + n.slug), body: norm(n.genre || ''), n: n });
     });
     LIB.characters.forEach(function (c) {
-      INDEX.push({ kind: 'c', id: c.id, keys: norm(c.name + ' | ' + (c.es ? c.es.name : '') + ' | ' + (c.ru ? c.ru.name : '')), body: norm(c.role + ' ' + (c.es ? c.es.description : '') + ' ' + (c.ru ? c.ru.description : '')), c: c });
+      INDEX.push({ kind: 'c', id: c.id, keys: norm(c.name + ' | ' + (c.es ? c.es.name : '') + ' | ' + (c.ru ? c.ru.name : '') + ' | ' + (c.en ? c.en.name : '')), body: norm(c.role + ' ' + (c.es ? c.es.description : '') + ' ' + (c.ru ? c.ru.description : '') + ' ' + (c.en ? c.en.description : '')), c: c });
     });
   }
   function search(q) {
@@ -823,18 +856,19 @@
     sIn.placeholder = t('search');
     document.querySelector('.skip').textContent = t('skip');
     document.querySelectorAll('.lang-switch button').forEach(function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-lang') === lang ? 'true' : 'false'); });
-    document.getElementById('foot').innerHTML = '<p>' + t('footer') + '</p><p>Faderpedia · ' + ARTS.length + ' ' + t('stArticles') + ' · ES / RU</p>';
+    document.getElementById('foot').innerHTML = '<p>' + t('footer') + '</p><p>Faderpedia · ' + ARTS.length + ' ' + t('stArticles') + ' · ES / RU / EN</p>';
   }
 
   var lastRoute = null;
   function route() {
     var raw = location.hash.replace(/^#\/?/, '');
     var anchor = null;
-    var m = raw.match(/^(es|ru)\/?(.*)$/);
+    var m = raw.match(/^(es|ru|en)\/?(.*)$/);
     if (!m) {
       // Ancla dentro de la página actual
       if (raw && lastRoute !== null && document.getElementById(raw)) { document.getElementById(raw).scrollIntoView({ behavior: 'smooth' }); return; }
-      var pref = store('fp:lang') || ((navigator.language || '').toLowerCase().indexOf('ru') === 0 ? 'ru' : 'es');
+      var nav = (navigator.language || '').toLowerCase().slice(0, 2);
+      var pref = store('fp:lang') || (nav === 'ru' || nav === 'en' ? nav : 'es');
       location.replace('#/' + pref + '/' + raw);
       return;
     }
@@ -880,7 +914,7 @@
   document.querySelectorAll('.lang-switch button').forEach(function (b) {
     b.addEventListener('click', function () {
       var nl = b.getAttribute('data-lang');
-      var rest = location.hash.replace(/^#\/(es|ru)\/?/, '');
+      var rest = location.hash.replace(/^#\/(es|ru|en)\/?/, '');
       location.hash = '#/' + nl + '/' + rest;
     });
   });

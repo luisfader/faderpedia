@@ -94,7 +94,7 @@ A({
     box: [['Ruso', 'Лаура'], ['Novela', '[[zvezdnyj-roman|Звёздный роман]]'], ['Títulos', 'el Sello, la Guía, «hija de la Tierra»'], ['Señal', 'Un mapa de estrellas en la muñeca'], ['Amado', '[[luciano|Luciano]]'], ['Capacidad', 'Sostener la energía de dos mundos'], ['Vive en', 'La aldea… y la Atlántida']],
     b: `**Laura** llega a una aldea tranquila «para esconderse un tiempo del pasado». La ciudad la llama de vuelta —«brillante, rápida, segura de sí»—, porque allí no hay tiempo para revisar las propias decepciones. En el pueblo cada día se estira «como la miel de un tarro volcado». Incluso las estrellas le parecen sospechosamente ordenadas, como si alguien las hubiera colocado sobre terciopelo oscuro y olvidado explicarle por qué debía mirarlas.
 
-> No es la [[laura-bellini|Laura Bellini]] de Venecia: es otro nombre repetido del multiverso.
+> No es la [[laura-bellini|Laura Bellini]] de Florencia: es otro nombre repetido del multiverso.
 
 ## Carácter
 
@@ -126,7 +126,7 @@ Para ella «hogar» acaba teniendo dos sentidos: la vieja casa de madera que hue
     box: [['Испанский', 'Laura'], ['Роман', '[[zvezdnyj-roman|Звёздный роман]]'], ['Кто она', 'Печать, Проводник, «дитя Земли»'], ['Знак', 'карта звёздного неба на запястье'], ['Любимый', '[[luciano|Лусиано]]'], ['Дар', 'удерживать энергию двух миров'], ['Дом', 'деревня… и Атлантида']],
     b: `**Лаура** приезжает в тихую деревню, «чтобы ненадолго спрятаться от прошлого». Город зовёт её обратно — «яркий, быстрый, уверенный в себе»: там не остаётся времени подолгу разбирать собственные разочарования. А в деревне каждый день тянется, «словно мёд из перевёрнутой банки». Даже звёзды кажутся ей подозрительно правильными, будто кто-то расставил их по тёмному бархату и забыл объяснить, зачем на них смотреть.
 
-> Это не [[laura-bellini|Лаура Беллини]] из Венеции, а ещё одно повторяющееся имя мультивселенной.
+> Это не [[laura-bellini|Лаура Беллини]] из Флоренции, а ещё одно повторяющееся имя мультивселенной.
 
 ## Характер
 
@@ -588,7 +588,7 @@ La victoria de Laura y Luciano no destruye al enemigo, pero le quita lo que hab�
   a.uni = 'estelar';
   a.img = 'img/ill/zvezdnyj-roman/img-10.webp';
   a.see = ['estelar', 'llave-sello', 'corazon-del-mundo', 'regreso-atlantida', 'luciano', 'laura-estelar'].concat(a.see);
-  a.es.b = a.es.b.replace('salió Luciano', 'salió [[luciano|Luciano]]').replace('Laura se esconde', '[[laura-estelar|Laura]] se esconde');
+  a.es.b = a.es.b.replace('sale Luciano', 'sale [[luciano|Luciano]]').replace('Laura se esconde', '[[laura-estelar|Laura]] se esconde');
   a.ru.b = a.ru.b.replace('выходит Лусиано', 'выходит [[luciano|Лусиано]]').replace('Лаура прячется', '[[laura-estelar|Лаура]] прячется');
   a.es.b += `
 
