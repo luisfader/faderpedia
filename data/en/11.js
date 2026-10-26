@@ -133,9 +133,9 @@ At the end of chapter 3, Vasily reaches the old railway hospital where Dr Irina 
 });
 
 EN('vasia', {
-  t: 'Vasily "Vasya" (The Foreboding)',
-  s: 'The narrator of The Foreboding: an unarmed survivor whom Robert saves and turns into a recruiter for Our Utopia, with a motorbike and a list of three specialists to find.',
-  box: [['English', 'Vasily, "Vasya"'], ['Novel', '*The Foreboding* (in progress)'], ['Ally', '[[robert|Robert]]'], ['Mission', 'To find a doctor, an engineer and an agronomist'], ['Enemy', '[[camino-claro|The Clear Path]]']],
+  t: 'Vasya (Предчувствие 2 and The Foreboding)',
+  s: 'One name, two Vasyas of the Utopia. In Предчувствие 2 he is a teenager in the fortress who watches the adults and uncovers the traitor; in The Foreboding, the narrator whom Robert saves and turns into a recruiter, with a motorbike and a list of three specialists.',
+  box: [['Russian', 'Вася'], ['English', 'Vasily, "Vasya"'], ['Novels', '[[predchuvstvie-2|Предчувствие 2]]; *The Foreboding* (in progress)'], ['In Предчувствие 2', 'Leader of a gang of teenagers in the fortress'], ['Ally', '[[robert|Robert]]'], ['Mission', 'To find a doctor, an engineer and an agronomist'], ['Enemy', '[[camino-claro|The Clear Path]]']],
   b: `Four years after the Devastation, the sky has cleared but civilization has not returned. **Vasily** ("People call me Vasya") wanders unarmed and hungry through a northern city. His survival begins with a simple request for food in an empty shop, in front of a man pointing a rifle at him.
 
 ## Robert
@@ -152,7 +152,17 @@ Vasya points out where an enemy could get in, and Robert shows him his notebook:
 
 With a motorbike and that list, Vasya heads north… and finds the hospital taken over by the [[camino-claro|Clear Path]].
 
-> He is not the same character as the detective [[vasili|Vasili]] of *A Dangerous Date*: another repeated name in the multiverse.`
+## In Предчувствие 2
+
+In the Russian sequel, **Вася** is a skinny boy from the fortress with a gaze "too grown-up for a teenager", the leader of a small gang of kids from the children's barracks. Nobody pays attention to him, and so he sees everything.
+
+- **The interrogation.** Trembling before Robert, he reveals that there are arsenals in the old bunkers of [[necrologia|Necrology]] and that they want to "restore the Confederation". At that moment the [[dron-gaviota|seagulls]] arrive.
+- **Suspicion.** From the shadow of an arch he watches Luis embrace Natalia after the betrayal and whispers: "Something's wrong here… He's hiding something." Later, holding a single red rose, he frowns at the "new leader" wiping away fake tears.
+- **The phone secret.** While Oxana feeds him blinis, he tells her that the fortress's leader is "not very real": he saw him talking on a smartphone (the only one in the fortress) in the old storehouse behind the arsenal, about Necrology and some plan. "—Thank you, Vasya. This is our secret."
+- **The lookout.** From the window of the children's barracks he sees Luis and Mikhail talking by a grave and warns Oxana, not knowing that Mikhail is her husband: "—Oh… I didn't know…"
+- **The eyes.** Natalia wonders more than once where she has seen those eyes before. In the end she teaches him to shoot with bullets charged with the sound energy of her cello ("—Vasya, shoot"), and when power changes hands his squad takes the north tower.
+
+> In *The Foreboding* (above) Vasya is an adult first-person narrator; in *Предчувствие 2*, a teenager. They share a name and a universe, like so many characters in the multiverse. Nor is he the detective [[vasili|Vasili]] of *A Dangerous Date*: another repeated name in the multiverse.`
 });
 
 EN('julian-jabru', {

@@ -348,13 +348,13 @@ Al final del capítulo 3, Vasili llega al viejo hospital ferroviario donde deber
 });
 
 A({
-  id: 'vasia', type: 'personaje', uni: 'utopia', img: 'img/covers/the-foreboding.webp',
-  novels: ['the-foreboding'],
+  id: 'vasia', type: 'personaje', uni: 'utopia', img: 'img/chars/vasia-1.webp',
+  novels: ['the-foreboding', 'predchuvstvie-2'],
   see: ['robert', 'camino-claro', 'utopia', 'vasili'],
   es: {
-    t: 'Vasili «Vasia» (The Foreboding)',
-    s: 'El narrador de The Foreboding: un superviviente desarmado al que Robert salva y convierte en reclutador de Nuestra Utopía, con una moto y una lista de tres especialistas por encontrar.',
-    box: [['Inglés', 'Vasily, «Vasya»'], ['Novela', '*The Foreboding* (en curso)'], ['Aliado', '[[robert|Robert]]'], ['Misión', 'Encontrar a una médica, un ingeniero y una agrónoma'], ['Enemigo', '[[camino-claro|El Camino Despejado]]']],
+    t: 'Vasia (Предчувствие 2 y The Foreboding)',
+    s: 'Un nombre, dos Vasias de la Utopía. En Предчувствие 2 es un adolescente de la fortaleza que vigila a los adultos y descubre al traidor; en The Foreboding, el narrador al que Robert salva y convierte en reclutador, con una moto y una lista de tres especialistas.',
+    box: [['Ruso', 'Вася'], ['Inglés', 'Vasily, «Vasya»'], ['Novelas', '[[predchuvstvie-2|Предчувствие 2]]; *The Foreboding* (en curso)'], ['En Предчувствие 2', 'Líder de una pandilla de adolescentes de la fortaleza'], ['Aliado', '[[robert|Robert]]'], ['Misión', 'Encontrar a una médica, un ingeniero y una agrónoma'], ['Enemigo', '[[camino-claro|El Camino Despejado]]']],
     b: `Cuatro años después de la Devastación, el cielo se ha despejado pero la civilización no ha vuelto. **Vasili** —«People call me Vasya»— vaga desarmado y hambriento por una ciudad del norte. Su supervivencia empieza con una simple petición de comida en una tienda vacía, ante un hombre que le apunta con un rifle.
 
 ## Robert
@@ -371,12 +371,22 @@ Vasia señala por dónde podría entrar un enemigo, y Robert le muestra su cuade
 
 Con una moto y esa lista, Vasia parte hacia el norte… y encuentra el hospital tomado por el [[camino-claro|Camino Despejado]].
 
-> No es el mismo personaje que el detective [[vasili|Vasili]] de *Una cita peligrosa*: otro nombre repetido del multiverso.`
+## En Предчувствие 2
+
+En la secuela rusa, **Вася** es un muchacho flaco de la fortaleza, con una mirada «demasiado adulta para un adolescente», que encabeza una pequeña pandilla de chicos del barracón infantil. Nadie se fija en él, y por eso lo ve todo.
+
+- **El interrogatorio.** Tembloroso ante Robert, revela que en los viejos búnkeres de [[necrologia|Necrología]] hay arsenales y que quieren «restaurar la Confederación». En ese momento llegan las [[dron-gaviota|gaviotas]].
+- **La sospecha.** Desde la sombra de un arco ve a Luis abrazar a Natalia después de la traición y susurra: «Aquí hay algo raro… Esconde algo». Más tarde, con una única rosa roja en la mano, frunce el ceño ante el «nuevo líder» que se seca lágrimas fingidas.
+- **El secreto del teléfono.** Mientras Oxana le sirve blinis, le cuenta que el líder de la fortaleza «no es muy de verdad»: lo vio hablar por un smartphone, el único de la fortaleza, en el viejo almacén detrás del arsenal, sobre Necrología y un plan. «—Gracias, Vasia. Es nuestro secreto.»
+- **El vigía.** Desde la ventana del barracón infantil ve a Luis y a Mijaíl hablar junto a una tumba y avisa a Oxana, sin saber que Mijaíl es su marido: «—Ay… No lo sabía».
+- **Los ojos.** Natalia se pregunta varias veces dónde ha visto antes esos ojos. Al final le enseña a disparar con balas cargadas con la energía del sonido de su violonchelo («—Vasia, dispara»), y en el cambio de poder su pandilla ocupa la torre norte.
+
+> En *The Foreboding* (más arriba) Vasia es un adulto que narra en primera persona; en *Предчувствие 2*, un adolescente. Comparten nombre y universo, como tantos personajes del multiverso. Tampoco es el detective [[vasili|Vasili]] de *Una cita peligrosa*: otro nombre repetido del multiverso.`
   },
   ru: {
-    t: 'Василий «Вася» (The Foreboding)',
-    s: 'Рассказчик «The Foreboding»: безоружный выживший, которого Роберт спасает и делает вербовщиком «Нашей Утопии» — с мотоциклом и списком из трёх специалистов, которых нужно найти.',
-    box: [['Английский', 'Vasily, «Vasya»'], ['Роман', '«The Foreboding» (пишется)'], ['Союзник', '[[robert|Роберт]]'], ['Задача', 'найти врача, инженера и агронома'], ['Враг', '[[camino-claro|Чистый путь]]']],
+    t: 'Вася («Предчувствие 2» и The Foreboding)',
+    s: 'Одно имя — два Васи Утопии. В «Предчувствии 2» это подросток из крепости, который следит за взрослыми и раскрывает предателя; в «The Foreboding» — рассказчик, которого Роберт спасает и делает вербовщиком, с мотоциклом и списком из трёх специалистов.',
+    box: [['Испанский', 'Vasia'], ['Английский', 'Vasily, «Vasya»'], ['Романы', '[[predchuvstvie-2|Предчувствие 2]]; «The Foreboding» (пишется)'], ['В «Предчувствии 2»', 'вожак компании подростков крепости'], ['Союзник', '[[robert|Роберт]]'], ['Задача', 'найти врача, инженера и агронома'], ['Враг', '[[camino-claro|Чистый путь]]']],
     b: `Через четыре года после Опустошения небо прояснилось, но цивилизация не вернулась. **Василий** — «People call me Vasya» — безоружный и голодный бродит по северному городу. Его выживание начинается с простой просьбы о еде в пустом магазине, перед человеком, который целится в него из ружья.
 
 ## Роберт
@@ -393,7 +403,17 @@ Con una moto y esa lista, Vasia parte hacia el norte… y encuentra el hospital 
 
 С мотоциклом и этим списком Вася едет на север… и находит больницу в руках [[camino-claro|Чистого пути]].
 
-> Это не детектив [[vasili|Василий]] из «Опасного свидания»: ещё одно повторяющееся имя мультивселенной.`
+## В «Предчувствии 2»
+
+В русском продолжении **Вася** — худой паренёк из крепости со взглядом «слишком взрослым для подростка», вожак небольшой компании ребят из детского барака. На него никто не обращает внимания, и поэтому он видит всё.
+
+- **Допрос.** Дрожа перед Робертом, он рассказывает, что в старых бункерах [[necrologia|Некрологии]] — арсеналы и там хотят «восстановить Конфедерацию». В этот момент налетают [[dron-gaviota|чайки]].
+- **Подозрение.** Из тени арки он видит, как Луис обнимает Наталью после предательства, и шепчет: «Что-то здесь не так… Он что-то скрывает». Позже, с единственной алой розой в руках, он хмурится, глядя, как «новый лидер» вытирает мнимые слёзы.
+- **Тайна смартфона.** Пока Оксана кормит его блинами, он рассказывает, что лидер крепости «не очень настоящий»: он видел, как тот говорил по смартфону — единственному в крепости — на старом складе за арсеналом, о Некрологии и каком-то плане. «— Спасибо, Вася. Это наш секрет».
+- **Наблюдатель.** Из окна детского барака он видит, как Луис и Михаил говорят у могилы, и предупреждает Оксану, не зная, что Михаил — её муж: «— Ой… Я не знал…»
+- **Глаза.** Наталья не раз спрашивает себя, где уже видела эти глаза. В конце она учит его стрелять пулями, заряженными энергией звука её виолончели («— Вася, стреляй»), а при смене власти его отряд занимает северную башню.
+
+> В «The Foreboding» (выше) Вася — взрослый рассказчик, в «Предчувствии 2» — подросток. У них общее имя и общая вселенная, как у многих героев мультивселенной. И это не детектив [[vasili|Василий]] из «Опасного свидания»: ещё одно повторяющееся имя мультивселенной.`
   }
 });
 
