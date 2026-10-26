@@ -397,13 +397,10 @@
     LIB.novels.forEach(function (n) { langs[n.lang] = 1; });
     var day = dayNumber(new Date());
     var feat = articleOfDay(day);
-    var covers = ['dikij-chas', 'la-corazonada', 'rezonans-lyubvi'].map(function (s) { return novelBySlug[s] && novelBySlug[s].cover; }).filter(Boolean);
     var h = [];
-    h.push('<section class="hero fade-in"><div class="hero-covers">' + covers.map(function (c) { return '<img src="' + c + '" alt="">'; }).join('') + '</div>' +
-      '<div class="hero-inner"><div class="eyebrow">' + t('heroEyebrow') + '</div><h1>' + t('heroTitle') + '</h1><p>' + t('heroText') + '</p>' +
-      '<div class="btn-row"><a class="btn btn-primary" href="' + href('a/multiverso') + '">' + t('start') + ' →</a><a class="btn btn-ghost" href="' + href('mapa') + '">' + t('openMap') + '</a></div>' +
-      '<div class="hero-stats"><div><b>' + ARTS.length + '</b><span>' + t('stArticles') + '</span></div><div><b>' + LIB.novels.length + '</b><span>' + t('stNovels') + '</span></div><div><b>' + Object.keys(langs).length + '</b><span>' + t('stLangs') + '</span></div><div><b>' + LIB.characters.length + '</b><span>' + t('stPeople') + '</span></div><div><b>' + ALL_ILL.length + '</b><span>' + t('stIll') + '</span></div></div>' +
-      '</div></section>');
+    var stats = [[ARTS.length, 'stArticles'], [LIB.novels.length, 'stNovels'], [Object.keys(langs).length, 'stLangs'], [LIB.characters.length, 'stPeople'], [ALL_ILL.length, 'stIll']];
+    h.push('<section class="intro fade-in"><h1>' + t('heroTitle') + '</h1><p class="intro-stats">' +
+      stats.map(function (x) { return '<span><b>' + x[0] + '</b> ' + t(x[1]) + '</span>'; }).join('<i>·</i>') + '</p></section>');
 
     h.push('<div class="home-grid">');
     if (feat) {

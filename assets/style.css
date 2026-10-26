@@ -191,6 +191,12 @@ a.chip:hover { border-color: var(--accent); color: var(--ink); }
 .empty { padding: 40px; text-align: center; color: var(--ink-3); border: 1px dashed var(--line); border-radius: var(--radius); }
 
 /* ---------- Portada ---------- */
+.intro { margin: 2px 0 22px; }
+.intro h1 { font: 800 clamp(28px, 3.4vw, 40px)/1.1 var(--display); margin: 0 0 6px; letter-spacing: -.3px; }
+.intro h1 em { font-style: italic; font-weight: 600; color: var(--accent-ink); }
+.intro-stats { margin: 0; display: flex; flex-wrap: wrap; gap: 4px 10px; font: 400 14.5px/1.6 var(--sans); color: var(--ink-2); }
+.intro-stats b { color: var(--ink); font-weight: 700; }
+.intro-stats i { font-style: normal; color: var(--ink-3); }
 .hero {
   position: relative; overflow: hidden; border-radius: 22px; padding: 56px 48px 48px;
   color: #eef6f6;
@@ -459,6 +465,8 @@ a.chip:hover { border-color: var(--accent); color: var(--ink); }
   .top-actions .icon-btn { width: 34px; height: 34px; }
   .brand img { width: 30px; height: 30px; }
   main { padding: 16px 16px 48px; }
+  .intro-stats { gap: 2px 14px; }
+  .intro-stats i { display: none; }
   .hero { padding: 34px 22px 28px; border-radius: 18px; }
   .hero p { font-size: 16.5px; }
   .hero-stats { gap: 18px; }
