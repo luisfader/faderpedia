@@ -194,3 +194,26 @@ When the Heart of the World awakens, it turns red and dozens of dots appear on t
 
 Laura and Luciano's victory does not destroy the enemy, but it takes away what he came for. In [[regreso-atlantida|Atlantis]], the elders warn that this was only the **vanguard**: the awakening of the Heart was a signal to the forces that destroyed Atlantis, and their next target will be the Earth. At the end, the heroes' "new mission" begins with a green and violet glow in the sky.`
 });
+
+EN('esposa-bruja', {
+  t: 'The Fat Man\'s witch wife',
+  s: 'In the Russian edition of The Ghost Train, the wife of Роберт, the Fat Man: dark-haired, cold-eyed, an ally of her mother and of the judge. He calls her a witch… until he dares to tell her why.',
+  box: [['Russian', 'жена Роберта, «жена-ведьма»'], ['Novel', '[[prizrachnyj-poezd|Призрачный поезд]], ch. 18–20'], ['Husband', '[[hombre-gordo|Роберт, the Fat Man]]'], ['Mother', '[[dona-carmen|The mother-in-law]]'], ['Ally', '[[casimiro-condena|The judge]]'], ['Appearance', 'Dark hair, a cold gaze']],
+  b: `In *Призрачный поезд*, the Russian version of [[tren-fantasma|The Ghost Train]], the [[hombre-gordo|Fat Man]] is not only afraid of his [[dona-carmen|mother-in-law]]: he also has a wife. She appears at the train's disco, in the doorway, next to the judge and her mother, "stern and motionless as a stone statue": **a woman with a cold gaze and dark hair**.
+
+Роберт goes pale: "—That's my wife." She takes a few steps forward and answers calmly, but with a threat in her voice: "—I see." Then she turns to the judge: "—Do something."
+
+## The witch
+
+From then on the book calls her **the witch wife** (*жена-ведьма*). She comes back with the judge, the mother-in-law, the officials, the ticket inspector and the zombie boy scouts, lined up "like spectators in a theatre", every time the train puts the passengers to the test.
+
+## Роберт's answer
+
+In chapter 20, when fear no longer rules him, Роберт steps forward, turns to her and says what he had never dared to say:
+
+> "—You're a witch only because you keep obeying your mother. You use her against me."
+
+It is the moment when the Fat Man stops being the train's joke and starts deciding his own life. The wife does not appear in the Spanish and Italian versions.
+
+> In the illustration, she smiles and he shrinks into the carriage seat: the comedy of fear that the train forces him to overcome.`
+});
