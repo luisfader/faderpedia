@@ -4,7 +4,7 @@ const fs = require('fs'), vm = require('vm'), path = require('path');
 const root = path.join(__dirname, '..');
 const ctx = {}; ctx.window = ctx; vm.createContext(ctx);
 // Los mismos datos que carga index.html, en el mismo orden.
-[...fs.readFileSync(path.join(root, 'index.html'), 'utf8').matchAll(/<script src="(data\/[^"]+)"/g)].map(m => m[1])
+[...fs.readFileSync(path.join(root, 'index.html'), 'utf8').matchAll(/<script src="(data\/[^"?]+)/g)].map(m => m[1])
   .forEach(f => vm.runInContext(fs.readFileSync(path.join(root, f), 'utf8'), ctx, { filename: f }));
 const W = ctx.window, ids = new Set(), novels = new Set(W.LIBRARY.novels.map(n => n.slug));
 let bad = 0;
