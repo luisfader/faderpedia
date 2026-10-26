@@ -27,6 +27,7 @@
   --u-olas: #3c9a4f;
   --u-venecia: #c6952c;
   --u-praga: #b0466e;
+  --u-estelar: #2b7fb8;
   --u-multiverso: #6b7685;
   --u-otros: #8a8f96;
   color-scheme: light;
@@ -240,6 +241,13 @@ a.chip:hover { border-color: var(--accent); color: var(--ink); }
 .featured h2 { font: 700 28px/1.15 var(--display); margin: 0 0 8px; }
 .featured h2 a { color: var(--ink); }
 .featured p { font: 400 16px/1.6 var(--serif); color: var(--ink-2); margin: 0 0 12px; }
+.featured .feat-excerpt { font-size: 15px; color: var(--ink-3, var(--ink-2)); border-left: 3px solid var(--uc, var(--accent)); padding-left: 12px; }
+.feat-date { font: 500 13px/1 var(--sans); color: var(--ink-2); text-transform: none; letter-spacing: 0; margin-left: 6px; }
+.feat-tags { margin: 0 0 6px; }
+.feat-uni { display: inline-block; font: 600 12px/1 var(--sans); padding: 5px 9px; border-radius: 999px; color: #fff; background: var(--uc, var(--accent)); }
+.feat-btn { margin-top: 2px; }
+.feat-prev { margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--line, rgba(127,127,127,.25)); font: 400 14px/1.6 var(--sans); }
+.feat-prev span { color: var(--ink-2); }
 .facts { list-style: none; margin: 0; padding: 0; }
 .facts li { position: relative; padding: 10px 0 10px 22px; border-top: 1px solid var(--line-2); font: 400 15px/1.5 var(--serif); color: var(--ink-2); }
 .facts li:first-child { border-top: 0; padding-top: 0; }

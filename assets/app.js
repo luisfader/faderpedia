@@ -20,7 +20,7 @@
       start: 'Empezar por el multiverso', openMap: 'Ver el mapa',
       stArticles: 'artículos', stNovels: 'novelas', stLangs: 'idiomas', stPeople: 'personajes', stIll: 'ilustraciones',
       gallery: 'Galería', illustrations: 'Ilustraciones', chap: 'Cap.', wip: 'En curso', galText: 'Las ilustraciones de los capítulos de Litmir, novela por novela. Tocá una imagen para verla grande y pasar a la siguiente.', allNovels: 'Todas las novelas', seeAllIll: 'Ver todas', fromGallery: 'De la galería', close: 'Cerrar', prev: 'Anterior', next: 'Siguiente',
-      featured: 'Artículo destacado', readMore: 'Leer el artículo', didYouKnow: '¿Sabías que…', another: 'Otros datos',
+      featured: 'Artículo del día', prevDays: 'Días anteriores', today: 'Hoy', readMore: 'Leer el artículo', didYouKnow: '¿Sabías que…', another: 'Otros datos',
       exploreUni: 'Explora los universos', byCat: 'Por categoría', latest: 'Novelas de 2026', articlesN: 'artículos',
       contents: 'Contenido', appearsIn: 'Aparece en', seeAlso: 'Véase también', linksHere: 'Lo que enlaza aquí',
       inUniverse: 'Artículos de este universo', novelsOfUni: 'Novelas de este universo',
@@ -51,7 +51,7 @@
       start: 'Начать с мультивселенной', openMap: 'Открыть карту',
       stArticles: 'статей', stNovels: 'романов', stLangs: 'языков', stPeople: 'персонажей', stIll: 'иллюстраций',
       gallery: 'Галерея', illustrations: 'Иллюстрации', chap: 'Гл.', wip: 'Пишется', galText: 'Иллюстрации к главам «Литературного мира», роман за романом. Нажмите на картинку, чтобы увеличить её и листать дальше.', allNovels: 'Все романы', seeAllIll: 'Смотреть все', fromGallery: 'Из галереи', close: 'Закрыть', prev: 'Назад', next: 'Вперёд',
-      featured: 'Избранная статья', readMore: 'Читать статью', didYouKnow: 'Знаете ли вы, что…', another: 'Другие факты',
+      featured: 'Статья дня', prevDays: 'В предыдущие дни', today: 'Сегодня', readMore: 'Читать статью', didYouKnow: 'Знаете ли вы, что…', another: 'Другие факты',
       exploreUni: 'Вселенные', byCat: 'По категориям', latest: 'Романы 2026 года', articlesN: 'статей',
       contents: 'Содержание', appearsIn: 'Появляется в', seeAlso: 'См. также', linksHere: 'Ссылки сюда',
       inUniverse: 'Статьи этой вселенной', novelsOfUni: 'Романы этой вселенной',
@@ -85,10 +85,11 @@
     'olas': { es: 'Ondas de amor', ru: 'Волны любви', series: 'volny-lyubvi' },
     'venecia': { es: 'Máscara de Venecia', ru: 'Венецианская маска', series: 'roberto-natalia' },
     'praga': { es: 'El subsuelo de Praga', ru: 'Пражское подземелье', series: 'prazske-podzemi' },
+    'estelar': { es: 'Romance estelar', ru: 'Звёздный роман' },
     'multiverso': { es: 'Multiverso', ru: 'Мультивселенная' },
     'otros': { es: 'Historias independientes', ru: 'Отдельные истории' }
   };
-  var UNI_ORDER = ['hora-salvaje', 'utopia', 'sinea', 'fader', 'resonancia', 'olas', 'venecia', 'praga', 'otros'];
+  var UNI_ORDER = ['hora-salvaje', 'utopia', 'sinea', 'fader', 'resonancia', 'olas', 'venecia', 'praga', 'estelar', 'otros'];
   var NOVEL_UNI_OVERRIDE = {
     'anomalnyj-chas': 'hora-salvaje', 'ora-selvaggia-venezia': 'hora-salvaje',
     'rezonans-lyubvi': 'resonancia', 'rezonans-lyubvi-3-protiv-mraka': 'resonancia',
@@ -96,7 +97,8 @@
     'maschera-di-venezia': 'venecia', 'venecianskaya-maska': 'venecia',
     'divlji-chas': 'hora-salvaje', 'przeczucie': 'utopia',
     'grustnyj-gorod': 'sinea', 'golos': 'sinea', 'il-treno-fantasma': 'sinea',
-    'misteroj-sub-parizo': 'praga', 'do-outro-lado-do-mundo': 'otros'
+    'misteroj-sub-parizo': 'praga', 'do-outro-lado-do-mundo': 'otros',
+    'zvezdnyj-roman': 'estelar'
   };
   var LANG_NAMES = {
     es: { es: 'español', ru: 'ruso', it: 'italiano', en: 'inglés', de: 'alemán', fr: 'francés', tr: 'turco', pt: 'portugués', cs: 'checo', pl: 'polaco', sr: 'serbio', eo: 'esperanto', isv: 'interslavo', vo: 'volapük', ia: 'interlingua', ld: 'lingwa de planeta', la: 'latín', sw: 'suajili', bg: 'búlgaro' },
@@ -148,7 +150,8 @@
     'dmitry-petrovich': 'dmitri-petrovich', 'ivan-domovoev': 'ivan-domovoev', 'kapitan-natasha': 'capitana-natasha', vladik: 'vladik', khmur: 'penumbra',
     'galina-sergeevna': 'galina-sergeevna', plyushka: 'plyushka', 'natalia-verdegrad': 'natalia-verdegrad', lis: 'zorro', ael: 'ael',
     'oksana-swan': 'oxana', 'oxana-voice': 'oxana', 'octavio-grande': 'octavio-grande', 'presidente-sinea': 'octavio-grande',
-    'doktor-krein': 'doctor-crane', zver: 'bestia', 'presidente-futbol': 'fafi', 'sasha-voice': 'ael'
+    'doktor-krein': 'doctor-crane', zver: 'bestia', 'presidente-futbol': 'fafi', 'sasha-voice': 'ael',
+    laura: 'laura-estelar', luciano: 'luciano', vitka: 'vitka'
   };
 
   /* ---------- Utilidades ---------- */
@@ -335,11 +338,32 @@
     document.getElementById('sidebar').innerHTML = h.join('');
   }
 
+  /* Artículo del día: un orden mezclado fijo (igual para todos los lectores) que recorre todos los artículos antes de repetir. */
+  function dayNumber(d) { return Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 86400000); }
+  var DAY_ORDER = null;
+  function articleOfDay(day) {
+    if (!DAY_ORDER) {
+      var ids = ARTS.map(function (a) { return a.id; }).sort();
+      var seed = 20261026;
+      var rnd = function () { seed = (seed * 1103515245 + 12345) % 2147483648; return seed / 2147483648; };
+      for (var i = ids.length - 1; i > 0; i--) { var j = Math.floor(rnd() * (i + 1)); var x = ids[i]; ids[i] = ids[j]; ids[j] = x; }
+      DAY_ORDER = ids;
+    }
+    if (!DAY_ORDER.length) return null;
+    return byId[DAY_ORDER[((day % DAY_ORDER.length) + DAY_ORDER.length) % DAY_ORDER.length]];
+  }
+  function excerpt(b) {
+    var p = (b || '').split(/\n\s*\n/).map(function (x) { return x.trim(); }).filter(function (x) { return x && !/^(#|-|>|\d+\.)/.test(x); })[0] || '';
+    p = p.replace(/\[\[[^\]|]+\|([^\]]+)\]\]/g, '$1').replace(/\[\[([^\]]+)\]\]/g, '$1').replace(/\*+/g, '').replace(/\s+/g, ' ');
+    return p.length > 340 ? p.slice(0, 340).replace(/\s+\S*$/, '') + '…' : p;
+  }
+
   /* ---------- Vistas ---------- */
   function viewHome() {
     var langs = {};
     LIB.novels.forEach(function (n) { langs[n.lang] = 1; });
-    var feat = byId.multiverso;
+    var day = dayNumber(new Date());
+    var feat = articleOfDay(day);
     var covers = ['dikij-chas', 'la-corazonada', 'rezonans-lyubvi'].map(function (s) { return novelBySlug[s] && novelBySlug[s].cover; }).filter(Boolean);
     var h = [];
     h.push('<section class="hero fade-in"><div class="hero-covers">' + covers.map(function (c) { return '<img src="' + c + '" alt="">'; }).join('') + '</div>' +
@@ -351,7 +375,16 @@
     h.push('<div class="home-grid">');
     if (feat) {
       var fl = L(feat);
-      h.push('<article class="card"><h3>★ ' + t('featured') + '</h3><div class="featured"><img src="' + articleImg(feat) + '" alt=""><div><h2><a href="' + href('a/multiverso') + '">' + esc(fl.t) + '</a></h2><p>' + esc(fl.s) + '</p><a href="' + href('a/multiverso') + '">' + t('readMore') + ' →</a></div></div></article>');
+      var dateStr = new Date().toLocaleDateString(lang === 'ru' ? 'ru-RU' : 'es-ES', { day: 'numeric', month: 'long' });
+      var prev = [1, 2, 3].map(function (k) { return articleOfDay(day - k); }).filter(function (a) { return a && a !== feat; });
+      h.push('<article class="card" style="--uc:' + uniColor(feat.uni) + '"><h3>★ ' + t('featured') + ' <span class="feat-date">' + esc(dateStr) + '</span></h3>' +
+        '<div class="featured"><a href="' + href('a/' + feat.id) + '"><img src="' + articleImg(feat) + '" alt=""></a><div>' +
+        '<div class="feat-tags"><span class="feat-uni">' + esc(UNIS[feat.uni] ? UNIS[feat.uni][lang] : '') + '</span></div>' +
+        '<h2><a href="' + href('a/' + feat.id) + '">' + esc(fl.t) + '</a></h2><p>' + esc(fl.s) + '</p>' +
+        (excerpt(fl.b) ? '<p class="feat-excerpt">' + esc(excerpt(fl.b)) + '</p>' : '') +
+        '<a class="btn btn-primary feat-btn" href="' + href('a/' + feat.id) + '">' + t('readMore') + ' →</a></div></div>' +
+        (prev.length ? '<div class="feat-prev"><span>' + t('prevDays') + ':</span> ' + prev.map(function (a) { return '<a href="' + href('a/' + a.id) + '">' + esc(L(a).t) + '</a>'; }).join(' · ') + '</div>' : '') +
+        '</article>');
     }
     h.push('<aside class="card"><h3>✦ ' + t('didYouKnow') + '<button class="reroll" id="reroll">↻ ' + t('another') + '</button></h3><ul class="facts" id="facts"></ul></aside>');
     h.push('</div>');
