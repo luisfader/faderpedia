@@ -6,7 +6,7 @@
   var ARTS = window.ARTICLES || [];
   var FACTS = window.FACTS || [];
   var LINKS = window.LINKS || [];
-  var SOURCE = 'https://github.com/luisfader/litmir/tree/main/novels/';
+  var LITMIR = 'https://luisfader.github.io/litmir/';
 
   /* ---------- Textos de la interfaz ---------- */
   var T = {
@@ -30,12 +30,12 @@
       libHead: 'Biblioteca', libText: 'Todas las novelas publicadas en Litmir, agrupadas por universo. Cada ficha enlaza con los artículos que la mencionan.',
       filterNovels: 'Filtrar por título…', allLangs: 'Todos los idiomas', standalone: 'Historias independientes',
       chapters: 'capítulos', year: 'Año', lang: 'Idioma', genre: 'Género', series: 'Universo', translations: 'Otras versiones',
-      origText: 'Sinopsis en el idioma original', readSource: 'Ver los capítulos en Litmir (GitHub)', mentioned: 'Artículos que la mencionan', cast: 'Personajes',
+      origText: 'Sinopsis en el idioma original', readSource: 'Leer la novela en Litmir', mentioned: 'Artículos que la mencionan', cast: 'Personajes',
       peopleHead: 'Índice de personajes', peopleText: 'Los casi doscientos personajes del catálogo de Litmir. Los que tienen artículo propio llevan un enlace destacado.',
       filterPeople: 'Buscar personaje…', allUnis: 'Todos', article: 'artículo',
       mapHead: 'Mapa del multiverso', mapText: 'Los universos de Fader no están aislados: personajes que cruzan de una historia a otra, nombres que se repiten y objetos que viajan. Tocá un universo para resaltar sus conexiones.',
       catHead: 'Categoría', allHead: 'Todos los artículos', allText: 'Índice alfabético de la enciclopedia.',
-      footer: 'Faderpedia es una enciclopedia de lectores sobre la obra de Robert Fader. Las novelas se leen en <a href="https://github.com/luisfader/litmir">Litmir</a>.',
+      footer: 'Faderpedia es una enciclopedia de lectores sobre la obra de Robert Fader. Las novelas se leen en <a href="https://luisfader.github.io/litmir/">Litmir</a>.',
       adult: 'Para adultos', orig: 'original',
       types: { universo: 'Universos', personaje: 'Personajes', criatura: 'Criaturas', lugar: 'Lugares', organizacion: 'Organizaciones', fenomeno: 'Fenómenos', artefacto: 'Artefactos', acontecimiento: 'Acontecimientos', concepto: 'Conceptos', historia: 'Referencias históricas', autor: 'Autor' },
       type1: { universo: 'Universo', personaje: 'Personaje', criatura: 'Criatura', lugar: 'Lugar', organizacion: 'Organización', fenomeno: 'Fenómeno', artefacto: 'Artefacto', acontecimiento: 'Acontecimiento', concepto: 'Concepto', historia: 'Referencia histórica', autor: 'Autor' },
@@ -61,12 +61,12 @@
       libHead: 'Библиотека', libText: 'Все романы, опубликованные в «Литературном мире», по вселенным. Каждая карточка ведёт к статьям, где роман упоминается.',
       filterNovels: 'Фильтр по названию…', allLangs: 'Все языки', standalone: 'Отдельные истории',
       chapters: 'глав', year: 'Год', lang: 'Язык', genre: 'Жанр', series: 'Вселенная', translations: 'Другие версии',
-      origText: 'Аннотация на языке оригинала', readSource: 'Главы в «Литературном мире» (GitHub)', mentioned: 'Статьи, где упоминается', cast: 'Персонажи',
+      origText: 'Аннотация на языке оригинала', readSource: 'Читать роман в «Литературном мире»', mentioned: 'Статьи, где упоминается', cast: 'Персонажи',
       peopleHead: 'Указатель персонажей', peopleText: 'Почти двести персонажей из каталога «Литературного мира». У тех, о ком есть статья, — выделенная ссылка.',
       filterPeople: 'Найти персонажа…', allUnis: 'Все', article: 'статья',
       mapHead: 'Карта мультивселенной', mapText: 'Вселенные Фадера не изолированы: герои переходят из истории в историю, имена повторяются, предметы путешествуют. Нажмите на вселенную, чтобы выделить её связи.',
       catHead: 'Категория', allHead: 'Все статьи', allText: 'Алфавитный указатель энциклопедии.',
-      footer: 'Фадерпедия — читательская энциклопедия о творчестве Роберта Фадера. Романы читайте в <a href="https://github.com/luisfader/litmir">«Литературном мире»</a>.',
+      footer: 'Фадерпедия — читательская энциклопедия о творчестве Роберта Фадера. Романы читайте в <a href="https://luisfader.github.io/litmir/">«Литературном мире»</a>.',
       adult: '18+', orig: 'оригинал',
       types: { universo: 'Вселенные', personaje: 'Персонажи', criatura: 'Существа', lugar: 'Места', organizacion: 'Организации', fenomeno: 'Явления', artefacto: 'Артефакты', acontecimiento: 'События', concepto: 'Понятия', historia: 'Исторические отсылки', autor: 'Автор' },
       type1: { universo: 'Вселенная', personaje: 'Персонаж', criatura: 'Существо', lugar: 'Место', organizacion: 'Организация', fenomeno: 'Явление', artefacto: 'Артефакт', acontecimiento: 'Событие', concepto: 'Понятие', historia: 'Историческая отсылка', autor: 'Автор' },
@@ -92,12 +92,12 @@
       libHead: 'Library', libText: 'Every novel published on Litmir, grouped by universe. Each card links to the articles that mention it.',
       filterNovels: 'Filter by title…', allLangs: 'All languages', standalone: 'Standalone stories',
       chapters: 'chapters', year: 'Year', lang: 'Language', genre: 'Genre', series: 'Universe', translations: 'Other versions',
-      origText: 'Synopsis in the original language', readSource: 'Read the chapters on Litmir (GitHub)', mentioned: 'Articles that mention it', cast: 'Characters',
+      origText: 'Synopsis in the original language', readSource: 'Read the novel on Litmir', mentioned: 'Articles that mention it', cast: 'Characters',
       peopleHead: 'Character index', peopleText: 'Almost two hundred characters from the Litmir catalogue. Those with an article of their own have a highlighted link.',
       filterPeople: 'Find a character…', allUnis: 'All', article: 'article',
       mapHead: 'Map of the multiverse', mapText: 'Fader’s universes are not isolated: characters cross from one story to another, names repeat and objects travel. Tap a universe to highlight its connections.',
       catHead: 'Category', allHead: 'All articles', allText: 'Alphabetical index of the encyclopedia.',
-      footer: 'Faderpedia is a readers’ encyclopedia about the work of Robert Fader. The novels can be read on <a href="https://github.com/luisfader/litmir">Litmir</a>.',
+      footer: 'Faderpedia is a readers’ encyclopedia about the work of Robert Fader. The novels can be read on <a href="https://luisfader.github.io/litmir/">Litmir</a>.',
       adult: 'Adults only', orig: 'original',
       types: { universo: 'Universes', personaje: 'Characters', criatura: 'Creatures', lugar: 'Places', organizacion: 'Organizations', fenomeno: 'Phenomena', artefacto: 'Artifacts', acontecimiento: 'Events', concepto: 'Concepts', historia: 'Historical references', autor: 'Author' },
       type1: { universo: 'Universe', personaje: 'Character', criatura: 'Creature', lugar: 'Place', organizacion: 'Organization', fenomeno: 'Phenomenon', artefacto: 'Artifact', acontecimiento: 'Event', concepto: 'Concept', historia: 'Historical reference', autor: 'Author' },
@@ -195,6 +195,20 @@
   function href(path) { return '#/' + lang + '/' + path; }
   function L(a) { return a[lang] || a.es; }
   function uniName(u) { return (UNIS[u] || UNIS.otros)[lang]; }
+  // Plurales: «1 artículo / 2 artículos»; en ruso, «1 статья / 2 статьи / 5 статей».
+  var PLURAL = {
+    es: { stArticles: ['artículo', 'artículos'], articlesN: ['artículo', 'artículos'], stNovels: ['novela', 'novelas'], stLangs: ['idioma', 'idiomas'], stPeople: ['personaje', 'personajes'], stIll: ['ilustración', 'ilustraciones'], chapters: ['capítulo', 'capítulos'] },
+    en: { stArticles: ['article', 'articles'], articlesN: ['article', 'articles'], stNovels: ['novel', 'novels'], stLangs: ['language', 'languages'], stPeople: ['character', 'characters'], stIll: ['illustration', 'illustrations'], chapters: ['chapter', 'chapters'] },
+    ru: { stArticles: ['статья', 'статьи', 'статей'], articlesN: ['статья', 'статьи', 'статей'], stNovels: ['роман', 'романа', 'романов'], stLangs: ['язык', 'языка', 'языков'], stPeople: ['персонаж', 'персонажа', 'персонажей'], stIll: ['иллюстрация', 'иллюстрации', 'иллюстраций'], chapters: ['глава', 'главы', 'глав'] }
+  };
+  function plural(n, k) {
+    var f = PLURAL[lang][k];
+    if (!f) return t(k);
+    if (lang !== 'ru') return f[n === 1 ? 0 : 1];
+    var d = n % 10, h = n % 100;
+    return f[d === 1 && h !== 11 ? 0 : d >= 2 && d <= 4 && (h < 12 || h > 14) ? 1 : 2];
+  }
+  function num(n, k) { return n + ' ' + plural(n, k); }
   function shuffle(arr) { var a = arr.slice(); for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var x = a[i]; a[i] = a[j]; a[j] = x; } return a; }
   function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
 
@@ -409,7 +423,7 @@
     var h = [];
     var stats = [[ARTS.length, 'stArticles'], [LIB.novels.length, 'stNovels'], [Object.keys(langs).length, 'stLangs'], [LIB.characters.length, 'stPeople'], [ALL_ILL.length, 'stIll']];
     h.push('<section class="intro fade-in"><h1>' + t('heroTitle') + '</h1><p class="intro-stats">' +
-      stats.map(function (x) { return '<span><b>' + x[0] + '</b> ' + t(x[1]) + '</span>'; }).join('<i>·</i>') + '</p></section>');
+      stats.map(function (x) { return '<span><b>' + x[0] + '</b> ' + plural(x[0], x[1]) + '</span>'; }).join('<i>·</i>') + '</p></section>');
 
     h.push('<div class="home-grid">');
     if (feat) {
@@ -434,7 +448,7 @@
       if (!a) return;
       var n = ARTS.filter(function (x) { return x.uni === u; }).length;
       var nn = LIB.novels.filter(function (x) { return novelUni[x.slug] === u; }).length;
-      h.push('<a class="uni-card" style="--uc:' + uniColor(u) + '" href="' + href('a/' + u) + '"><img loading="lazy" src="' + articleImg(a) + '" alt=""><div class="u-body"><h4>' + esc(L(a).t) + '</h4><p>' + esc(L(a).s) + '</p><div class="u-meta">' + n + ' ' + t('articlesN') + ' · ' + nn + ' ' + t('stNovels') + '</div></div></a>');
+      h.push('<a class="uni-card" style="--uc:' + uniColor(u) + '" href="' + href('a/' + u) + '"><img loading="lazy" src="' + articleImg(a) + '" alt=""><div class="u-body"><h4>' + esc(L(a).t) + '</h4><p>' + esc(L(a).s) + '</p><div class="u-meta">' + num(n, 'articlesN') + ' · ' + num(nn, 'stNovels') + '</div></div></a>');
     });
     h.push('</div>');
 
@@ -521,7 +535,7 @@
     var groups = {};
     list.forEach(function (a) { (groups[a.uni] = groups[a.uni] || []).push(a); });
     var h = ['<div class="crumbs"><a href="' + href('') + '">Faderpedia</a> › ' + t('catHead') + '</div>',
-      '<header class="page-head"><h1>' + TYPE_ICON[type] + ' ' + esc(t('types')[type]) + '</h1><p>' + esc(t('catDesc')[type]) + ' · ' + list.length + ' ' + t('articlesN') + '</p></header>'];
+      '<header class="page-head"><h1>' + TYPE_ICON[type] + ' ' + esc(t('types')[type]) + '</h1><p>' + esc(t('catDesc')[type]) + ' · ' + num(list.length, 'articlesN') + '</p></header>'];
     var order = ['multiverso'].concat(UNI_ORDER);
     if (list.length > 6) {
       order.forEach(function (u) {
@@ -542,7 +556,7 @@
       if (!groups[c]) { groups[c] = []; letters.push(c); }
       groups[c].push(a);
     });
-    var h = ['<header class="page-head"><h1>' + t('allHead') + '</h1><p>' + t('allText') + ' ' + list.length + ' ' + t('articlesN') + '.</p></header>',
+    var h = ['<header class="page-head"><h1>' + t('allHead') + '</h1><p>' + t('allText') + ' ' + num(list.length, 'articlesN') + '.</p></header>',
       '<div class="chip-row" style="margin-bottom:24px">' + letters.map(function (c) { return '<a class="chip" href="#L-' + encodeURIComponent(c) + '" data-anchor="L-' + encodeURIComponent(c) + '">' + c + '</a>'; }).join('') + '</div>'];
     letters.forEach(function (c) {
       h.push('<div class="series-block" id="L-' + encodeURIComponent(c) + '"><h2>' + c + '</h2><div class="a-grid">' + groups[c].map(articleCard).join('') + '</div></div>');
@@ -569,7 +583,7 @@
         });
         if (!list.length) return;
         var a = byId[u];
-        out.push('<div class="series-block"><h2><span class="dot" style="background:' + uniColor(u) + '"></span>' + (a ? '<a href="' + href('a/' + u) + '">' + esc(uniName(u)) + '</a>' : esc(uniName(u))) + '</h2><p>' + list.length + ' ' + t('stNovels') + '</p><div class="book-grid">' + list.map(function (n) { return bookCard(n); }).join('') + '</div></div>');
+        out.push('<div class="series-block"><h2><span class="dot" style="background:' + uniColor(u) + '"></span>' + (a ? '<a href="' + href('a/' + u) + '">' + esc(uniName(u)) + '</a>' : esc(uniName(u))) + '</h2><p>' + num(list.length, 'stNovels') + '</p><div class="book-grid">' + list.map(function (n) { return bookCard(n); }).join('') + '</div></div>');
       });
       document.getElementById('libOut').innerHTML = out.join('') || '<div class="empty">' + t('noResults') + '</div>';
     }
@@ -585,7 +599,7 @@
     var h = ['<div class="crumbs"><a href="' + href('') + '">Faderpedia</a> › <a href="' + href('biblioteca') + '">' + t('library') + '</a> › ' + esc(uniName(u)) + '</div>'];
     h.push('<div class="novel fade-in"><div><div class="n-cover">' + (n.cover ? '<img src="' + n.cover + '" alt="">' : '<div class="book"><div class="cover"><div class="gen" style="--uc:' + uniColor(u) + '">' + esc(n.title) + '</div></div></div>') + '</div></div><div>');
     h.push('<div class="eyebrow">' + esc(LANG_NAMES[lang][n.lang] || n.lang) + (n.year ? ' · ' + n.year : '') + '</div><h1>' + esc(n.title) + '</h1>');
-    h.push('<div class="meta">' + uniChip(u) + (n.genre ? '<span class="chip">' + esc(n.genre) + '</span>' : '') + '<span class="chip">' + n.chapters + ' ' + t('chapters') + '</span>' + (n.wip ? '<span class="chip"><span class="badge-wip">' + t('wip') + '</span></span>' : '') + (n.adult ? '<span class="chip"><span class="badge-18">18+</span> ' + t('adult') + '</span>' : '') + '</div>');
+    h.push('<div class="meta">' + uniChip(u) + (n.genre ? '<span class="chip">' + esc(n.genre) + '</span>' : '') + '<span class="chip">' + num(n.chapters, 'chapters') + '</span>' + (n.wip ? '<span class="chip"><span class="badge-wip">' + t('wip') + '</span></span>' : '') + (n.adult ? '<span class="chip"><span class="badge-18">18+</span> ' + t('adult') + '</span>' : '') + '</div>');
     var tr0 = (window.SINOPSIS || {})[slug] || {};
     var own = n.lang === lang ? n.desc : tr0[lang];
     if (own) h.push('<div class="desc" lang="' + lang + '">' + esc(own) + '</div>');
@@ -594,7 +608,7 @@
       if (own) h.push('<details class="orig"><summary>' + origLabel + '</summary><div class="desc" lang="' + n.lang + '">' + esc(n.desc) + '</div></details>');
       else h.push('<div class="orig-note">' + origLabel + '</div><div class="desc" lang="' + n.lang + '">' + esc(n.desc) + '</div>');
     }
-    h.push('<p style="margin-top:22px"><a class="chip" href="' + SOURCE + encodeURIComponent(slug) + '" target="_blank" rel="noopener">↗ ' + t('readSource') + '</a></p>');
+    h.push('<p style="margin-top:22px"><a class="chip" href="' + LITMIR + '?lang=' + lang + '#/' + encodeURIComponent(slug) + '" target="_blank" rel="noopener">↗ ' + t('readSource') + '</a></p>');
     var tr = n.translations || {};
     var trKeys = Object.keys(tr).filter(function (k) { return novelBySlug[tr[k]]; });
     if (trKeys.length) {
@@ -613,7 +627,7 @@
   function viewGallery(only) {
     var withIll = LIB.novels.filter(function (n) { return (n.ill || []).length; });
     withIll.sort(function (a, b) { return b.ill.length - a.ill.length; });
-    var h = ['<header class="page-head"><h1>▦ ' + t('gallery') + '</h1><p>' + t('galText') + ' ' + ALL_ILL.length + ' ' + t('stIll') + '.</p></header>',
+    var h = ['<header class="page-head"><h1>▦ ' + t('gallery') + '</h1><p>' + t('galText') + ' ' + num(ALL_ILL.length, 'stIll') + '.</p></header>',
       '<div class="filters"><select id="galSel"><option value="">' + t('allNovels') + '</option>' + withIll.map(function (n) { return '<option value="' + n.slug + '"' + (n.slug === only ? ' selected' : '') + '>' + esc(n.title) + ' (' + n.ill.length + ')</option>'; }).join('') + '</select></div><div id="galOut"></div>'];
     setMain(h.join(''), t('gallery'));
     var sel = document.getElementById('galSel');
@@ -622,7 +636,7 @@
       var list = sel.value ? withIll.filter(function (n) { return n.slug === sel.value; }) : withIll;
       document.getElementById('galOut').innerHTML = list.map(function (n) {
         var items = ALL_ILL.filter(function (x) { return x.slug === n.slug; });
-        return '<div class="series-block"><h2><span class="dot" style="background:' + uniColor(novelUni[n.slug]) + '"></span><a href="' + href('n/' + n.slug) + '">' + esc(n.title) + '</a></h2><p>' + esc(uniName(novelUni[n.slug])) + ' · ' + items.length + ' ' + t('stIll') + '</p>' + galleryHTML(items) + '</div>';
+        return '<div class="series-block"><h2><span class="dot" style="background:' + uniColor(novelUni[n.slug]) + '"></span><a href="' + href('n/' + n.slug) + '">' + esc(n.title) + '</a></h2><p>' + esc(uniName(novelUni[n.slug])) + ' · ' + num(items.length, 'stIll') + '</p>' + galleryHTML(items) + '</div>';
       }).join('');
     }
     sel.addEventListener('change', draw);
@@ -704,7 +718,7 @@
       return '<g class="node" data-u="' + u + '" tabindex="0"><circle class="halo" cx="' + p.x + '" cy="' + p.y + '" r="' + (r + 12) + '" fill="' + uniColor(u) + '"/>' +
         '<circle cx="' + p.x + '" cy="' + p.y + '" r="' + r + '" fill="' + uniColor(u) + '"/>' +
         '<text x="' + p.x + '" y="' + (p.y + r + 22) + '">' + esc(a ? L(a).t.replace(/\s*\(.*\)$/, '') : uniName(u)) + '</text>' +
-        '<text class="sub" x="' + p.x + '" y="' + (p.y + r + 38) + '">' + (sub || cnt + ' ' + t('articlesN')) + '</text></g>';
+        '<text class="sub" x="' + p.x + '" y="' + (p.y + r + 38) + '">' + (sub || num(cnt, 'articlesN')) + '</text></g>';
     }
     svg.push(node('multiverso', 30, esc(lang === 'ru' ? 'Роберт Фадер' : 'Robert Fader')));
     nodes.forEach(function (u) { svg.push(node(u, 20)); });
@@ -862,7 +876,7 @@
     sIn.placeholder = t('search');
     document.querySelector('.skip').textContent = t('skip');
     document.querySelectorAll('.lang-switch button').forEach(function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-lang') === lang ? 'true' : 'false'); });
-    document.getElementById('foot').innerHTML = '<p>' + t('footer') + '</p><p>Faderpedia · ' + ARTS.length + ' ' + t('stArticles') + ' · ES / RU / EN</p>';
+    document.getElementById('foot').innerHTML = '<p>' + t('footer') + '</p><p>Faderpedia · ' + num(ARTS.length, 'stArticles') + ' · ES / RU / EN</p>';
   }
 
   var lastRoute = null;

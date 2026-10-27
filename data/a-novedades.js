@@ -337,7 +337,7 @@ Al final del capítulo 3, Vasili llega al viejo hospital ferroviario donde deber
 
 Чистый путь — прямая противоположность трёх принципов, которые Роберт пишет над входом в [[utopia-idea|«Нашу Утопию»]]:
 
-- «Никто не владеет другим человеком».
+- «Никто ни над кем не властвует».
 - «Никто не голодает, пока едой можно поделиться».
 - «У каждого взрослого есть голос в решениях общины».
 
@@ -620,7 +620,7 @@ addTo('robert',
 En la versión inglesa, en curso, Robert aparece visto desde fuera, por el narrador [[vasia|Vasia]]: «—Robert. —¿Robert qué? —Solo Robert está bien». Lo salva del trabajo forzado, lo lleva a un valle donde todavía no hay ni un muro y le muestra un cuaderno con los planos de la fortaleza y tres principios: nadie es dueño de otra persona, nadie pasa hambre mientras se pueda compartir la comida, todo adulto tiene voz en las decisiones. Después le da una lista de tres especialistas que hay que encontrar.`,
 `## В «The Foreboding»
 
-В английской версии, которая ещё пишется, Роберт показан со стороны — глазами рассказчика [[vasia|Васи]]: «— Роберт. — Роберт кто? — Просто Роберт». Он спасает Васю от принудительного труда, привозит в долину, где нет ещё ни одной стены, и показывает тетрадь с планами крепости и тремя принципами: никто не владеет другим человеком, никто не голодает, пока едой можно поделиться, у каждого взрослого есть голос. Потом даёт ему список из трёх специалистов, которых нужно найти.`);
+В английской версии, которая ещё пишется, Роберт показан со стороны — глазами рассказчика [[vasia|Васи]]: «— Роберт. — Роберт кто? — Просто Роберт». Он спасает Васю от принудительного труда, привозит в долину, где нет ещё ни одной стены, и показывает тетрадь с планами крепости и тремя принципами: никто ни над кем не властвует, никто не голодает, пока едой можно поделиться, у каждого взрослого есть голос. Потом даёт ему список из трёх специалистов, которых нужно найти.`);
 
 addTo('utopia',
 `## Novedades de octubre de 2026
