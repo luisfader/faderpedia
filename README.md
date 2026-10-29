@@ -6,9 +6,9 @@ La enciclopedia del multiverso de Robert Fader, en **español** y **ruso**: los 
 
 ## Qué tiene
 
-- **184 artículos en español, ruso e inglés** (incluidos los conceptos y las referencias históricas) con ficha, índice, «véase también» y «lo que enlaza aquí» calculado automáticamente.
+- **192 artículos en español, ruso e inglés** (incluidos los conceptos y las referencias históricas) con ficha, índice, «véase también» y «lo que enlaza aquí» calculado automáticamente.
 - **Portadas de universos**: La hora salvaje, Utopía Turquesa, Historias de Sinea, Los Fader, Resonancia del amor, Ondas de amor, Máscara de Venecia, El subsuelo de Praga y Romance estelar.
-- **Biblioteca** con las 81 novelas del catálogo de Litmir, filtrable por idioma, con sinopsis, versiones en otros idiomas y personajes.
+- **Biblioteca** con las 82 novelas del catálogo de Litmir, filtrable por idioma, con sinopsis, versiones en otros idiomas y personajes.
 - **Índice de personajes** con los 313 personajes del catálogo.
 - **Mapa del multiverso** con los cruces entre universos.
 - **Galería** con las 509 ilustraciones de los capítulos de Litmir, visor a pantalla completa y ilustraciones en cada ficha y artículo.
@@ -22,6 +22,7 @@ assets/                 estilos, lógica e icono
 data/a-*.js             los artículos, escritos a mano (ES + RU)
 data/a-novedades.js     artículos nuevos y ampliaciones (addTo) de octubre de 2026
 data/a-novedades-2.js   novedades de finales de octubre: Argenta, final de Praga, retratos nuevos
+data/a-petalos.js       «Женщина из лепестков»: Rosa, Alex, Lilia, las brujas, la biblioteca y el jardín
 data/en/                la versión en inglés (EN() por artículo, ENadd() para ampliaciones)
 data/library.js         novelas y personajes, generado desde litmir
 data/sinopsis.js        sinopsis traducidas al español y al ruso
