@@ -116,7 +116,7 @@
     'olas': { es: 'Ondas de amor', ru: 'Волны любви', en: 'Waves of Love', series: 'volny-lyubvi' },
     'venecia': { es: 'Máscara de Venecia', ru: 'Венецианская маска', en: 'The Venetian Mask', series: 'roberto-natalia' },
     'praga': { es: 'El subsuelo de Praga', ru: 'Пражское подземелье', en: 'Prague Underground', series: 'prazske-podzemi' },
-    'estelar': { es: 'Romance estelar', ru: 'Звёздный роман', en: 'A Starlit Romance' },
+    'estelar': { es: 'Romance estelar', ru: 'Звёздный роман', en: 'A Starlit Romance', series: 'laura-luciano' },
     'multiverso': { es: 'Multiverso', ru: 'Мультивселенная', en: 'Multiverse' },
     'otros': { es: 'Historias independientes', ru: 'Отдельные истории', en: 'Standalone stories' }
   };
@@ -129,12 +129,13 @@
     'divlji-chas': 'hora-salvaje', 'przeczucie': 'utopia',
     'grustnyj-gorod': 'sinea', 'golos': 'sinea', 'il-treno-fantasma': 'sinea',
     'misteroj-sub-parizo': 'praga', 'do-outro-lado-do-mundo': 'otros',
-    'zvezdnyj-roman': 'estelar'
+    'zvezdnyj-roman': 'estelar', 'argenta': 'estelar',
+    'la-roma-soto-tera': 'venecia', 'dikij-chas-venecianskoe-koldovstvo': 'hora-salvaje'
   };
   var LANG_NAMES = {
-    es: { es: 'español', ru: 'ruso', it: 'italiano', en: 'inglés', de: 'alemán', fr: 'francés', tr: 'turco', pt: 'portugués', cs: 'checo', pl: 'polaco', sr: 'serbio', eo: 'esperanto', isv: 'interslavo', vo: 'volapük', ia: 'interlingua', ld: 'lingwa de planeta', la: 'latín', sw: 'suajili', bg: 'búlgaro' },
-    ru: { es: 'испанский', ru: 'русский', it: 'итальянский', en: 'английский', de: 'немецкий', fr: 'французский', tr: 'турецкий', pt: 'португальский', cs: 'чешский', pl: 'польский', sr: 'сербский', eo: 'эсперанто', isv: 'межславянский', vo: 'волапюк', ia: 'интерлингва', ld: 'лингва де планета', la: 'латынь', sw: 'суахили', bg: 'болгарский' },
-    en: { es: 'Spanish', ru: 'Russian', it: 'Italian', en: 'English', de: 'German', fr: 'French', tr: 'Turkish', pt: 'Portuguese', cs: 'Czech', pl: 'Polish', sr: 'Serbian', eo: 'Esperanto', isv: 'Interslavic', vo: 'Volapük', ia: 'Interlingua', ld: 'Lingwa de Planeta', la: 'Latin', sw: 'Swahili', bg: 'Bulgarian' }
+    es: { es: 'español', ru: 'ruso', it: 'italiano', en: 'inglés', de: 'alemán', fr: 'francés', tr: 'turco', pt: 'portugués', cs: 'checo', pl: 'polaco', sr: 'serbio', eo: 'esperanto', isv: 'interslavo', vo: 'volapük', ia: 'interlingua', ld: 'lingwa de planeta', la: 'latín', sw: 'suajili', bg: 'búlgaro', vec: 'véneto' },
+    ru: { es: 'испанский', ru: 'русский', it: 'итальянский', en: 'английский', de: 'немецкий', fr: 'французский', tr: 'турецкий', pt: 'португальский', cs: 'чешский', pl: 'польский', sr: 'сербский', eo: 'эсперанто', isv: 'межславянский', vo: 'волапюк', ia: 'интерлингва', ld: 'лингва де планета', la: 'латынь', sw: 'суахили', bg: 'болгарский', vec: 'венецианский' },
+    en: { es: 'Spanish', ru: 'Russian', it: 'Italian', en: 'English', de: 'German', fr: 'French', tr: 'Turkish', pt: 'Portuguese', cs: 'Czech', pl: 'Polish', sr: 'Serbian', eo: 'Esperanto', isv: 'Interslavic', vo: 'Volapük', ia: 'Interlingua', ld: 'Lingwa de Planeta', la: 'Latin', sw: 'Swahili', bg: 'Bulgarian', vec: 'Venetian' }
   };
 
   /* ---------- Índices ---------- */

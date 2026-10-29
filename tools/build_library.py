@@ -82,7 +82,7 @@ for ch in chars['characters']:
     people.append({
         'id': ch['id'], 'name': ch['name'], 'role': ch.get('role', ''),
         'novels': ch.get('novels', []),
-        'es': L.get('es'), 'ru': L.get('ru'),
+        'es': L.get('es'), 'ru': L.get('ru'), 'en': L.get('en'),
     })
 
 imgdir = os.path.join(src, 'characters/img')

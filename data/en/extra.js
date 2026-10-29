@@ -3,6 +3,10 @@
 (function () {
   var S = window.SINOPSIS = window.SINOPSIS || {};
   var EN_SYN = {
+    'argenta': `4085 BC. Under the pink sky of a living Mars, Ivan and Maria find glowing crystals beyond the walls of Argenta, in the Forbidden Desert. Earth, 2026. Laura and Luciano pick up an old book about Mars, and soon their world begins to crack: underground tremors, Elondar Maskvell, a billionaire obsessed with Mars, and a passage that joins two eras. A novel about two worlds, about love, and about how every story is real.`,
+    'meteoritnyj-dozhd': `Elena is forty and has been married for more than twenty years to Felipe, a hard, domineering colonel. One evening in Sinea, under the roar of a meteor shower, a young stranger pulls her into a shop and saves her. His name is Luciano, he is a foreigner and he seems somehow connected to the meteorites. And Felipe has just been ordered to find and neutralise "the outsider".`,
+    'la-roma-soto-tera': `Rome, 1 March 2026. Roberto, Natalia, Alessio and Laura reach the heart of the Eternal City with the Venetian Mask. After the Venetian Lodge, the Consortium Umbrarum now awaits them, hiding its secrets beneath the stones of Rome: catacombs, fountains and stairways full of mysteries.
+The sequel to "Maschera di Venezia", written in Venetian.`,
     'dikij-chas': `Belgrade is a city with a secret.
 Beneath its streets and ancient walls hide forces better left unspoken.
 Luis, a solitary artist and traveller, comes to Serbia to draw cities and learn the language. A chance meeting with Natasha (a local woman with a strong character and a complicated past) drags him into a dangerous game where ancient legends, conspirators and spy intrigue intertwine.
@@ -199,6 +203,7 @@ And when war seems inevitable, fire falls from the sky, and nobody understands w
     'zagadachniyat-vazdushen-korab': `One morning Elena sees a grey flying ship in the sky that nobody else notices. Soon afterwards she begins to dream of a man wearing the mask of an ancient Slavic god. The ships keep people's dreams, and someone is stealing them. A short novel in easy Bulgarian for beginners.`,
     'julian-la-hambru': `La Jabru is "bruja" (witch) with its syllables reversed: bru-ja → ja-bru. Julián has an almost normal life, but words keep playing tricks on him. Ten short stories in the present tense, with absurd humour, Argentine expressions, voseo and cultural explanations in Russian at the end of each chapter.`
   };
+  EN_SYN['dikij-chas-venecianskoe-koldovstvo'] = EN_SYN['ora-selvaggia-venezia'];
   Object.keys(EN_SYN).forEach(function (slug) { (S[slug] = S[slug] || {}).en = EN_SYN[slug]; });
 
   // "Did you know" facts and map links, matched by their Spanish text.

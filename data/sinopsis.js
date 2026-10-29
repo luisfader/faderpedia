@@ -328,6 +328,15 @@ Y cuando la guerra parece inevitable, cae fuego del cielo, y nadie entiende por 
 Continuación de la novela «Podzemní tajemství». Lectura para nivel A2–B1.`,
     ru: `Люция и Марк уезжают в отпуск в Китай, и Луис с Яной остаются в Праге одни. После романтической ночи у Влтавы наступает утро, которого никто не ждал: над городом висят пять каменных островов с чёрными замками. Огромные цепи держат их в пяти сердцах Праги и пьют силу города. Луис ищет ответ в своей Фадерпедии и находит старую легенду о Чернобоге, Тёмном владыке, который хочет забрать пражское подземелье и его каменное сердце. У Праги всего три дня.
 Продолжение романа «Podzemní tajemství». Чтение для уровня A2–B1.` },
-  'julian-la-hambru': { ru: `La Jabru — это «bruja» («ведьма») с переставленными слогами: bru-ja → ja-bru. У Хулиана почти нормальная жизнь, но слова то и дело подкладывают ему свинью. Десять коротких рассказов в настоящем времени — с абсурдным юмором, аргентинскими выражениями, восео и культурными пояснениями на русском в конце каждой главы.` }
-
+  'julian-la-hambru': { ru: `La Jabru — это «bruja» («ведьма») с переставленными слогами: bru-ja → ja-bru. У Хулиана почти нормальная жизнь, но слова то и дело подкладывают ему свинью. Десять коротких рассказов в настоящем времени — с абсурдным юмором, аргентинскими выражениями, восео и культурными пояснениями на русском в конце каждой главы.` },
+  /* ---------- Novedades de octubre de 2026 ---------- */
+  'argenta': { es: `Año 4085 antes de nuestra era. Bajo el cielo rosado de un Marte vivo, Iván y María encuentran cristales luminosos tras las murallas de Argenta, en el Desierto Prohibido. Tierra, 2026. Laura y Luciano abren un viejo libro sobre Marte, y pronto su mundo empieza a resquebrajarse: temblores subterráneos, Elondar Maskvell, un multimillonario obsesionado con Marte, y un paso que une dos épocas. Una novela sobre dos mundos, sobre el amor y sobre la idea de que todas las historias son reales.` },
+  'meteoritnyj-dozhd': { es: `Elena tiene cuarenta años y lleva más de veinte casada con Felipe, un coronel duro y autoritario. Una tarde en Sinea, bajo el estruendo de una lluvia de meteoritos, un joven desconocido la arrastra dentro de una tienda y la salva. Se llama Luciano, es extranjero y parece tener algo que ver con los meteoritos. Y a Felipe, justamente, le encargan encontrar y neutralizar al «forastero».` },
+  'la-roma-soto-tera': {
+    es: `Roma, 1 de marzo de 2026. Roberto, Natalia, Alessio y Laura llegan al corazón de la Ciudad Eterna con la Máscara de Venecia. Tras la Logia veneciana, ahora los espera el Consortium Umbrarum, que esconde sus secretos bajo las piedras de Roma: catacumbas, fuentes y escalinatas llenas de misterios.
+La continuación de «Maschera di Venezia», escrita en véneto.`,
+    ru: `Рим, 1 марта 2026 года. Роберто, Наталья, Алессио и Лаура прибывают в сердце Вечного города с Венецианской маской. После Венецианской ложи их ждёт Consortium Umbrarum, который прячет свои тайны под камнями Рима: катакомбы, фонтаны и лестницы, полные загадок.
+Продолжение «Maschera di Venezia», написанное на венецианском языке.` }
 };
+// Versión rusa de «L’ora selvaggia a Venezia»: misma historia, misma sinopsis en español.
+window.SINOPSIS['dikij-chas-venecianskoe-koldovstvo'] = { es: window.SINOPSIS['ora-selvaggia-venezia'].es };
