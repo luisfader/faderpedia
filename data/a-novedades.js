@@ -477,7 +477,7 @@ En el aeropuerto de Domodédovo, Natalia lo espera. «—¡De verdad viniste! Si
 
 A({
   id: 'julian-jabru', type: 'personaje', uni: 'otros', img: 'assets/icon.svg',
-  novels: ['julian-la-hambru'],
+  novels: [],
   see: ['robert-fader', 'mendoza'],
   es: {
     t: 'Julián y La Jabru',

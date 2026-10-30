@@ -255,3 +255,12 @@ And when war seems inevitable, fire falls from the sky, and nobody understands w
   };
   (window.LINKS || []).forEach(function (k) { if (EN_LINKS[k[2].es]) k[2].en = EN_LINKS[k[2].es]; });
 })();
+
+window.SINOPSIS['predchuvstvie-2-3'] = Object.assign(window.SINOPSIS['predchuvstvie-2-3'] || {}, {
+  en: `Natalia digs up Luis's grave in the desert and finds it empty. Meanwhile, the robot tanks of the Second Power's "Heiresses" rise out of the sea, and the people of "Our Utopia" must flee through the tunnels eastward to a mountain refugee camp.
+The nuclear winter has awakened unheard-of powers in women, and Sasha suddenly realises she is bound to the fortress itself. But to win back their home, Natalia and Oksana will have to fight side by side once more, while Luis is somewhere close by and seems to be playing his own game.
+The third season of "Foreboding".`,
+  ru: `Наталья раскапывает могилу Луиса в пустыне — и находит её пустой. Тем временем из моря выходят танки-роботы «Наследниц» Второй Державы, и жителям «Нашей Утопии» приходится бежать через туннели на восток, в горный лагерь беженцев.
+Ядерная зима пробудила у женщин невиданные силы, и Саша вдруг понимает, что связана с самой крепостью. Но чтобы вернуть свой дом, Наталье и Оксане придётся снова сражаться плечом к плечу — а Луис где-то рядом и, похоже, ведёт свою игру.
+Третий сезон «Предчувствия».`
+});
