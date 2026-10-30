@@ -8,7 +8,7 @@
   }
   C('luis', 'Luis', 'The Wild Hour', 'Protagonist of The Wild Hour saga: Argentine, traveller and artist, companion of Natasha and the dragon Zmaj.');
   C('luis-utopia', 'Luis', 'Presentimento', 'An elegant Argentine architect who draws the walls of the Turquoise Utopia. Ambitious, sensitive and jealous, he competes with Robert.');
-  C('luis-fader', 'Luis', 'The Fader Mystery', 'A man from Mendoza who wins the lottery and takes Natalia from Moscow to Mendoza. There he discovers the Fader curse, which makes him immortal; in "Operation London" he seeks Rasputin\'s flask to become mortal again.');
+  C('luis-fader', 'Luis', 'The Fader Mystery', 'A Mendoza man living in Moscow, a language teacher and artist. He suddenly gets rich, and won\'t say how, and takes Natalia to Mendoza. There he uncovers the Fader curse, defeats the shaman Lautaro, inherits the immortality of his great-great-grandfather Karl and, microphone in hand, declares Mendoza the capital of Argentina. In "Operation London" he seeks Rasputin\'s flask to become mortal again.');
   C('luis-conspiracion', 'Luis', 'The Great Conspiracy', 'An Argentine artist who writes to Natalia, a Moscow cardiologist, because he wants to draw her portrait. His rival is Roberto, a dating-app charmer.');
   C('luis-praha', 'Luis', 'Podzemní tajemství', 'An Argentine musician in Prague.');
   C('luiz-pt', 'Luiz', null, 'A twenty-year-old who promises to meet Natalia.');
@@ -293,7 +293,7 @@
   C('tamara-52', 'Tamara', null, 'She writes instructions on turning off intrusive notifications and restores the emergency-call system.');
   C('boris-52', 'Boris', null, 'A former streamer who finally makes one last unfiltered broadcast and learns to live outside other people\'s expectations.');
   C('lena-52', 'Lena', null, 'She draws families and opens a small portrait exhibition on the fence of Kalemegdan.');
-  C('karl-fader', 'Karl Fader', null, 'Luis\'s ancestor eight generations back: a tormented man who has spent centuries seeking redemption through a mead that prolongs life. He helped the painter Fernando Fader live a few more years.');
+  C('karl-fader', 'Karl Fader', null, 'Born in Hamburg in 1846, Luis\'s great-great-grandfather and, in some circles, "the German sorcerer". He was the engineer Carlos Fader of the Cacheuta power station, sold mead in Commune-era Paris and, blackmailed, gave it to Roca. Cursed with eternal life, he passes immortality to Luis and can finally grow old: he celebrates every new grey hair.');
   C('heinrich', 'Heinrich', null, 'Keeper of the secret of the Fader mead, a paradoxical potion that in pure hands can cure any illness.');
   C('silvana-roca', 'María Silvana Roca', null, 'A Mendoza politician whose office is full of old maps of the Desert Campaign. She ends up arrested in the middle of the Vendimia amphitheatre.');
   C('adolfo-fader', 'Adolfo', null, 'Sergio\'s defiant-looking brother, who appears among the protesters.');

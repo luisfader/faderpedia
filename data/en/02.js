@@ -119,7 +119,7 @@ EN('maldicion-fader', {
 
 ## Karl's story
 
-In the family mansion in Mendoza, by candlelight, [[karl-fader|Karl Fader]] reveals the story: centuries ago, together with Heinrich, he stole the [[hidromiel|mead]] from an ancestor, wanting to use it "for good". A Freemason betrayed them and took part of the elixir. Karl fled to Argentina believing he would be safe there, but a Frenchman revealed his secret to Julio Argentino Roca, who blackmailed him into producing mead in large quantities to strengthen his soldiers during the Conquest of the Desert.
+In the family mansion in Mendoza, by candlelight, [[karl-fader|Karl Fader]] reveals the story: as a young man in Germany, he and Heinrich found the recipe for the [[hidromiel|mead]] among an ancestor's papers, wanting to use it "for good". In Paris in 1871 he sold a flask to a desperate Frenchman, and with that elixir the Communards held the barricades. Karl fled to Argentina believing he would be safe there, but a Frenchman revealed his secret to Julio Argentino Roca, who blackmailed him into producing mead in large quantities to strengthen his soldiers during the Conquest of the Desert.
 
 > "A Mapuche boy, witness to the massacre, cursed me. He condemned me to eternal life, watching my descendants fall into misfortune, poverty and failure."
 

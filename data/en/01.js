@@ -164,13 +164,13 @@ Sinea is on no map, and so it can be every city: it has a metro, a Ministry, aut
 
 EN('fader', {
   t: 'The Fader Mystery',
-  s: 'Adventure, mystery and Mendoza humour. Luis wins the lottery and takes Natalia from Moscow to Mendoza, where he discovers his family curse: an elixir stolen centuries ago and an ancestor who cannot die.',
+  s: 'Adventure, mystery and Mendoza humour. Luis suddenly gets rich and takes Natalia from Moscow to Mendoza, where he discovers his family curse: an elixir made from an old family recipe and an ancestor who cannot die.',
   box: [['Genre', 'Adventure · mystery · humour'], ['Languages', 'Spanish, Russian'], ['Protagonists', '[[luis-fader|Luis]] and [[natalia-fader|Natalia]]'], ['Settings', '[[moscu|Moscow]], [[mendoza|Mendoza]], London'], ['Climax', 'Frank Romero Day amphitheatre'], ['Sequel', '*Operation London* (2026)']],
   b: `**The Fader Mystery** is the most autobiographical universe of the [[multiverso|multiverse]]: it opens with a first-person prologue in which the author talks about his surname, his father Sergio and the [[mendoza|Mendoza]] he left more than sixteen years ago.
 
 ## Plot
 
-On a freezing day at a Moscow ice rink, [[luis-fader|Luis]] tells [[natalia-fader|Natalia]] that he has won the lottery: they will travel the world, starting with Mendoza. There, among vineyards, the Vendimia harvest festival and a briefcase the millionaire Dominigo Castro had waited years for, the family's past appears: the [[maldicion-fader|Fader curse]] and the [[hidromiel|mead]], the elixir that grants power and long life.
+On a freezing day at a Moscow ice rink, [[luis-fader|Luis]] tells [[natalia-fader|Natalia]] that he has got rich, without saying how: they will travel the world, starting with Mendoza. There, among vineyards, the Vendimia harvest festival and a briefcase the millionaire Domingo Castro had waited years for, the family's past appears: the [[maldicion-fader|Fader curse]] and the [[hidromiel|mead]], the elixir that grants power and long life.
 
 The ending takes place in the Frank Romero Day amphitheatre, where the Faders, warriors summoned by the shaman Lautaro and the fans of Huracán Las Heras mix in a battle as epic as it is absurd. Luis ends up immortal.
 

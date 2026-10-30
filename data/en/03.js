@@ -205,14 +205,14 @@ EN('pergaminos-imperiales', {
 
 EN('hidromiel', {
   t: 'Fader Mead',
-  s: 'An ancestral elixir that grants power and long life. Stolen centuries ago by Karl Fader and coveted by Freemasons, generals and shamans, it lies at the origin of the family curse.',
+  s: 'An ancestral elixir that grants power and long life. Recreated by Karl Fader from a family recipe and coveted by Communards, generals and shamans, it lies at the origin of the family curse.',
   box: [['Type', 'Elixir / brew'], ['Effects', 'Strength, energy, longevity, power over others'], ['Keeper', '[[karl-fader|Karl Fader]]'], ['Known uses', 'Conquest of the Desert; the shaman Lautaro\'s sceptre; Sergio\'s flask'], ['Variant', 'Rasputin\'s flask (Operation London)']],
   b: `"Mead is not just a drink," explains [[karl-fader|Karl Fader]]. "It is an ancestral substance, an elixir that grants power and longevity."
 
 ## History
 
 - Stolen by Karl and Heinrich from an ancestor, intending to "use it for good".
-- A Freemason betrayed the family and took part of it.
+- In Commune-era Paris (1871) Karl sold a flask to Pierre, a desperate Frenchman; the Communards drank it on the barricades.
 - In Argentina, Julio Argentino Roca forced Karl to produce it in large quantities to strengthen his troops: hence the [[maldicion-fader|curse]].
 
 ## In action

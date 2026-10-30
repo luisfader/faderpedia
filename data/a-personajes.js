@@ -638,13 +638,13 @@ A({
   see: ['natalia-fader', 'maldicion-fader', 'karl-fader', 'sergio', 'luis'],
   es: {
     t: 'Luis Fader (Mendoza)',
-    s: 'Mendocino radicado en Moscú que gana la lotería y lleva a Natalia a Mendoza. Allí descubre la maldición de los Fader, que lo vuelve inmortal; en Operación Londres busca el frasco de Rasputín para volver a ser mortal.',
+    s: 'Mendocino radicado en Moscú que se hace rico de golpe —sin decir cómo— y lleva a Natalia a Mendoza. Allí descubre la maldición de los Fader, que lo vuelve inmortal; en Operación Londres busca el frasco de Rasputín para volver a ser mortal.',
     box: [['Origen', 'Las Heras, [[mendoza|Mendoza]]'], ['Residencia', '[[moscu|Moscú]]'], ['Pareja', '[[natalia-fader|Natalia]]'], ['Familia', '[[sergio|Sergio]] (padre), Mónica, [[karl-fader|Karl Fader]] (antepasado)'], ['Condición', 'Inmortal'], ['Vehículo', 'Un Gacel']],
     b: `**Luis Fader** es el más autobiográfico de los Luis. *Operación Londres* abre con su infancia en Las Heras en 1992: una madre que mira un documental sobre Malvinas, un niño que no quiere ser soldado y que se refugia en la música clásica.
 
 ## Aventura
 
-Gana la lotería, se lleva a [[natalia-fader|Natalia]] de Moscú a Mendoza y se encuentra con su pasado: el [[hidromiel|hidromiel]], [[karl-fader|Karl]] y la [[maldicion-fader|maldición]]. Conduce un Gacel «como un piloto de carreras», se enfrenta al chamán Lautaro gritando «¡Mendoza es huarpe, no es mapuche!» y destruye su cetro. Capítulo 51: «Luis el inmortal».
+Se hace rico de golpe (al final la tele insinúa que robó un tesoro de los masones de San Petersburgo), se lleva a [[natalia-fader|Natalia]] de Moscú a Mendoza y se encuentra con su pasado: el [[hidromiel|hidromiel]], [[karl-fader|Karl]] y la [[maldicion-fader|maldición]]. Conduce un Gacel «como un piloto de carreras», se enfrenta al chamán Lautaro gritando «¡Mendoza es huarpe, no es mapuche!» y destruye su cetro. Capítulo 51: «Luis el inmortal».
 
 ## Operación Londres
 
@@ -652,13 +652,13 @@ Luis ya no puede morir. Para volver a ser mortal busca el frasco perdido desde l
   },
   ru: {
     t: 'Луис Фадер (Мендоса)',
-    s: 'Мендосинец, живущий в Москве, выигрывает в лотерею и везёт Наталью в Мендосу. Там раскрывает проклятие Фадеров, которое делает его бессмертным; в «Операции «Лондон»» ищет флакон Распутина, чтобы снова стать смертным.',
+    s: 'Мендосинец, живущий в Москве, внезапно разбогатев — и не объясняя как, — везёт Наталью в Мендосу. Там раскрывает проклятие Фадеров, которое делает его бессмертным; в «Операции «Лондон»» ищет флакон Распутина, чтобы снова стать смертным.',
     box: [['Родом из', 'Лас-Эрас, [[mendoza|Мендоса]]'], ['Живёт', '[[moscu|Москва]]'], ['Спутница', '[[natalia-fader|Наталья]]'], ['Семья', '[[sergio|Серхио]] (отец), Моника, [[karl-fader|Карл Фадер]] (предок)'], ['Состояние', 'бессмертен'], ['Машина', '«Гасель» (Gacel)']],
     b: `**Луис Фадер** — самый автобиографичный из Луисов. «Операция «Лондон»» открывается его детством в Лас-Эрас в 1992 году: мама смотрит документальный фильм о Мальвинах, а мальчик, который не хочет быть солдатом, ищет убежища в классической музыке.
 
 ## Приключение
 
-Он выигрывает в лотерею, везёт [[natalia-fader|Наталью]] из Москвы в Мендосу и встречается со своим прошлым: [[hidromiel|медовухой]], [[karl-fader|Карлом]] и [[maldicion-fader|проклятием]]. Водит «Гасель» «как гонщик», бросается на шамана Лаутаро с криком «Мендоса — уарпе, а не мапуче!» и ломает его скипетр. Глава 51 — «Луис бессмертный».
+Он внезапно богатеет (в финале телевидение намекает на сокровища петербургских масонов), везёт [[natalia-fader|Наталью]] из Москвы в Мендосу и встречается со своим прошлым: [[hidromiel|медовухой]], [[karl-fader|Карлом]] и [[maldicion-fader|проклятием]]. Водит «Гасель» «как гонщик», бросается на шамана Лаутаро с криком «Мендоса — уарпе, а не мапуче!» и ломает его скипетр. Глава 51 — «Луис бессмертный».
 
 ## «Операция «Лондон»»
 
@@ -695,7 +695,7 @@ A({
   es: {
     t: 'Karl Fader',
     s: 'Antepasado inmortal de la familia, custodio del hidromiel y víctima original de la maldición. Huyó a la Argentina para proteger el secreto y vio pasar generaciones de sus descendientes.',
-    box: [['Condición', 'Inmortal ([[maldicion-fader|maldición]])'], ['Custodia', '[[hidromiel|El hidromiel]]'], ['Cómplice', 'Heinrich'], ['Residencia', 'Mansión Fader, [[mendoza|Mendoza]]'], ['Parentesco', 'Tatarabuelo de [[sergio|Sergio]]']],
+    box: [['Condición', 'Inmortal ([[maldicion-fader|maldición]])'], ['Custodia', '[[hidromiel|El hidromiel]]'], ['Cómplice', 'Heinrich'], ['Residencia', 'Mansión Fader, [[mendoza|Mendoza]]'], ['Parentesco', 'Bisabuelo de [[sergio|Sergio]], tatarabuelo de [[luis-fader|Luis]]']],
     b: `**Karl Fader** habla con mirada penetrante y voz grave, a la luz de las velas, en la sala de su mansión: «La historia de los Fader no es una simple crónica familiar».
 
 ## Genealogía según Karl
@@ -707,16 +707,16 @@ A({
 
 ## Su crimen y su castigo
 
-Robó el [[hidromiel|hidromiel]], fue traicionado por un masón, huyó a la Argentina, fue chantajeado por Roca y maldecido por un niño mapuche. Desde entonces vive para siempre: «Soy inmortal, pero me canso».
+Robó el [[hidromiel|hidromiel]], vendió un frasco en el París de la Comuna, huyó a la Argentina, fue chantajeado por Roca y maldecido por un niño mapuche. Desde entonces vive para siempre: «Soy inmortal, pero me canso».
 
 ## Escena
 
-Al ver luchar a su tataranieto Sergio, saca un frasquito de su bolsillo: «Tomá, Sergio. Esto te dará la fuerza que necesitás».`
+Al ver luchar a su bisnieto Sergio, saca un frasquito de su bolsillo: «Tomá, Sergio. Esto te dará la fuerza que necesitás».`
   },
   ru: {
     t: 'Карл Фадер',
     s: 'Бессмертный предок семьи, хранитель медовухи и первая жертва проклятия. Бежал в Аргентину, чтобы защитить тайну, и видел, как сменяются поколения его потомков.',
-    box: [['Состояние', 'бессмертен ([[maldicion-fader|проклятие]])'], ['Хранит', '[[hidromiel|медовуху]]'], ['Сообщник', 'Генрих'], ['Живёт', 'особняк Фадеров, [[mendoza|Мендоса]]'], ['Родство', 'прапрадед [[sergio|Серхио]]']],
+    box: [['Состояние', 'бессмертен ([[maldicion-fader|проклятие]])'], ['Хранит', '[[hidromiel|медовуху]]'], ['Сообщник', 'Генрих'], ['Живёт', 'особняк Фадеров, [[mendoza|Мендоса]]'], ['Родство', 'прадед [[sergio|Серхио]], прапрадед [[luis-fader|Луиса]]']],
     b: `**Карл Фадер** говорит пронзительно глядя, низким голосом, при свечах, в зале своего особняка: «История Фадеров — не просто семейная хроника».
 
 ## Родословная по Карлу
@@ -728,11 +728,11 @@ Al ver luchar a su tataranieto Sergio, saca un frasquito de su bolsillo: «Tomá
 
 ## Преступление и наказание
 
-Он украл [[hidromiel|медовуху]], был предан масоном, бежал в Аргентину, попал под шантаж Роки и был проклят мальчиком-мапуче. С тех пор он живёт вечно: «Я бессмертен, но устаю».
+Он украл [[hidromiel|медовуху]], продал флакон в Париже времён Коммуны, бежал в Аргентину, попал под шантаж Роки и был проклят мальчиком-мапуче. С тех пор он живёт вечно: «Я бессмертен, но устаю».
 
 ## Сцена
 
-Видя, как сражается его праправнук Серхио, он достаёт из кармана крошечный флакон: «Держи, Серхио. Это даст тебе нужную силу».`
+Видя, как сражается его правнук Серхио, он достаёт из кармана крошечный флакон: «Держи, Серхио. Это даст тебе нужную силу».`
   }
 });
 

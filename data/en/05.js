@@ -187,13 +187,13 @@ EN('galina-sergeevna', {
 
 EN('luis-fader', {
   t: 'Luis Fader (Mendoza)',
-  s: 'A man from Mendoza living in Moscow who wins the lottery and takes Natalia to Mendoza. There he discovers the Fader curse, which makes him immortal; in Operation London he seeks Rasputin\'s flask to become mortal again.',
+  s: 'A man from Mendoza living in Moscow who suddenly gets rich, without saying how, and takes Natalia to Mendoza. There he discovers the Fader curse, which makes him immortal; in Operation London he seeks Rasputin\'s flask to become mortal again.',
   box: [['Origin', 'Las Heras, [[mendoza|Mendoza]]'], ['Residence', '[[moscu|Moscow]]'], ['Partner', '[[natalia-fader|Natalia]]'], ['Family', '[[sergio|Sergio]] (father), Mónica, [[karl-fader|Karl Fader]] (ancestor)'], ['Condition', 'Immortal'], ['Vehicle', 'A Gacel']],
   b: `**Luis Fader** is the most autobiographical of the Luises. *Operation London* opens with his childhood in Las Heras in 1992: a mother watching a documentary about the Falklands, a boy who does not want to be a soldier and takes refuge in classical music.
 
 ## Adventure
 
-He wins the lottery, takes [[natalia-fader|Natalia]] from Moscow to Mendoza and runs into his past: the [[hidromiel|mead]], [[karl-fader|Karl]] and the [[maldicion-fader|curse]]. He drives a Gacel "like a racing driver", faces the shaman Lautaro shouting "Mendoza is Huarpe, not Mapuche!" and destroys his sceptre. Chapter 51: "Luis the Immortal".
+He suddenly gets rich (at the end the TV hints at a treasure stolen from the St Petersburg Freemasons), takes [[natalia-fader|Natalia]] from Moscow to Mendoza and runs into his past: the [[hidromiel|mead]], [[karl-fader|Karl]] and the [[maldicion-fader|curse]]. He drives a Gacel "like a racing driver", faces the shaman Lautaro shouting "Mendoza is Huarpe, not Mapuche!" and destroys his sceptre. Chapter 51: "Luis the Immortal".
 
 ## Operation London
 
@@ -212,7 +212,7 @@ For the author she is "tender and sweet, but very sure of herself; she conveys c
 EN('karl-fader', {
   t: 'Karl Fader',
   s: 'The family\'s immortal ancestor, keeper of the mead and original victim of the curse. He fled to Argentina to protect the secret and watched generations of his descendants go by.',
-  box: [['Condition', 'Immortal ([[maldicion-fader|curse]])'], ['Keeps', '[[hidromiel|The mead]]'], ['Accomplice', 'Heinrich'], ['Residence', 'Fader mansion, [[mendoza|Mendoza]]'], ['Kinship', 'Great-great-grandfather of [[sergio|Sergio]]']],
+  box: [['Condition', 'Immortal ([[maldicion-fader|curse]])'], ['Keeps', '[[hidromiel|The mead]]'], ['Accomplice', 'Heinrich'], ['Residence', 'Fader mansion, [[mendoza|Mendoza]]'], ['Kinship', 'Great-grandfather of [[sergio|Sergio]], great-great-grandfather of [[luis-fader|Luis]]']],
   b: `**Karl Fader** speaks with a piercing gaze and a deep voice, by candlelight, in the drawing room of his mansion: "The history of the Faders is not a simple family chronicle."
 
 ## Genealogy according to Karl
@@ -224,11 +224,11 @@ EN('karl-fader', {
 
 ## His crime and his punishment
 
-He stole the [[hidromiel|mead]], was betrayed by a Freemason, fled to Argentina, was blackmailed by Roca and cursed by a Mapuche boy. Since then he has lived forever: "I am immortal, but I get tired."
+He stole the [[hidromiel|mead]], sold a flask in Commune-era Paris, fled to Argentina, was blackmailed by Roca and cursed by a Mapuche boy. Since then he has lived forever: "I am immortal, but I get tired."
 
 ## Scene
 
-Watching his great-great-grandson Sergio fight, he takes a little flask out of his pocket: "Here, Sergio. This will give you the strength you need."`
+Watching his great-grandson Sergio fight, he takes a little flask out of his pocket: "Here, Sergio. This will give you the strength you need."`
 });
 
 EN('sergio', {

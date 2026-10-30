@@ -60,7 +60,7 @@ Al hundirse poco a poco en este mundo de engaño, pasión e ilusiones, el detect
   'severnaya-lyubov': { es: `A veces el destino empieza con una sola nota. Una noche Román oye una melodía que cambia su vida. Llega de un sueño: fría, hermosa y triste. Intenta olvidarla, pero la música vuelve una y otra vez, como si lo llamara hacia el norte.
 Mientras tanto, lejos de él vive Sofía, una joven cuya vida también está ligada a esa misteriosa melodía. Cuando sus caminos se crucen, descubrirán que la música puede unir los corazones con más fuerza que el tiempo y la distancia. Pero cada melodía tiene su sombra… y a veces el amor exige más valor del que parece.
 «Amor del norte» es una historia sobre el destino, la música y los sentimientos que no se pueden acallar.` },
-  'tajna-semi-fader': { es: `Un día helado en una pista de patinaje de Moscú. Luis le da a Natalia una noticia increíble: ganó la lotería y les espera un viaje por todo el mundo. Pero quiere empezarlo por Mendoza, la tierra de sol, montañas y vino al pie de los Andes donde pasó su infancia.
+  'tajna-semi-fader': { es: `Un día helado en una pista de patinaje de Moscú. Luis le da a Natalia una noticia increíble: se hizo rico —aunque no dice cómo— y les espera un viaje por todo el mundo. Pero quiere empezarlo por Mendoza, la tierra de sol, montañas y vino al pie de los Andes donde pasó su infancia.
 Allí, entre viñedos y viejas historias familiares, los espera el pasado de la familia Fader y un secreto que esperó demasiado tiempo su momento.
 Una historia de amor, secretos de familia y un gran viaje.` },
   'grustnyj-gorod': { es: `En la ciudad de Sinea está prohibido reír.

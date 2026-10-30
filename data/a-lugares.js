@@ -106,7 +106,7 @@ A({
 
 - **La hora anómala** — un encuentro casual en los estanques del Patriarca; durante la [[hora-anomala|Hora anómala]] la ciudad viaja a 1697, 1812 y 1917. La novela tiene un capítulo «Otras Moscús».
 - **Contra la oscuridad** — «Sombras sobre la Piátnitskaya»: el sol desaparece y la [[penumbra|Penumbra]] se extiende desde la pista de patinaje de la Plaza Roja.
-- **El misterio de los Fader** — en una pista de patinaje helada, Luis anuncia que ganó la lotería.
+- **El misterio de los Fader** — en una pista de patinaje helada, Luis anuncia que se hizo rico (y no quiere decir cómo).
 - **La gran conspiración** — un Moscú nevado visto desde las alturas, con una cardióloga y dos argentinos.
 - **A Man from the Future** — Alex viaja desde el Moscú de 3024, un mundo sin mujeres, al de 2024, donde hasta un café es una aventura.`
   },
@@ -120,7 +120,7 @@ A({
 
 - **«Аномальный час»** — случайная встреча у Патриарших прудов; во время [[hora-anomala|Аномального часа]] город переносится в 1697, 1812 и 1917 годы. В романе есть глава «Другие Москвы».
 - **«Против мрака»** — «Тени над Пятницкой»: солнце исчезает, и [[penumbra|Хмурь]] расползается от катка на Красной площади.
-- **«Тайна семьи Фадер»** — на морозном катке Луис сообщает, что выиграл в лотерею.
+- **«Тайна семьи Фадер»** — на морозном катке Луис сообщает, что разбогател (и не говорит как).
 - **«La gran conspiración»** — заснеженная Москва с высоты, кардиолог и два аргентинца.
 - **«A Man from the Future»** — Алекс попадает из Москвы 3024 года, мира без женщин, в Москву 2024-го, где даже чашка кофе — приключение.`
   }

@@ -29,7 +29,7 @@ EN('moscu', {
 
 - **The Anomalous Hour**: a chance meeting at the Patriarch's Ponds; during the [[hora-anomala|Anomalous Hour]] the city travels to 1697, 1812 and 1917. The novel has a chapter called "Other Moscows".
 - **Against the Darkness**: "Shadows over Pyatnitskaya": the sun disappears and the [[penumbra|Gloom]] spreads from the Red Square ice rink.
-- **The Fader Mystery**: at a frozen ice rink, Luis announces that he has won the lottery.
+- **The Fader Mystery**: at a frozen ice rink, Luis announces that he has got rich (and won't say how).
 - **The Great Conspiracy**: a snowy Moscow seen from above, with a cardiologist and two Argentines.
 - **A Man from the Future**: Alex travels from the Moscow of 3024, a world without women, to that of 2024, where even a coffee is an adventure.`
 });

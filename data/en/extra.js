@@ -64,7 +64,7 @@ As he sinks little by little into this world of deceit, passion and illusion, th
     'severnaya-lyubov': `Sometimes fate begins with a single note. One night Roman hears a melody that changes his life. It comes from a dream: cold, beautiful and sad. He tries to forget it, but the music comes back again and again, as if calling him north.
 Meanwhile, far away from him, lives Sofía, a young woman whose life is also tied to that mysterious melody. When their paths cross, they will discover that music can bind hearts more strongly than time and distance. But every melody has its shadow… and sometimes love demands more courage than it seems.
 "Northern Love" is a story about fate, music and feelings that cannot be silenced.`,
-    'tajna-semi-fader': `A freezing day at a Moscow ice rink. Luis gives Natalia incredible news: he has won the lottery and a journey around the world awaits them. But he wants to start it in Mendoza, the land of sunshine, mountains and wine at the foot of the Andes where he spent his childhood.
+    'tajna-semi-fader': `A freezing day at a Moscow ice rink. Luis gives Natalia incredible news: he has got rich, though he won't say how, and a journey around the world awaits them. But he wants to start it in Mendoza, the land of sunshine, mountains and wine at the foot of the Andes where he spent his childhood.
 There, among vineyards and old family stories, the past of the Fader family is waiting for them, and a secret that has waited too long for its moment.
 A story of love, family secrets and a great journey.`,
     'grustnyj-gorod': `In the city of Sinea laughing is forbidden.

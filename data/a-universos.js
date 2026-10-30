@@ -336,13 +336,13 @@ A({
   see: ['maldicion-fader', 'hidromiel', 'karl-fader', 'luis-fader', 'natalia-fader', 'mendoza', 'sergio'],
   es: {
     t: 'El misterio de los Fader',
-    s: 'Aventura, misterio y humor mendocino. Luis gana la lotería y lleva a Natalia de Moscú a Mendoza, donde descubre la maldición de su familia: un elixir robado hace siglos y un antepasado que no puede morir.',
+    s: 'Aventura, misterio y humor mendocino. Luis se hace rico de golpe y lleva a Natalia de Moscú a Mendoza, donde descubre la maldición de su familia: un elixir de receta antigua y un antepasado que no puede morir.',
     box: [['Género', 'Aventura · misterio · humor'], ['Idiomas', 'español, ruso'], ['Protagonistas', '[[luis-fader|Luis]] y [[natalia-fader|Natalia]]'], ['Escenarios', '[[moscu|Moscú]], [[mendoza|Mendoza]], Londres'], ['Clímax', 'Anfiteatro Frank Romero Day'], ['Continuación', '*Operación Londres* (2026)']],
     b: `**El misterio de los Fader** es el universo más autobiográfico del [[multiverso|multiverso]]: arranca con un prólogo en primera persona en el que el autor habla de su apellido, de su padre Sergio y de la [[mendoza|Mendoza]] que dejó hace más de dieciséis años.
 
 ## Argumento
 
-Un día helado en una pista de patinaje de Moscú, [[luis-fader|Luis]] le cuenta a [[natalia-fader|Natalia]] que ganó la lotería: viajarán por el mundo, empezando por Mendoza. Allí, entre viñedos, la Vendimia y un maletín que el millonario Dominigo Castro esperó durante años, aparece el pasado de la familia: la [[maldicion-fader|maldición de los Fader]] y el [[hidromiel|hidromiel]], el elixir que da poder y longevidad.
+Un día helado en una pista de patinaje de Moscú, [[luis-fader|Luis]] le cuenta a [[natalia-fader|Natalia]] que se hizo rico —y no dice cómo—: viajarán por el mundo, empezando por Mendoza. Allí, entre viñedos, la Vendimia y un maletín que el millonario Domingo Castro esperó durante años, aparece el pasado de la familia: la [[maldicion-fader|maldición de los Fader]] y el [[hidromiel|hidromiel]], el elixir que da poder y longevidad.
 
 El desenlace ocurre en el anfiteatro Frank Romero Day, donde los Fader, guerreros convocados por el chamán Lautaro y la hinchada de Huracán Las Heras se mezclan en una batalla tan épica como disparatada. Luis termina convertido en inmortal.
 
@@ -353,20 +353,20 @@ En la continuación, Luis ya no puede morir y Natalia sabe que el tiempo corre s
 ## Claves
 
 - Humor muy argentino (*«¡Me siento Asterix, che!»*) junto a la historia real de Mendoza.
-- Personajes que son tatarabuelos y tataranietos al mismo tiempo, gracias al elixir.
+- Un tatarabuelo inmortal que conoce a su tataranieto en el backstage de la Vendimia.
 - El [[zorro|zorro de la montaña]], protector misterioso.
 
 > «El amor y la magia son inseparables.»`
   },
   ru: {
     t: 'Тайна семьи Фадер',
-    s: 'Приключения, тайна и мендосский юмор. Луис выигрывает в лотерею и везёт Наталью из Москвы в Мендосу, где раскрывает проклятие своей семьи: эликсир, украденный столетия назад, и предка, который не может умереть.',
+    s: 'Приключения, тайна и мендосский юмор. Луис внезапно богатеет и везёт Наталью из Москвы в Мендосу, где раскрывает проклятие своей семьи: эликсир по старинному рецепту и предка, который не может умереть.',
     box: [['Жанр', 'приключения · тайна · юмор'], ['Языки', 'испанский, русский'], ['Герои', '[[luis-fader|Луис]] и [[natalia-fader|Наталья]]'], ['Места', '[[moscu|Москва]], [[mendoza|Мендоса]], Лондон'], ['Кульминация', 'амфитеатр Франка Ромеро Дея'], ['Продолжение', '«Операция «Лондон»» (2026)']],
     b: `**«Тайна семьи Фадер»** — самая автобиографичная вселенная [[multiverso|мультивселенной]]: она начинается с пролога от первого лица, где автор рассказывает о своей фамилии, об отце Серхио и о [[mendoza|Мендосе]], которую покинул больше шестнадцати лет назад.
 
 ## Сюжет
 
-Морозный день на московском катке. [[luis-fader|Луис]] сообщает [[natalia-fader|Наталье]], что выиграл в лотерею: они отправятся в путешествие по миру, начиная с Мендосы. Там, среди виноградников, Вендимии и портфеля, которого годами ждал богач Доминиго Кастро, всплывает прошлое семьи: [[maldicion-fader|проклятие Фадеров]] и [[hidromiel|медовуха]] — эликсир силы и долголетия.
+Морозный день на московском катке. [[luis-fader|Луис]] сообщает [[natalia-fader|Наталье]], что разбогател — и не говорит как: они отправятся в путешествие по миру, начиная с Мендосы. Там, среди виноградников, Вендимии и портфеля, которого годами ждал богач Доминиго Кастро, всплывает прошлое семьи: [[maldicion-fader|проклятие Фадеров]] и [[hidromiel|медовуха]] — эликсир силы и долголетия.
 
 Развязка происходит в амфитеатре Франка Ромеро Дея, где Фадеры, воины шамана Лаутаро и фанаты «Уракан Лас-Эрас» сходятся в битве, столь же эпической, сколь и безумной. Луис становится бессмертным.
 
@@ -377,7 +377,7 @@ En la continuación, Luis ya no puede morir y Natalia sabe que el tiempo corre s
 ## Особенности
 
 - Очень аргентинский юмор («Я как Астерикс, че!») рядом с реальной историей Мендосы.
-- Персонажи, которые благодаря эликсиру одновременно прапрадед и праправнук.
+- Бессмертный прапрадед, который знакомится с праправнуком за кулисами Вендимии.
 - [[zorro|Горный лис]] — таинственный защитник.
 
 > «Любовь и магия неразделимы».`

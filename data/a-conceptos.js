@@ -242,7 +242,7 @@ A({
 
 ## El relato de Karl
 
-En la mansión familiar de Mendoza, a la luz de las velas, [[karl-fader|Karl Fader]] revela la historia: siglos atrás, junto a Heinrich, robó el [[hidromiel|hidromiel]] a un antepasado, queriendo usarlo «para el bien». Un francmasón los traicionó y se llevó parte del elixir. Karl huyó a la Argentina creyendo que allí estaría a salvo, pero un francés reveló su secreto a Julio Argentino Roca, que lo chantajeó para producir hidromiel en grandes cantidades y fortalecer a sus soldados durante la Campaña del Desierto.
+En la mansión familiar de Mendoza, a la luz de las velas, [[karl-fader|Karl Fader]] revela la historia: de joven, en Alemania, encontró con Heinrich la receta del [[hidromiel|hidromiel]] entre los papeles de un antepasado, queriendo usarlo «para el bien». En el París de 1871 le vendió un frasco a un francés desesperado, y con ese elixir los comuneros resistieron en las barricadas. Karl huyó a la Argentina creyendo que allí estaría a salvo, pero un francés reveló su secreto a Julio Argentino Roca, que lo chantajeó para producir hidromiel en grandes cantidades y fortalecer a sus soldados durante la Campaña del Desierto.
 
 > «Un niño mapuche, testigo de la masacre, me maldijo. Me condenó a una vida eterna, viendo cómo mis descendientes caían en la desgracia, la pobreza y el fracaso.»
 
@@ -264,7 +264,7 @@ La maldición une fantasía y memoria histórica: el pecado familiar está ancla
 
 ## Рассказ Карла
 
-В семейном особняке в Мендосе при свечах [[karl-fader|Карл Фадер]] раскрывает историю: столетия назад вместе с Генрихом он украл у предка [[hidromiel|медовуху]], желая использовать её «во благо». Масон предал их и похитил часть эликсира. Карл бежал в Аргентину, думая, что там будет в безопасности, но один француз выдал его тайну Хулио Архентино Роке, и тот шантажом заставил его производить медовуху в огромных количествах, чтобы укрепить солдат во время «Завоевания пустыни».
+В семейном особняке в Мендосе при свечах [[karl-fader|Карл Фадер]] раскрывает историю: в молодости, в Германии, он вместе с Генрихом нашёл рецепт [[hidromiel|медовухи]] в бумагах предка, желая использовать её «во благо». В Париже 1871 года он продал флакон отчаявшемуся французу, и с этим эликсиром коммунары выстояли на баррикадах. Но потом тот же француз похитил часть эликсира. Карл бежал в Аргентину, думая, что там будет в безопасности, но один француз выдал его тайну Хулио Архентино Роке, и тот шантажом заставил его производить медовуху в огромных количествах, чтобы укрепить солдат во время «Завоевания пустыни».
 
 > «Мальчик-мапуче, свидетель резни, проклял меня. Обрёк на вечную жизнь — смотреть, как мои потомки впадают в несчастье, бедность и неудачи».
 
@@ -1020,14 +1020,14 @@ A({
   see: ['maldicion-fader', 'karl-fader', 'vid-magica', 'luis-fader'],
   es: {
     t: 'Hidromiel de los Fader',
-    s: 'Elixir ancestral que otorga poder y longevidad. Robado hace siglos por Karl Fader, codiciado por masones, generales y chamanes, está en el origen de la maldición familiar.',
+    s: 'Elixir ancestral que otorga poder y longevidad. Recreado por Karl Fader a partir de una receta familiar, codiciado por comuneros, generales y chamanes, está en el origen de la maldición familiar.',
     box: [['Tipo', 'Elixir / brebaje'], ['Efectos', 'Fuerza, energía, longevidad, poder sobre otros'], ['Custodio', '[[karl-fader|Karl Fader]]'], ['Usos conocidos', 'Campaña del Desierto; el cetro del chamán Lautaro; el frasco de Sergio'], ['Variante', 'El frasco de Rasputín (Operación Londres)']],
     b: `«El hidromiel no es una simple bebida —explica [[karl-fader|Karl Fader]]—. Es una sustancia ancestral, un elixir que otorga poder y longevidad.»
 
 ## Historia
 
 - Robado por Karl y Heinrich a un antepasado, con la intención de «usarlo para el bien».
-- Un francmasón traicionó a la familia y se llevó una parte.
+- En el París de la Comuna (1871), Karl le vendió un frasco a Pierre, un francés desesperado; los comuneros lo bebieron en las barricadas.
 - En Argentina, Julio Argentino Roca obligó a Karl a producirlo en grandes cantidades para fortalecer a sus tropas: de ahí la [[maldicion-fader|maldición]].
 
 ## En acción
@@ -1042,7 +1042,7 @@ En *Operación Londres*, la única esperanza de revertir la inmortalidad de Luis
   },
   ru: {
     t: 'Медовуха Фадеров',
-    s: 'Древний эликсир силы и долголетия. Украденный столетия назад Карлом Фадером, желанный для масонов, генералов и шаманов, он лежит в основе семейного проклятия.',
+    s: 'Древний эликсир силы и долголетия. Воссозданный Карлом Фадером по семейному рецепту, желанный для коммунаров, генералов и шаманов, он лежит в основе семейного проклятия.',
     box: [['Тип', 'эликсир / зелье'], ['Действие', 'сила, энергия, долголетие, власть над другими'], ['Хранитель', '[[karl-fader|Карл Фадер]]'], ['Известные применения', '«Завоевание пустыни»; скипетр шамана Лаутаро; флакон Серхио'], ['Вариант', 'флакон Распутина («Операция «Лондон»»)']],
     b: `«Медовуха — это не просто напиток, — объясняет [[karl-fader|Карл Фадер]]. — Это древнее вещество, эликсир, дающий силу и долголетие».
 
