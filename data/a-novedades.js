@@ -473,50 +473,6 @@ En el aeropuerto de Domodédovo, Natalia lo espera. «—¡De verdad viniste! Si
   }
 });
 
-/* ---------- Julián ---------- */
-
-A({
-  id: 'julian-jabru', type: 'personaje', uni: 'otros', img: 'assets/icon.svg',
-  novels: [],
-  see: ['robert-fader', 'mendoza'],
-  es: {
-    t: 'Julián y La Jabru',
-    s: 'El protagonista de diez relatos de humor absurdo para estudiantes de español: un oficinista de treinta y cinco años al que las expresiones argentinas le juegan malas pasadas. La Jabru es el apodo de su mujer.',
-    box: [['Ruso', 'Хулиан и Ла Хабру'], ['Libro', '*Julián: La Jabru y otras desgracias* (2026)'], ['Nivel', 'A1–A2'], ['Rasgo', 'Voseo, expresiones argentinas, notas culturales en ruso'], ['Capítulos', '10']],
-    b: `**Julián** tiene treinta y cinco años, trabaja en una oficina y vive con su mujer. «Mi vida es casi normal, pero tengo un problema. La Jabru me pega.» ¿Le pega? Sí: **con pegamento, a la pared**, cada vez que llega a las dos de la mañana. Al día siguiente sale para el trabajo, pero la camisa y los pantalones se quedan pegados, y llega a la oficina sin ropa: «Mi mujer y yo estamos muy unidos».
-
-## El nombre
-
-**La Jabru** es «bruja» al revés: *bru-ja → ja-bru*, un apodo que inventa Julián. El juego de sílabas, típico del habla rioplatense, abre un libro entero de juegos de palabras.
-
-## Los capítulos
-
-Cada relato toma una expresión argentina al pie de la letra: «No me da pelota», «Estoy en el horno», «Me toma el pelo», «No tengo un mango», «Me importa un pepino», «Estoy hecho bolsa», «Me da una mano», «Se me va la olla» y «La vida es una fiesta».
-
-## Para estudiantes
-
-Al final de cada capítulo hay una **explicación en ruso** del doble sentido, por ejemplo *pegar* («golpear» y «pegar con pegamento») o *estar unidos*. El libro advierte que no presenta la violencia real como chiste: la gracia está en el significado de las palabras.`
-  },
-  ru: {
-    t: 'Хулиан и Ла Хабру',
-    s: 'Герой десяти абсурдно-юмористических рассказов для изучающих испанский: тридцатипятилетний офисный сотрудник, которому аргентинские выражения постоянно подкладывают свинью. Ла Хабру — прозвище его жены.',
-    box: [['Испанский', 'Julián y La Jabru'], ['Книга', '«Julián: La Jabru y otras desgracias» (2026)'], ['Уровень', 'A1–A2'], ['Особенности', 'восео, аргентинские выражения, культурные пояснения на русском'], ['Главы', '10']],
-    b: `**Хулиану** тридцать пять, он работает в офисе и живёт с женой. «Моя жизнь почти нормальная, но у меня проблема. Ла Хабру меня *pega*». Бьёт? Нет — **приклеивает к стене клеем** каждый раз, когда он приходит в два часа ночи. Утром он вырывается на работу, но рубашка и брюки остаются на стене, и в офис он приходит без одежды: «Мы с женой очень *unidos*» — близки и склеены одновременно.
-
-## Имя
-
-**La Jabru** — это «bruja» («ведьма») наоборот: *bru-ja → ja-bru*, прозвище, придуманное Хулианом. Игра со слогами, типичная для речи Рио-де-ла-Платы, открывает целую книгу игры слов.
-
-## Главы
-
-Каждый рассказ понимает аргентинское выражение буквально: «No me da pelota», «Estoy en el horno», «Me toma el pelo», «No tengo un mango», «Me importa un pepino», «Estoy hecho bolsa», «Me da una mano», «Se me va la olla» и «La vida es una fiesta».
-
-## Для студентов
-
-В конце каждой главы — **объяснение на русском** двойного смысла: например, *pegar* («ударять» и «приклеивать») или *estar unidos*. Книга оговаривает, что реальное насилие здесь не изображается как шутка: комизм основан на значениях слов.`
-  }
-});
-
 /* ---------- Ampliaciones de artículos existentes ---------- */
 
 addTo('hora-anomala',

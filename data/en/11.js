@@ -165,25 +165,6 @@ In the Russian sequel, **Вася** is a skinny boy from the fortress with a gaz
 > In *The Foreboding* (above) Vasya is an adult first-person narrator; in *Предчувствие 2*, a teenager. They share a name and a universe, like so many characters in the multiverse. Nor is he the detective [[vasili|Vasili]] of *A Dangerous Date*: another repeated name in the multiverse.`
 });
 
-EN('julian-jabru', {
-  t: 'Julián and La Jabru',
-  s: 'The protagonist of ten stories of absurd humour for learners of Spanish: a thirty-five-year-old office worker whom Argentine expressions keep playing tricks on. La Jabru is his wife\'s nickname.',
-  box: [['Russian', 'Хулиан и Ла Хабру'], ['Book', '*Julián: La Jabru y otras desgracias* (2026)'], ['Level', 'A1–A2'], ['Feature', 'Voseo, Argentine expressions, cultural notes in Russian'], ['Chapters', '10']],
-  b: `**Julián** is thirty-five, works in an office and lives with his wife. "My life is almost normal, but I have a problem. La Jabru me pega." In Spanish *pegar* means both "to hit" and "to stick": she does not beat him, she **glues him to the wall**, every time he comes home at two in the morning. The next day he leaves for work, but his shirt and trousers stay stuck, and he arrives at the office without clothes: "My wife and I are very close" (*muy unidos*, literally "very joined").
-
-## The name
-
-**La Jabru** is *bruja* ("witch") backwards: *bru-ja → ja-bru*, a nickname Julián invents. This syllable swapping, typical of River Plate slang, opens a whole book of wordplay.
-
-## The chapters
-
-Each story takes an Argentine expression literally: «No me da pelota» ("she doesn't give me the ball": she ignores me), «Estoy en el horno» ("I'm in the oven": I'm in trouble), «Me toma el pelo» ("he takes my hair": he's pulling my leg), «No tengo un mango» ("I don't have a mango": I'm broke), «Me importa un pepino» ("I care a cucumber": I couldn't care less), «Estoy hecho bolsa» ("I'm made a bag": I'm worn out), «Me da una mano» ("he gives me a hand"), «Se me va la olla» ("my pot is going": I'm losing it) and «La vida es una fiesta» ("life is a party").
-
-## For learners
-
-At the end of each chapter there is an **explanation in Russian** of the double meaning, for example *pegar* ("to hit" and "to glue") or *estar unidos*. The book warns that it does not present real violence as a joke: the fun is in the meaning of the words.`
-});
-
 EN('estelar', {
   t: 'A Starlit Romance',
   s: 'A romantic science-fiction novel in Russian: Laura hides from her past in a village, sees a star fall and meets Luciano, the last Atlantean. Together they awaken the Key, the Seal and the Heart of the World, and return to a living Atlantis.',

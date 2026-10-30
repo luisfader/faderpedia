@@ -270,12 +270,6 @@
   C('morana', 'Morana', null, 'The ancient goddess of winter, who locks dreams in ice. When she has taken them all, winter will never leave.');
   C('baba-vela', 'Baba Vela', null, 'Elena\'s grandmother, who gives her a red thread to protect her from evil.');
   C('petar-bg', 'Petar', null, 'Elena\'s silent colleague, who works with the computers and rarely talks to anyone.');
-  C('julian', 'Julián', null, 'Thirty-five, an office worker with an almost normal life, except that words (and Argentine expressions) keep playing tricks on him.');
-  C('la-jabru', 'La Jabru', null, 'What Julián calls his wife: "bruja" (witch) with the syllables swapped. In the end she throws him a surprise party.');
-  C('nico-julian', 'Nico', null, 'Julián\'s friend, in love with María.');
-  C('maria-julian', 'María', 'Julián', 'She works in a bookshop and has a lovely smile. Although she seems to ignore Nico, she loves him.');
-  C('marta-julian', 'Marta', 'Julián', 'A defender in the Chacarita women\'s football team.');
-  C('pablo-julian', 'Pablo', 'Julián', 'Julián\'s long-haired office colleague.');
   C('mikhail', 'Mikhail', null, 'A broad-shouldered former soldier, Oksana\'s husband. He guards the walls of Our Utopia and is the first to talk of storming Necrologia.');
   C('alexey-gorizont', 'Alexei', 'Radiant Horizon', 'Oksana\'s companion on the road through the ruins. In Necrologia he works the day shift and finds support in Dasha.');
   C('irina-gorizont', 'Irina', 'Radiant Horizon', 'A guitarist travelling with Oksana and Alexei, used to nobody caring about her music, until she finds her audience.');
