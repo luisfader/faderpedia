@@ -128,7 +128,7 @@
     'maschera-di-venezia': 'venecia', 'venecianskaya-maska': 'venecia',
     'divlji-chas': 'hora-salvaje', 'przeczucie': 'utopia',
     'grustnyj-gorod': 'sinea', 'golos': 'sinea', 'il-treno-fantasma': 'sinea',
-    'misteroj-sub-parizo': 'praga', 'do-outro-lado-do-mundo': 'otros',
+    'misteroj-sub-parizo': 'praga', 'la-reina-de-la-vendimia': 'praga', 'do-outro-lado-do-mundo': 'otros',
     'zvezdnyj-roman': 'estelar', 'argenta': 'estelar',
     'la-roma-soto-tera': 'venecia', 'dikij-chas-venecianskoe-koldovstvo': 'hora-salvaje'
   };
