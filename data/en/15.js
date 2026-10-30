@@ -171,3 +171,10 @@ ENadd('mendoza',
 `## The Vendimia queen
 
 In *[[la-reina-de-la-vendimia|La reina de la Vendimia]]* there is "another Mendoza" beneath the Área Fundacional and the ruins of San Francisco, and there the Mulánima, a being from Huarpe mythology, awakens. [[jana|Jana]], disguised as Queen Yanina, faces it in the Greek Theatre.`);
+
+window.SINOPSIS['la-hora-salvaje-tango'] = Object.assign(window.SINOPSIS['la-hora-salvaje-tango'] || {}, {
+  en: `One September night in Belgrade, Luis and Natasha get a call from Buenos Aires: Sergio, Luis's father, can't stop crying. And he isn't the only one. For two weeks the men of all Argentina have been crying over anything at all, while the women laugh.
+Someone did it on purpose. To find out who, the couple fly to Buenos Aires, where a mysterious sceptre, a Casa Rosada guarded by foreigners, legendary monsters, statues that move… and the saddest tango of all are waiting for them: the tango that Luis, in eleven years, has never dared to dance with Natasha.`,
+  ru: `Сентябрьской ночью в Белграде Луису и Наташе звонят из Буэнос-Айреса: Серхио, отец Луиса, не может перестать плакать. И он не один. Уже две недели мужчины по всей Аргентине плачут из-за любой мелочи, а женщины смеются.
+Кто-то сделал это нарочно. Чтобы узнать кто, пара летит в Буэнос-Айрес, где их ждут таинственный скипетр, Каса-Росада под охраной иностранцев, легендарные чудовища, оживающие статуи… и самое грустное танго, которое Луис за одиннадцать лет так и не решился станцевать с Наташей.`
+});
