@@ -153,3 +153,21 @@ After the train, Marcos and Alicia take a trip "far, far away, and with no rails
   C('dominigo-castro', 'Domingo Castro (Kurüf)', 'The Fader Mystery', 'A wealthy resident of the Dalvian neighbourhood, known among the Mapuche as Kurüf, "Jaguar". He receives Karl\'s briefcase with the treasure map, guides the dig in the Cacheuta ruins and ends up betrayed and handcuffed. Karl calls him a "fake Mapuche".');
   C('julieta', 'Julieta', 'Anomalía', 'A Mendoza woman, Luis Fader\'s cousin. A talking wooden fox carved by Mauro drags her through portals across Argentina. Natalia interviews her in the Russian version of The Fader Mystery.');
 })();
+
+/* ---------- La reina de la Vendimia ---------- */
+window.SINOPSIS['la-reina-de-la-vendimia'] = Object.assign(window.SINOPSIS['la-reina-de-la-vendimia'] || {}, {
+  en: `Luis has to travel to Mendoza on a Mystic South mission, but he doesn't dare tell Jana the truth: he says he is going to visit his father. Among his things Jana finds an impossible photo: Luis, a giant, in the middle of Belgrade. Determined to uncover his secret, she crosses half the world, dyes her hair blonde and becomes Yanina, the mysterious Vendimia queen of the Capital.
+While Mendoza celebrates the harvest, beneath the ruins of the colonial city someone awakens a being from Huarpe mythology. And the only one who can speak to it is a queen nobody knows.
+Sequel to "Ostrovy nad Prahou".`
+});
+
+ENadd('jana',
+`## The Vendimia queen
+
+In *[[la-reina-de-la-vendimia|La reina de la Vendimia]]* (in progress), Luis flies to Mendoza on a [[sur-mistico|Mystic South]] mission and tells Jana he is visiting his father. She finds an impossible photo in his notebook (Luis, a giant, in the middle of Belgrade), crosses half the world, goes blonde at Mirta's hair salon and signs up as **Yanina**, Vendimia queen of the Capital. In the Frank Romero Day Greek Theatre she stands before the **Mulánima**, a fire-maned being from Huarpe mythology, and the newspaper *Los Andes* runs the headline "The queen who tamed the beast".`,
+[['Alias', 'Yanina, Vendimia queen of the Capital']]);
+
+ENadd('mendoza',
+`## The Vendimia queen
+
+In *[[la-reina-de-la-vendimia|La reina de la Vendimia]]* there is "another Mendoza" beneath the Área Fundacional and the ruins of San Francisco, and there the Mulánima, a being from Huarpe mythology, awakens. [[jana|Jana]], disguised as Queen Yanina, faces it in the Greek Theatre.`);
