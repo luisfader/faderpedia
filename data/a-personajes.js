@@ -1209,25 +1209,27 @@ A({
   es: {
     t: 'Alessio',
     s: 'Ladrón de arte florentino que entra donde no lo invitan y desaparece antes de que lo noten. Intentar robarle un cuadro a Laura Bellini termina en amor. Juega en la Selección de la Humanidad.',
-    box: [['Ciudad', 'Florencia'], ['Oficio', 'Ladrón de arte'], ['Pareja', '[[laura-bellini|Laura Bellini]]'], ['Amigo', 'Luca, falsificador'], ['Alias', 'Marcos (en Málaga)'], ['Cruces', '[[tren-fantasma|Tren fantasma]], Venecia, [[seleccion-humanidad|Selección de la Humanidad]]']],
+    box: [['Nacimiento', 'Roma (lo oculta)'], ['Ciudad', 'Florencia'], ['Oficio', 'Ladrón de arte'], ['Pareja', '[[laura-bellini|Laura Bellini]]'], ['Amigo', 'Luca, falsificador'], ['Alias', 'Marcos (en Málaga)'], ['Cruces', '[[tren-fantasma|Tren fantasma]], Venecia, [[seleccion-humanidad|Selección de la Humanidad]]']],
     b: `**Alessio** cree que todo tiene precio: un cuadro, un secreto, la confianza ajena. Lee un artículo sobre la coleccionista Laura Bellini y decide entrar en su villa de las colinas para robar un pequeño cuadro. Esa noche será Laura quien decida cómo sigue su aventura.
 
 ## Después
 
 - En *Ladrón de corazones 2*, Alessio y Claudia viven en Málaga con nombres nuevos tras el robo de un Botticelli que los puso en la mira de Interpol; un hombre de traje negro empieza a seguirlos. Aparece el robo del violín de oro de Don Salvatore.
 - Cruza a otros universos: el [[tren-fantasma|tren fantasma]], la nieve rosa de Florencia, Venecia.
+- Aunque vive en Florencia, nació en Roma, un dato que oculta con cuidado: en el tren fantasma dice ser de «Riva del Norte», una ciudad portuaria que no existe en ningún mapa.
 - En la [[seleccion-humanidad|Selección de la Humanidad]], «rápido como el agua entre las piedras».`
   },
   ru: {
     t: 'Алессио',
     s: 'Флорентийский похититель произведений искусства, который проникает туда, куда его не приглашали, и исчезает раньше, чем заметят. Попытка украсть картину у Лауры Беллини оборачивается любовью. Играет за сборную Человечества.',
-    box: [['Город', 'Флоренция'], ['Занятие', 'вор произведений искусства'], ['Любимая', '[[laura-bellini|Лаура Беллини]]'], ['Друг', 'Лука, фальсификатор'], ['Псевдоним', 'Маркос (в Малаге)'], ['Пересечения', '[[tren-fantasma|Призрачный поезд]], Венеция, [[seleccion-humanidad|сборная Человечества]]']],
+    box: [['Родился', 'в Риме (скрывает это)'], ['Город', 'Флоренция'], ['Занятие', 'вор произведений искусства'], ['Любимая', '[[laura-bellini|Лаура Беллини]]'], ['Друг', 'Лука, фальсификатор'], ['Псевдоним', 'Маркос (в Малаге)'], ['Пересечения', '[[tren-fantasma|Призрачный поезд]], Венеция, [[seleccion-humanidad|сборная Человечества]]']],
     b: `**Алессио** уверен, что у всего есть цена: у картины, у тайны, у чужого доверия. Прочитав статью о коллекционерше Лауре Беллини, он решает проникнуть на её виллу на холмах и украсть маленькую картину. Но в ту ночь именно Лаура решит, как продолжится его приключение.
 
 ## Потом
 
 - В «Ladro di cuori 2» Алессио и Клаудия живут в Малаге под новыми именами после кражи Боттичелли, из-за которой их ищет Интерпол; за ними начинает следить человек в чёрном костюме. Появляется кража золотой скрипки дона Сальваторе.
 - Он переходит в другие вселенные: [[tren-fantasma|Призрачный поезд]], розовый снег Флоренции, Венеция.
+- Хотя он живёт во Флоренции, родился он в Риме и тщательно это скрывает: в Призрачном поезде он называет своим родным городом «Рива-дель-Норте», портовый город, которого нет ни на одной карте.
 - В [[seleccion-humanidad|сборной Человечества]] он «быстрый, как вода между камнями».`
   }
 });

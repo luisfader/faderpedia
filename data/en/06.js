@@ -177,7 +177,7 @@ EN('marco-dandolo', {
 EN('alessio', {
   t: 'Alessio',
   s: 'A Florentine art thief who gets in where he is not invited and disappears before anyone notices. Trying to steal a painting from Laura Bellini ends in love. He plays for Team Humanity.',
-  box: [['City', 'Florence'], ['Trade', 'Art thief'], ['Partner', '[[laura-bellini|Laura Bellini]]'], ['Friend', 'Luca, a forger'], ['Alias', 'Marcos (in Málaga)'], ['Crossovers', '[[tren-fantasma|Ghost train]], Venice, [[seleccion-humanidad|Team Humanity]]']],
+  box: [['Born', 'Rome (he hides it)'], ['City', 'Florence'], ['Trade', 'Art thief'], ['Partner', '[[laura-bellini|Laura Bellini]]'], ['Friend', 'Luca, a forger'], ['Alias', 'Marcos (in Málaga)'], ['Crossovers', '[[tren-fantasma|Ghost train]], Venice, [[seleccion-humanidad|Team Humanity]]']],
   b: `**Alessio** believes everything has a price: a painting, a secret, someone else's trust. He reads an article about the collector Laura Bellini and decides to break into her villa in the hills to steal a small painting. That night it will be Laura who decides how his adventure continues.
 
 ## Afterwards
