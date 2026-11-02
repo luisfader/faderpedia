@@ -217,7 +217,7 @@ A({
   es: {
     t: 'El tren fantasma',
     s: 'Un tren sin ruta ni horario que aparece de noche en Sinea y se lleva a personas a las que parece que ya nadie espera. Por dentro: vagones imposibles, zombis que cantan desafinado y un juez que se convierte en gorila.',
-    box: [['Tipo', 'Vehículo sobrenatural'], ['Ciudad', '[[sinea-ciudad|Sinea]]'], ['Juez', '[[casimiro-condena|Casimiro Condena]]'], ['Pasajeros célebres', '[[alicia|Alicia]], Laura Schmidt, Alessio y Laura'], ['Investigador', '[[marcos|Marcos]]'], ['Versiones', 'español (comedia), ruso (detective mágico), italiano (A1)']],
+    box: [['Tipo', 'Vehículo sobrenatural'], ['Ciudad', '[[sinea-ciudad|Sinea]]'], ['Juez', '[[casimiro-condena|Casimiro Condena]]'], ['Pasajeros célebres', '[[alicia|Alicia]], Lucrecia Schmidt, Alessio y Laura'], ['Investigador', '[[marcos|Marcos]]'], ['Versiones', 'español (comedia), ruso (detective mágico), italiano (A1)']],
     b: `El **tren fantasma** (*Призрачный поезд*, *Il treno fantasma*) es la leyenda urbana más famosa de [[sinea-ciudad|Sinea]]: un convoy que aparece de noche y se lleva a la gente. El detective [[marcos|Marcos]] descubre que no elige pasajeros al azar.
 
 ## Los vagones
@@ -243,7 +243,7 @@ En la versión rusa la historia continúa: casas que desaparecen, un mapa que ca
   ru: {
     t: 'Призрачный поезд',
     s: 'Поезд без маршрута и расписания, который появляется по ночам в Синее и увозит людей, которых будто бы больше никто не ждёт. Внутри — невозможные вагоны, фальшиво поющие зомби и судья, превращающийся в гориллу.',
-    box: [['Тип', 'сверхъестественный транспорт'], ['Город', '[[sinea-ciudad|Синея]]'], ['Судья', '[[casimiro-condena|Касимиро Кондена]]'], ['Известные пассажиры', '[[alicia|Алисия]], Лаура Шмидт, Алессио и Лаура'], ['Следователь', '[[marcos|Марк]]'], ['Версии', 'испанская (комедия), русская (магический детектив), итальянская (A1)']],
+    box: [['Тип', 'сверхъестественный транспорт'], ['Город', '[[sinea-ciudad|Синея]]'], ['Судья', '[[casimiro-condena|Касимиро Кондена]]'], ['Известные пассажиры', '[[alicia|Алисия]], Лукреция Шмидт, Алессио и Лаура'], ['Следователь', '[[marcos|Марк]]'], ['Версии', 'испанская (комедия), русская (магический детектив), итальянская (A1)']],
     b: `**Призрачный поезд** — самая известная городская легенда [[sinea-ciudad|Синеи]]: состав, который появляется по ночам и увозит людей. Детектив [[marcos|Марк]] понимает, что он забирает не случайных пассажиров.
 
 ## Вагоны

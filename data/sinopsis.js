@@ -339,3 +339,16 @@ La continuación de «Maschera di Venezia», escrita en véneto.`,
 };
 // Versión rusa de «L’ora selvaggia a Venezia»: misma historia, misma sinopsis en español.
 window.SINOPSIS['dikij-chas-venecianskoe-koldovstvo'] = { es: window.SINOPSIS['ora-selvaggia-venezia'].es };
+
+/* ---------- Novedades de noviembre de 2026 ---------- */
+window.SINOPSIS['predchuvstvie-2-3'] = Object.assign(window.SINOPSIS['predchuvstvie-2-3'] || {}, {
+  es: `Natalia desentierra la tumba de Luis en el desierto y la encuentra vacía. Mientras tanto, del mar salen los tanques-robot de las «Herederas» de la Segunda Potencia, y los habitantes de «Nuestra Utopía» tienen que huir por los túneles hacia el este, a un campamento de refugiados en las montañas.
+El invierno nuclear despertó en las mujeres poderes nunca vistos, y Sasha descubre de pronto que está ligada a la fortaleza misma. Pero para recuperar su casa, Natalia y Oxana tendrán que volver a pelear hombro con hombro, mientras Luis anda cerca y parece jugar su propio juego.
+La tercera temporada de «Предчувствие».`
+});
+window.SINOPSIS['ladro-di-cuori-3'] = {
+  es: `Después del golpe del violín de oro, Alessio y Laura viven tranquilos en una granja de la pampa, entre gallinas, cabras y tomates. Pero cuando en Amberes desaparecen los «Corazones de Diamante» y la pista lleva a Mendoza, Alessio no puede quedarse quieto. Entre los viñedos de Luján de Cuyo, los murales de Fernando Fader y un laberinto de cipreses, lo esperan una prima pintora, un viejo restaurador llamado Don Sergio y un ladrón al que nadie vio nunca la cara: el Fantasma.
+Edición para estudiantes de italiano: cada capítulo trae un vocabulario italiano-ruso y cuatro ejercicios; al final están las soluciones.`,
+  ru: `После кражи золотой скрипки Алессио и Лаура спокойно живут на ферме в пампе, среди кур, коз и помидоров. Но когда в Антверпене исчезают «Бриллиантовые сердца» и след ведёт в Мендосу, Алессио не может усидеть на месте. Среди виноградников Лухан-де-Куйо, фресок Фернандо Фадера и кипарисового лабиринта его ждут кузина-художница, старый реставратор по имени дон Серхио и вор, чьего лица никто никогда не видел, — Призрак.
+Издание для изучающих итальянский: в каждой главе итальянско-русский словарик и четыре упражнения, в конце — ответы.`
+};

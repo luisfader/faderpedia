@@ -189,8 +189,8 @@
   C('romeo', 'Romeo', null, 'A comedian who mocks the mayor.');
   C('octavio-grande', 'Octavio Grande', null, 'The mayor who bans laughter in Sinea.');
   C('rigoberto', 'Rigoberto', null, 'A rich client of Franco.');
-  C('laura-schmidt', 'Laura Schmidt', null, 'A German pastry chef on the ghost train.');
-  C('robert-train', 'Robert', 'ghost train', 'Laura Schmidt\'s brother.');
+  C('laura-schmidt', 'Lucrecia Schmidt', null, 'A German pastry chef on the ghost train.');
+  C('robert-train', 'Robert', 'ghost train', 'Lucrecia Schmidt\'s brother.');
   C('lusiana', 'Lusiana', null, 'An illustrator who dreams of Celestio.');
   C('celestio', 'Celestio', null, 'An architecture student.');
   C('rozovaya-voitelnitsa', 'The Pink Warrior', null, 'Lusiana\'s subconscious.');
@@ -270,7 +270,7 @@
   C('morana', 'Morana', null, 'The ancient goddess of winter, who locks dreams in ice. When she has taken them all, winter will never leave.');
   C('baba-vela', 'Baba Vela', null, 'Elena\'s grandmother, who gives her a red thread to protect her from evil.');
   C('petar-bg', 'Petar', null, 'Elena\'s silent colleague, who works with the computers and rarely talks to anyone.');
-  C('mikhail', 'Mikhail', null, 'A broad-shouldered former soldier, Oksana\'s husband. He guards the walls of Our Utopia and is the first to talk of storming Necrologia.');
+  C('mikhail', 'Mikhail', null, 'A broad-shouldered former soldier, Oksana\'s husband. He guards the walls of Our Utopia and is the first to talk of storming Necrologia. In Предчувствие 2.3 he stays at the walls on the night of the evacuation and, with a sword charged by Sasha\'s power, cuts through the shield of an Heiresses tank, at the cost of his life.');
   C('alexey-gorizont', 'Alexei', 'Radiant Horizon', 'Oksana\'s companion on the road through the ruins. In Necrologia he works the day shift and finds support in Dasha.');
   C('irina-gorizont', 'Irina', 'Radiant Horizon', 'A guitarist travelling with Oksana and Alexei, used to nobody caring about her music, until she finds her audience.');
   C('tikhon-ilyich', 'Tikhon Ilyich', null, 'The old keeper of the pumps that cool KAMERTON: without water the machine would overheat in forty minutes.');

@@ -130,7 +130,8 @@
     'grustnyj-gorod': 'sinea', 'golos': 'sinea', 'il-treno-fantasma': 'sinea',
     'misteroj-sub-parizo': 'praga', 'la-reina-de-la-vendimia': 'praga', 'do-outro-lado-do-mundo': 'otros',
     'zvezdnyj-roman': 'estelar', 'argenta': 'estelar',
-    'la-roma-soto-tera': 'venecia', 'dikij-chas-venecianskoe-koldovstvo': 'hora-salvaje'
+    'la-roma-soto-tera': 'venecia', 'dikij-chas-venecianskoe-koldovstvo': 'hora-salvaje',
+    'kralovna-vinobrani': 'praga', 'la-hora-salvaje-tango': 'hora-salvaje'
   };
   var LANG_NAMES = {
     es: { es: 'español', ru: 'ruso', it: 'italiano', en: 'inglés', de: 'alemán', fr: 'francés', tr: 'turco', pt: 'portugués', cs: 'checo', pl: 'polaco', sr: 'serbio', eo: 'esperanto', isv: 'interslavo', vo: 'volapük', ia: 'interlingua', ld: 'lingwa de planeta', la: 'latín', sw: 'suajili', bg: 'búlgaro', vec: 'véneto' },

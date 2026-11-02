@@ -75,7 +75,7 @@ Sinea is unlucky with its rulers: a mayor who bans laughter ([[octavio-grande|Oc
 EN('tren-fantasma', {
   t: 'The ghost train',
   s: 'A train with no route or timetable that appears at night in Sinea and carries off people nobody seems to be waiting for any more. Inside: impossible carriages, zombies singing out of tune and a judge who turns into a gorilla.',
-  box: [['Type', 'Supernatural vehicle'], ['City', '[[sinea-ciudad|Sinea]]'], ['Judge', '[[casimiro-condena|Casimiro Condena]]'], ['Famous passengers', '[[alicia|Alicia]], Laura Schmidt, Alessio and Laura'], ['Investigator', '[[marcos|Marcos]]'], ['Versions', 'Spanish (comedy), Russian (magical detective), Italian (A1)']],
+  box: [['Type', 'Supernatural vehicle'], ['City', '[[sinea-ciudad|Sinea]]'], ['Judge', '[[casimiro-condena|Casimiro Condena]]'], ['Famous passengers', '[[alicia|Alicia]], Lucrecia Schmidt, Alessio and Laura'], ['Investigator', '[[marcos|Marcos]]'], ['Versions', 'Spanish (comedy), Russian (magical detective), Italian (A1)']],
   b: `The **ghost train** (*Призрачный поезд*, *Il treno fantasma*) is the most famous urban legend of [[sinea-ciudad|Sinea]]: a train that appears at night and takes people away. The detective [[marcos|Marcos]] discovers that it does not choose its passengers at random.
 
 ## The carriages
