@@ -269,7 +269,8 @@ Guarda la casa de Luis y Natasha, acude a las batallas decisivas, es la mascota 
 });
 
 A({
-  id: 'zorro', type: 'criatura', uni: 'multiverso', img: 'img/covers/anomalia.webp',
+  id: 'zorro', type: 'criatura', uni: 'multiverso', img: 'img/ill/anomalia/img-09-1.webp',
+  gal: ['img/ill/anomalia/img-05-1.webp', 'img/ill/anomalia/img-11-1.webp', 'img/ill/anomalia/img-17-1.webp'],
   novels: ['volny-lyubvi', 'volny-lyubvi-krepost', 'anomalia', 'el-misterio-de-los-fader'],
   see: ['olas', 'verdegrad', 'fader', 'mendoza'],
   es: {

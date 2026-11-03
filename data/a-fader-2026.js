@@ -124,7 +124,8 @@ Derrotado, reconoce: «Ganaron ustedes, Fader».`
 });
 
 A({
-  id: 'julieta', type: 'personaje', uni: 'multiverso', img: 'img/covers/anomalia.webp',
+  id: 'julieta', type: 'personaje', uni: 'multiverso', img: 'img/ill/anomalia/img-01-1.webp',
+  gal: ['img/ill/anomalia/img-02-1.webp', 'img/ill/anomalia/img-10-1.webp', 'img/ill/anomalia/img-20-1.webp'],
   novels: ['anomalia', 'tajna-semi-fader'],
   see: ['zorro', 'luis-fader', 'mendoza', 'anomalia'],
   es: {

@@ -178,3 +178,11 @@ Someone did it on purpose. To find out who, the couple fly to Buenos Aires, wher
   ru: `Сентябрьской ночью в Белграде Луису и Наташе звонят из Буэнос-Айреса: Серхио, отец Луиса, не может перестать плакать. И он не один. Уже две недели мужчины по всей Аргентине плачут из-за любой мелочи, а женщины смеются.
 Кто-то сделал это нарочно. Чтобы узнать кто, пара летит в Буэнос-Айрес, где их ждут таинственный скипетр, Каса-Росада под охраной иностранцев, легендарные чудовища, оживающие статуи… и самое грустное танго, которое Луис за одиннадцать лет так и не решился станцевать с Наташей.`
 });
+
+/* ---------- Character index: Rome ---------- */
+(function () {
+  var L = window.LIBRARY || { characters: [] };
+  L.characters.forEach(function (c) {
+    if (c.id === 'luciana-roma') c.en = { name: 'Luciana', tag: 'Rome', description: 'A 25-year-old art history student who works Saturdays as a guide at the Vatican Museums. The daughter of Commissioner Rinaldi, she is Antonio\'s new love.' };
+  });
+})();
