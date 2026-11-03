@@ -186,3 +186,12 @@ Someone did it on purpose. To find out who, the couple fly to Buenos Aires, wher
     if (c.id === 'luciana-roma') c.en = { name: 'Luciana', tag: 'Rome', description: 'A 25-year-old art history student who works Saturdays as a guide at the Vatican Museums. The daughter of Commissioner Rinaldi, she is Antonio\'s new love.' };
   });
 })();
+
+/* ---------- Character index: Do outro lado do mundo ---------- */
+(function () {
+  var EN_CH = {
+    'mateus-pt': { name: 'Mateus', tag: 'Do outro lado do mundo', description: 'A 20-year-old Brazilian who promised to meet Vika, who lives on the other side of the world. With no money for the ticket, he takes on any challenge to keep his promise.' },
+    'vika-pt': { name: 'Vika', tag: 'Do outro lado do mundo', description: 'Viktoria, or simply Vika, lives on the other side of the world, in Russia, and chats with Mateus online. For her, Mateus crosses half the planet.' }
+  };
+  (window.LIBRARY || { characters: [] }).characters.forEach(function (c) { if (EN_CH[c.id]) c.en = EN_CH[c.id]; });
+})();
