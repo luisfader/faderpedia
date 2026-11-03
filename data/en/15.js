@@ -190,8 +190,8 @@ Someone did it on purpose. To find out who, the couple fly to Buenos Aires, wher
 /* ---------- Character index: Do outro lado do mundo ---------- */
 (function () {
   var EN_CH = {
-    'mateus-pt': { name: 'Mateus', tag: 'Do outro lado do mundo', description: 'A 20-year-old Brazilian who promised to meet Vika, who lives on the other side of the world. With no money for the ticket, he takes on any challenge to keep his promise.' },
-    'vika-pt': { name: 'Vika', tag: 'Do outro lado do mundo', description: 'Viktoria, or simply Vika, lives on the other side of the world, in Russia, and chats with Mateus online. For her, Mateus crosses half the planet.' }
+    'mateus-pt': { name: 'Mateus', tag: 'Do outro lado do mundo', description: 'A 20-year-old Brazilian who promised to meet Rita, who lives on the other side of the world. With no money for the ticket, he takes on any challenge to keep his promise.' },
+    'rita-pt': { name: 'Rita', tag: 'Do outro lado do mundo', description: 'Margarita, or simply Rita, lives on the other side of the world, in Russia, and chats with Mateus online. For her, Mateus crosses half the planet.' }
   };
   (window.LIBRARY || { characters: [] }).characters.forEach(function (c) { if (EN_CH[c.id]) c.en = EN_CH[c.id]; });
 })();

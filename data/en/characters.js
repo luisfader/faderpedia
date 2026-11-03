@@ -305,7 +305,7 @@
   C('leshy', 'Leshy', null, 'A dark leshy, a twisted forest spirit from grandmothers\' tales, huge and woven of bark, stone and earth. He leads the invasion of Sinea.');
   C('ludmila', 'Ludmila', null, 'A princess of an old legend, abandoned by Prince Luboš. She played the violin so sadly that she woke the evil spirits.');
   C('vanessa-praha', 'Vanessa', 'Prague', 'She plays dark music with Lindsey and Princess Ludmila, but in the end plays a new song with the others.');
-  C('castro', 'Agent Castro', null, 'An agent of the mystic police and Natalia\'s uncle, who tells embarrassing stories from her childhood.');
+  C('castro', 'Agent Castro', null, 'An agent of the mystic police and Rita\'s uncle, who tells embarrassing stories from her childhood.');
   C('ettore', 'Ettore', null, 'Pietro\'s teacher, who died at three in the morning. His last notebook holds formulas nobody understands.');
   C('signor-gallo', 'Signor Gallo', null, 'One of Irina\'s patients who, after a beautiful dream, really does take the train to the sea with his wife.');
   C('signora-teresa', 'Signora Teresa', null, 'An old woman who tells of a wartime Christmas and applauds louder than anyone.');
