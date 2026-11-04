@@ -27,8 +27,8 @@ EN('samuel', {
 
 EN('kennet', {
   t: 'Kennet',
-  s: 'A tall, strong young man from Great Britain, a fugitive from the Central Power, who defends the Utopia from the tower and falls in love with the singer Oxana.',
-  box: [['Origin', 'Great Britain'], ['Past', 'Fugitive from the Central Power'], ['Post', 'The tower'], ['Love', '[[oxana|Oxana]]']],
+  s: 'A tall, strong young American (a Yankee), a fugitive from the Central Power, who defends the Utopia from the tower and falls in love with the singer Oxana.',
+  box: [['Origin', 'United States (a Yankee)'], ['Past', 'Fugitive from the Central Power'], ['Post', 'The tower'], ['Love', '[[oxana|Oxana]]']],
   b: `**Kennet** is strong but kind-hearted. Having fled the Central Power, he joins the [[utopia|Utopia]] and defends it from the tower. In *La Corazonada* he is wounded on the expedition for the turquoise bricks. He falls in love with [[oxana|Oxana]], the singer who came to the fortress with peace and music.
 
 ## The first shout

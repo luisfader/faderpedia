@@ -875,14 +875,14 @@ A({
   see: ['oxana', 'utopia'],
   es: {
     t: 'Kennet',
-    s: 'Joven alto y fuerte de Gran Bretaña, fugitivo de la Central, que defiende la Utopía desde la torre y se enamora de la cantante Oxana.',
-    box: [['Origen', 'Gran Bretaña'], ['Pasado', 'Fugitivo de la Central'], ['Puesto', 'La torre'], ['Amor', '[[oxana|Oxana]]']],
+    s: 'Joven yanqui, alto y fuerte, fugitivo de la Potencia Central, que defiende la Utopía desde la torre y se enamora de la cantante Oxana.',
+    box: [['Origen', 'Estados Unidos (yanqui)'], ['Pasado', 'Fugitivo de la Central'], ['Puesto', 'La torre'], ['Amor', '[[oxana|Oxana]]']],
     b: `**Kennet** es fuerte pero bondadoso. Huido de la Central, se une a la [[utopia|Utopía]] y la defiende desde la torre. En *La Corazonada* resulta herido en la expedición de los ladrillos turquesa. Se enamora de [[oxana|Oxana]], la cantante que llegó a la fortaleza con paz y música.`
   },
   ru: {
     t: 'Кеннет',
-    s: 'Высокий и крепкий молодой человек из Великобритании, беглец из Центра, который защищает Утопию с башни и влюбляется в певицу Оксану.',
-    box: [['Родом из', 'Великобритания'], ['Прошлое', 'беглец из Центра'], ['Пост', 'башня'], ['Любовь', '[[oxana|Оксана]]']],
+    s: 'Высокий и крепкий молодой американец («янки»), беглец из Центра, который защищает Утопию с башни и влюбляется в певицу Оксану.',
+    box: [['Родом из', 'США'], ['Прошлое', 'беглец из Центра'], ['Пост', 'башня'], ['Любовь', '[[oxana|Оксана]]']],
     b: `**Кеннет** силён, но добр. Сбежав из Центра, он примыкает к [[utopia|Утопии]] и защищает её с башни. В «La Corazonada» его ранят в экспедиции за бирюзовыми кирпичами. Он влюбляется в [[oxana|Оксану]] — певицу, пришедшую в крепость с миром и музыкой.`
   }
 });
