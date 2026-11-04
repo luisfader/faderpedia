@@ -899,7 +899,7 @@ A({
 
 ## Versiones
 
-- **En la Utopía** — elegante, rubia, de ojos azules; cantaba para gente rica. Llega a la fortaleza con paz y música y se acerca a [[kennet|Kennet]]. En *La Corazonada* no canta: pinta, cuelga sus cuadros en «Sueño Turquesa» y escribe poemas; uno de ellos, «Mañana siempre es mejor», hace que [[natalia|Natalia]] descubra que sabe cantar.
+- **En la Utopía** — elegante, rubia, de ojos azules; cantaba para gente rica. Llega a la fortaleza con paz y música y se acerca a [[kennet|Kennet]]. En *La Corazonada*, la versión paralela en español, tiene el pelo negro azabache y los ojos marrones, y no canta: pinta, cuelga sus cuadros en «Sueño Turquesa» y escribe poemas; uno de ellos, «Mañana siempre es mejor», hace que [[natalia|Natalia]] descubra que sabe cantar.
 - **En *Horizonte radiante*** — vive en el búnker que le construyó su marido y canta para paredes cubiertas de sus notas. Un concurso entre ruinas le da un billete a [[necrologia|Necrología]]; con la guitarrista Irina y el bajista Alexéi atraviesa el desierto. Allí su voz se convierte en **arma**. La novela incluye las canciones de Oxana.
 - **En *La voz*** (Sinea) — amiga valiente y fiable de Sasha que no cree en la mística; tras la catástrofe, la gente acude a ella y se convierte en el sostén de Sinea.
 - **En *Los cisnes enamorados*** — cantante famosa que huye de la fama y de un corazón roto a la nevada Ustiug, donde el curandero Stepán, al que rechazó, la convierte en un cisne de cristal. Su amado Dima la sigue a través del Limbo Musical.
@@ -913,7 +913,7 @@ A({
 
 ## Версии
 
-- **В Утопии** — элегантная блондинка с голубыми глазами, певшая для богатых. Приходит в крепость с миром и музыкой и сближается с [[kennet|Кеннетом]]. В «La Corazonada» не поёт: пишет картины для «Бирюзового сна» и стихи; одно из них, «Mañana siempre es mejor», помогает [[natalia|Наталье]] открыть в себе певицу.
+- **В Утопии** — элегантная блондинка с голубыми глазами, певшая для богатых. Приходит в крепость с миром и музыкой и сближается с [[kennet|Кеннетом]]. В «La Corazonada», параллельной испанской версии, у неё иссиня-чёрные волосы и карие глаза, и она не поёт: пишет картины для «Бирюзового сна» и стихи; одно из них, «Mañana siempre es mejor», помогает [[natalia|Наталье]] открыть в себе певицу.
 - **В «Сияющем горизонте»** — живёт в бункере, построенном мужем, и поёт для стен, покрытых его нотами. Конкурс среди руин дарит ей билет в [[necrologia|Некрологию]]; с гитаристкой Ириной и басистом Алексеем она идёт через пустыню. Там её голос становится **оружием**. В книге есть песни Оксаны.
 - **В «Голосе»** (Синея) — смелая и надёжная подруга Саши, не верящая в мистику; после катастрофы люди идут к ней за помощью, и она становится опорой Синеи.
 - **Во «Влюблённых лебедях»** — знаменитая певица, бегущая от славы и разбитого сердца в заснеженный Устюг, где отвергнутый ею знахарь Степан превращает её в хрустального лебедя. Её любимый Дима идёт за ней через Музыкальный Лимб.

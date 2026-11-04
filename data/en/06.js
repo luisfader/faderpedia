@@ -44,7 +44,7 @@ EN('oxana', {
 
 ## Versions
 
-- **In the Utopia**: elegant, blonde, blue-eyed; she used to sing for rich people. She comes to the fortress with peace and music and grows close to [[kennet|Kennet]]. In *La Corazonada* she hangs her paintings in "Turquoise Dream".
+- **In the Utopia**: elegant, blonde, blue-eyed; she used to sing for rich people. She comes to the fortress with peace and music and grows close to [[kennet|Kennet]]. In *La Corazonada*, the parallel Spanish version, she has jet-black hair and brown eyes and does not sing: she paints, hangs her pictures in "Turquoise Dream" and writes poems; one of them, "Mañana siempre es mejor", makes [[natalia|Natalia]] discover that she can sing.
 - **In *Radiant Horizon***: she lives in the bunker her husband built for her and sings to walls covered with his music. A contest among the ruins gives her a ticket to [[necrologia|Necrology]]; with the guitarist Irina and the bassist Alexei she crosses the desert. There her voice becomes a **weapon**. The novel includes Oxana's songs.
 - **In *The Voice*** (Sinea): Sasha's brave, reliable friend who does not believe in mysticism; after the catastrophe, people turn to her and she becomes the mainstay of Sinea.
 - **In *The Swans in Love***: a famous singer who flees fame and a broken heart to snowy Ustyug, where the healer Stepan, whom she rejected, turns her into a glass swan. Her beloved Dima follows her through the Musical Limbo.
