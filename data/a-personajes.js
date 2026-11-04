@@ -875,15 +875,19 @@ A({
   see: ['oxana', 'utopia'],
   es: {
     t: 'Kennet',
-    s: 'Joven yanqui, alto y fuerte, fugitivo de la Potencia Central, que defiende la Utopía desde la torre y se enamora de la cantante Oxana.',
+    s: 'Joven yanqui, alto y fuerte, fugitivo de la Potencia Central, que defiende la Utopía desde la torre y se enamora de Oxana.',
     box: [['Origen', 'Estados Unidos (yanqui)'], ['Pasado', 'Fugitivo de la Central'], ['Puesto', 'La torre'], ['Amor', '[[oxana|Oxana]]']],
-    b: `**Kennet** es fuerte pero bondadoso. Huido de la Central, se une a la [[utopia|Utopía]] y la defiende desde la torre. En *La Corazonada* resulta herido en la expedición de los ladrillos turquesa. Se enamora de [[oxana|Oxana]], la cantante que llegó a la fortaleza con paz y música.`
+    b: `**Kennet** es fuerte pero bondadoso. Huido de la Central, se une a la [[utopia|Utopía]] y la defiende desde la torre. Se enamora de [[oxana|Oxana]], que en la saga rusa es la cantante que llegó a la fortaleza con paz y música.
+
+En *La Corazonada*, la versión paralela en español, lo encuentran moribundo en la fábrica de ladrillos turquesa, después de escapar de los salvajes. Ya recuperado, vigila desde la torre norte, graba los planes de los salvajes en la mina y queda herido cuando un cohete alcanza la torre central. Allí Oxana no es cantante, sino pintora y poeta: lo dibuja en la torre y le recita «Tú eres mi fortaleza» en el concierto de la plaza.`
   },
   ru: {
     t: 'Кеннет',
-    s: 'Высокий и крепкий молодой американец («янки»), беглец из Центра, который защищает Утопию с башни и влюбляется в певицу Оксану.',
+    s: 'Высокий и крепкий молодой американец («янки»), беглец из Центра, который защищает Утопию с башни и влюбляется в Оксану.',
     box: [['Родом из', 'США'], ['Прошлое', 'беглец из Центра'], ['Пост', 'башня'], ['Любовь', '[[oxana|Оксана]]']],
-    b: `**Кеннет** силён, но добр. Сбежав из Центра, он примыкает к [[utopia|Утопии]] и защищает её с башни. В «La Corazonada» его ранят в экспедиции за бирюзовыми кирпичами. Он влюбляется в [[oxana|Оксану]] — певицу, пришедшую в крепость с миром и музыкой.`
+    b: `**Кеннет** силён, но добр. Сбежав из Центра, он примыкает к [[utopia|Утопии]] и защищает её с башни. Он влюбляется в [[oxana|Оксану]] — в русской саге это певица, пришедшая в крепость с миром и музыкой.
+
+В «La Corazonada», параллельной испанской версии, его находят умирающим на кирпичном заводе, после побега от дикарей. Поправившись, он дежурит на северной башне, записывает планы дикарей на шахте и получает ранение, когда ракета попадает в центральную башню. Оксана там не певица, а художница и поэтесса: она рисует его портрет на башне и читает ему «Tú eres mi fortaleza» на концерте на площади.`
   }
 });
 

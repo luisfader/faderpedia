@@ -27,9 +27,11 @@ EN('samuel', {
 
 EN('kennet', {
   t: 'Kennet',
-  s: 'A tall, strong young American (a Yankee), a fugitive from the Central Power, who defends the Utopia from the tower and falls in love with the singer Oxana.',
+  s: 'A tall, strong young American (a Yankee), a fugitive from the Central Power, who defends the Utopia from the tower and falls in love with Oxana.',
   box: [['Origin', 'United States (a Yankee)'], ['Past', 'Fugitive from the Central Power'], ['Post', 'The tower'], ['Love', '[[oxana|Oxana]]']],
-  b: `**Kennet** is strong but kind-hearted. Having fled the Central Power, he joins the [[utopia|Utopia]] and defends it from the tower. In *La Corazonada* he is wounded on the expedition for the turquoise bricks. He falls in love with [[oxana|Oxana]], the singer who came to the fortress with peace and music.
+  b: `**Kennet** is strong but kind-hearted. Having fled the Central Power, he joins the [[utopia|Utopia]] and defends it from the tower. He falls in love with [[oxana|Oxana]], who in the Russian saga is the singer who came to the fortress with peace and music.
+
+In *La Corazonada*, the parallel Spanish version, he is found dying at the turquoise brick factory after escaping the savages. Once recovered, he keeps watch from the north tower, records the savages' plans at the mine and is wounded when a rocket hits the central tower. There Oxana is not a singer but a painter and poet: she draws him in the tower and recites «Tú eres mi fortaleza» to him at the concert in the square.
 
 ## The first shout
 
