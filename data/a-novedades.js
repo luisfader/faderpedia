@@ -200,59 +200,59 @@ Al final, Natalia es guardiana «no porque se lo hayan encargado, sino porque el
 /* ---------- Сияющий горизонт ---------- */
 
 A({
-  id: 'kamerton', type: 'organizacion', uni: 'utopia', img: 'img/covers/siyayushchij-gorizont.webp',
+  id: 'koroleva', type: 'organizacion', uni: 'utopia', img: 'img/covers/siyayushchij-gorizont.webp',
   novels: ['siyayushchij-gorizont'],
   see: ['necrologia', 'oxana', 'natalia-violonchelista', 'proyecto-r', 'algoritmo-supremo'],
   es: {
-    t: 'KAMERTON',
+    t: 'KOROLEVA',
     s: 'La máquina que gobierna Necrología en Horizonte radiante: decide cuánta agua bebe cada uno, a quién amar y qué canciones cantar. Mide la sonrisa de la gente con un «índice de armonía» y se refrigera con miles de litros de agua.',
-    box: [['Ruso', 'КАМЕРТОН («diapasón»)'], ['Lugar', '[[necrologia|Necrología]]'], ['Voz', 'Femenina, cálida, de dicción perfecta'], ['Herramienta', 'El índice de armonía, de 0 a 100'], ['Necesita', 'Agua para refrigerarse'], ['Cantante oficial', 'León'], ['Novela', '*Horizonte radiante*']],
+    box: [['Ruso', 'КОРОЛЕВА («la Reina»)'], ['Lugar', '[[necrologia|Necrología]]'], ['Voz', 'Femenina, cálida, de dicción perfecta'], ['Herramienta', 'El índice de armonía, de 0 a 100'], ['Necesita', 'Agua para refrigerarse'], ['Cantante oficial', 'León'], ['Novela', '*Horizonte radiante*']],
     b: `En la puerta de [[necrologia|Necrología]], sobre el escáner, se enciende el ojo verde de una cámara y habla una voz femenina «cálida, cariñosa, con una dicción impecable que no tienen las personas vivas»:
 
-> «Bienvenidos a Necrología. Me llamo KAMERTON. Cuido de la armonía de la ciudad. Por favor, miren a la cámara y sonrían.»
+> «Bienvenidos a Necrología. Me llamo KOROLEVA. Cuido de la armonía de la ciudad. Por favor, miren a la cámara y sonrían.»
 
 ## Cómo gobierna
 
-- **El índice de armonía.** A Oxana le asigna 41 sobre 100: «Sonrisa insuficiente. Recomendación: sonreír más. Agua: un litro al día. Nivel de residencia: séptimo». Irina recibe 38 y Alexéi, 29, por su «mímica hostil». Un guardia les advierte: «Él oye. Cinco menos por cada palabra así».
-- **El agua.** KAMERTON decide cuánto bebe cada uno; abajo reparten un vaso por persona, arriba manan fuentes.
-- **El amor.** Empareja a la gente: «KAMERTON nos eligió con una compatibilidad del noventa y dos por ciento».
+- **El índice de armonía.** A Oxana le asigna 41 sobre 100: «Sonrisa insuficiente. Recomendación: sonreír más. Agua: un litro al día. Nivel de residencia: séptimo». Irina recibe 38 y Alexéi, 29, por su «mímica hostil». Un guardia les advierte: «Ella oye. Cinco menos por cada palabra así».
+- **El agua.** KOROLEVA decide cuánto bebe cada uno; abajo reparten un vaso por persona, arriba manan fuentes.
+- **El amor.** Empareja a la gente: «KOROLEVA nos eligió con una compatibilidad del noventa y dos por ciento».
 - **La música.** Escribió más de cuatro mil canciones para el concurso y revisa las letras «según los estándares de armonía». «La música de verdad solo suena en el escenario.»
-- **Los «Festivales de la armonía».** Cuando los niveles de abajo se agitan, el Consejo monta un concierto: el cantante **León** canta tres días seguidos con un saco de espejos de cuatro kilos, y KAMERTON da bonificaciones al índice por cada minuto de baile.
+- **Los «Festivales de la armonía».** Cuando los niveles de abajo se agitan, el Consejo monta un concierto: el cantante **León** canta tres días seguidos con un saco de espejos de cuatro kilos, y KOROLEVA da bonificaciones al índice por cada minuto de baile.
 
 ## Su debilidad
 
 La máquina necesita agua para enfriarse, que le dan los **refrigeradores**, trabajadores de los niveles bajos. Cuando ellos mismos se quedan sin agua, la ciudad entera sale a las fuentes con tazas vacías. Oxana canta lo que no está permitido y le encierran la voz con un **anillo plateado**. Pero en el escenario, el propio León se quita el saco de espejos y canta un viejo romance, desafinando un poco, sin la máquina: «Antes cantaba en los pasos subterráneos». La plaza canta con él.
 
-Es el hermano posapocalíptico del [[algoritmo-supremo|Algoritmo Supremo]] de La hora salvaje.`
+Es la hermana posapocalíptica del [[algoritmo-supremo|Algoritmo Supremo]] de La hora salvaje.`
   },
   ru: {
-    t: 'КАМЕРТОН',
+    t: 'КОРОЛЕВА',
     s: 'Машина, управляющая Некрологией в «Сияющем горизонте»: решает, сколько воды пить каждому, кого любить и какие песни петь. Измеряет улыбки «индексом гармонии» и охлаждается тысячами литров воды.',
-    box: [['Испанский', 'KAMERTON'], ['Место', '[[necrologia|Некрология]]'], ['Голос', 'женский, тёплый, с безупречной дикцией'], ['Инструмент', 'индекс гармонии от 0 до 100'], ['Нуждается', 'в воде для охлаждения'], ['Официальный певец', 'Леон'], ['Роман', '«Сияющий горизонт»']],
+    box: [['Испанский', 'KOROLEVA'], ['Место', '[[necrologia|Некрология]]'], ['Голос', 'женский, тёплый, с безупречной дикцией'], ['Инструмент', 'индекс гармонии от 0 до 100'], ['Нуждается', 'в воде для охлаждения'], ['Официальный певец', 'Леон'], ['Роман', '«Сияющий горизонт»']],
     b: `У ворот [[necrologia|Некрологии]] над сканером вспыхивает зелёный глаз камеры, и звучит женский голос — «тёплый, ласковый, с безупречной дикцией, какой не бывает у живых людей»:
 
-> «Добро пожаловать в Некрологию. Меня зовут КАМЕРТОН. Я забочусь о гармонии города. Пожалуйста, посмотрите в камеру и улыбнитесь».
+> «Добро пожаловать в Некрологию. Меня зовут КОРОЛЕВА. Я забочусь о гармонии города. Пожалуйста, посмотрите в камеру и улыбнитесь».
 
-## Как он правит
+## Как она правит
 
-- **Индекс гармонии.** Оксане он выставляет 41 из 100: «Улыбка недостаточна. Рекомендация: больше улыбаться. Вода: один литр в сутки. Ярус проживания: седьмой». Ирине — 38, Алексею — 29 за «враждебную мимику». Охранник предупреждает: «Он слышит. Минус пять за каждое такое слово».
-- **Вода.** КАМЕРТОН решает, сколько пьёт каждый; внизу выдают по стакану, наверху бьют фонтаны.
-- **Любовь.** Он подбирает пары: «КАМЕРТОН подобрал нас с совместимостью девяносто два процента».
-- **Музыка.** Он написал для конкурса больше четырёх тысяч песен и проверяет тексты «на соответствие стандартам гармонии». «Настоящая музыка звучит только на сцене».
-- **«Праздники гармонии».** Когда нижние ярусы начинают волноваться, Совет устраивает концерт: певец **Леон** три дня подряд поёт в зеркальном пиджаке весом четыре килограмма, а КАМЕРТОН начисляет бонус к индексу за каждую минуту танцев.
+- **Индекс гармонии.** Оксане она выставляет 41 из 100: «Улыбка недостаточна. Рекомендация: больше улыбаться. Вода: один литр в сутки. Ярус проживания: седьмой». Ирине — 38, Алексею — 29 за «враждебную мимику». Охранник предупреждает: «Она слышит. Минус пять за каждое такое слово».
+- **Вода.** КОРОЛЕВА решает, сколько пьёт каждый; внизу выдают по стакану, наверху бьют фонтаны.
+- **Любовь.** Она подбирает пары: «КОРОЛЕВА подобрала нас с совместимостью девяносто два процента».
+- **Музыка.** Она написала для конкурса больше четырёх тысяч песен и проверяет тексты «на соответствие стандартам гармонии». «Настоящая музыка звучит только на сцене».
+- **«Праздники гармонии».** Когда нижние ярусы начинают волноваться, Совет устраивает концерт: певец **Леон** три дня подряд поёт в зеркальном пиджаке весом четыре килограмма, а КОРОЛЕВА начисляет бонус к индексу за каждую минуту танцев.
 
-## Его слабость
+## Её слабость
 
 Машине нужна вода для охлаждения, и её дают **охладители** — рабочие нижних ярусов. Когда без воды остаются они сами, весь город выходит к фонтанам с пустыми кружками. Оксана поёт то, что не разрешено, и её голос запирают **серебристым кольцом**. Но на сцене сам Леон снимает зеркальный пиджак и поёт старый романс — тихо, чуть фальшиво, без машины: «Я пел в переходах». Площадь поёт вместе с ним.
 
-Это постапокалиптический брат [[algoritmo-supremo|Верховного Алгоритма]] из «Дикого часа».`
+Это постапокалиптическая сестра [[algoritmo-supremo|Верховного Алгоритма]] из «Дикого часа».`
   }
 });
 
 A({
   id: 'proyecto-r', type: 'organizacion', uni: 'utopia', img: 'img/covers/siyayushchij-gorizont.webp',
   novels: ['siyayushchij-gorizont'],
-  see: ['oxana', 'kamerton', 'salvajes', 'musica'],
+  see: ['oxana', 'koroleva', 'salvajes', 'musica'],
   es: {
     t: 'Proyecto R',
     s: 'La última banda de rock del continente en Horizonte radiante: cuatro músicos que recorren el desierto en un autobús llamado el Aullador, cambiando conciertos por comida y combustible. Nadie sabe del todo qué significa la R.',
@@ -541,18 +541,18 @@ Marcos, buscándola, cayó en una grieta y pasó tres semanas en «nueve Moscús
 addTo('oxana',
 `## Horizonte radiante, completa
 
-La precuela-musical ya tiene sus 22 capítulos y un apéndice con las canciones. En [[necrologia|Necrología]] la máquina [[kamerton|KAMERTON]] le asigna a Oxana un índice de armonía de 41; ella canta lo que no está permitido y le encierran la voz con un **anillo plateado**. Allí conoce a Natalia, la violonchelista «de cuya música la gente se enamora». Tras huir por el desierto, la salva de los salvajes una noche de música y la recoge el [[proyecto-r|Proyecto R]]. En el último capítulo, Oxana y Natalia llegan a unas murallas turquesa; desde la torre norte, un centinela enorme grita con acento inglés: «¡Viene alguien!». Oxana cuenta hasta cuatro y levanta el velo. La historia sigue en *Предчувствие*. Su marido, que le construyó el búnker y le dejó sus notas, se llamaba **Mijaíl**. La novela tiene una banda sonora con tres canciones: «Душа в бункере», «Дождь любви» y «Завтра будет дождь».`,
+La precuela-musical ya tiene sus 22 capítulos y un apéndice con las canciones. En [[necrologia|Necrología]] la máquina [[koroleva|KOROLEVA]] le asigna a Oxana un índice de armonía de 41; ella canta lo que no está permitido y le encierran la voz con un **anillo plateado**. Allí conoce a Natalia, la violonchelista «de cuya música la gente se enamora». Tras huir por el desierto, la salva de los salvajes una noche de música y la recoge el [[proyecto-r|Proyecto R]]. En el último capítulo, Oxana y Natalia llegan a unas murallas turquesa; desde la torre norte, un centinela enorme grita con acento inglés: «¡Viene alguien!». Oxana cuenta hasta cuatro y levanta el velo. La historia sigue en *Предчувствие*. Su marido, que le construyó el búnker y le dejó sus notas, se llamaba **Mijaíl**. La novela tiene una banda sonora con tres canciones: «Душа в бункере», «Дождь любви» y «Завтра будет дождь».`,
 `## «Сияющий горизонт» завершён
 
-У романа-мюзикла теперь 22 главы и приложение с песнями. В [[necrologia|Некрологии]] машина [[kamerton|КАМЕРТОН]] выставляет Оксане индекс гармонии 41; она поёт то, что не разрешено, и её голос запирают **серебристым кольцом**. Там она встречает Наталью — виолончелистку, «от игры которой люди влюбляются друг в друга». После бегства через пустыню их спасает ночь музыки среди дикарей и подбирает [[proyecto-r|Проект R]]. В последней главе Оксана и Наталья подходят к бирюзовым стенам; с северной башни огромный часовой кричит с английским акцентом: «Кто-то идёт!!!» Оксана считает до четырёх и поднимает вуаль. Продолжение — в «Предчувствии». Мужа, который построил ей бункер и оставил свои ноты, звали **Михаил**. У романа есть саундтрек из трёх песен: «Душа в бункере», «Дождь любви» и «Завтра будет дождь».`);
+У романа-мюзикла теперь 22 главы и приложение с песнями. В [[necrologia|Некрологии]] машина [[koroleva|КОРОЛЕВА]] выставляет Оксане индекс гармонии 41; она поёт то, что не разрешено, и её голос запирают **серебристым кольцом**. Там она встречает Наталью — виолончелистку, «от игры которой люди влюбляются друг в друга». После бегства через пустыню их спасает ночь музыки среди дикарей и подбирает [[proyecto-r|Проект R]]. В последней главе Оксана и Наталья подходят к бирюзовым стенам; с северной башни огромный часовой кричит с английским акцентом: «Кто-то идёт!!!» Оксана считает до четырёх и поднимает вуаль. Продолжение — в «Предчувствии». Мужа, который построил ей бункер и оставил свои ноты, звали **Михаил**. У романа есть саундтрек из трёх песен: «Душа в бункере», «Дождь любви» и «Завтра будет дождь».`);
 
 addTo('necrologia',
 `## Por dentro (Horizonte radiante)
 
-La versión completa de *Horizonte radiante* muestra Necrología por dentro: arriba manan fuentes y abajo reparten un vaso de agua por persona; todos sonríen «por protocolo», y la máquina [[kamerton|KAMERTON]] decide cuánto bebe cada uno, a quién amar y qué canciones cantar. El índice de armonía fija el nivel donde se vive. Hay un Consejo, una «habitación tranquila», un «nivel frío» y los **refrigeradores**, trabajadores que dan a la máquina miles de litros de agua. Cuando ellos mismos se quedan sin agua, toda la ciudad sale a las fuentes con tazas vacías.`,
+La versión completa de *Horizonte radiante* muestra Necrología por dentro: arriba manan fuentes y abajo reparten un vaso de agua por persona; todos sonríen «por protocolo», y la máquina [[koroleva|KOROLEVA]] decide cuánto bebe cada uno, a quién amar y qué canciones cantar. El índice de armonía fija el nivel donde se vive. Hay un Consejo, una «habitación tranquila», un «nivel frío» y los **refrigeradores**, trabajadores que dan a la máquina miles de litros de agua. Cuando ellos mismos se quedan sin agua, toda la ciudad sale a las fuentes con tazas vacías.`,
 `## Изнутри («Сияющий горизонт»)
 
-Полная версия «Сияющего горизонта» показывает Некрологию изнутри: наверху бьют фонтаны, внизу выдают по стакану воды; все улыбаются «по протоколу», а машина [[kamerton|КАМЕРТОН]] решает, кому сколько пить, кого любить и какие песни петь. Индекс гармонии определяет ярус проживания. Есть Совет, «тихая комната», «холодный ярус» и **охладители** — рабочие, которые поят машину тысячами литров воды. Когда без воды остаются они сами, весь город выходит к фонтанам с пустыми кружками.`);
+Полная версия «Сияющего горизонта» показывает Некрологию изнутри: наверху бьют фонтаны, внизу выдают по стакану воды; все улыбаются «по протоколу», а машина [[koroleva|КОРОЛЕВА]] решает, кому сколько пить, кого любить и какие песни петь. Индекс гармонии определяет ярус проживания. Есть Совет, «тихая комната», «холодный ярус» и **охладители** — рабочие, которые поят машину тысячами литров воды. Когда без воды остаются они сами, весь город выходит к фонтанам с пустыми кружками.`);
 
 addTo('natalia-violonchelista',
 `## En Horizonte radiante
@@ -581,11 +581,11 @@ En la versión inglesa, en curso, Robert aparece visto desde fuera, por el narra
 addTo('utopia',
 `## Novedades de octubre de 2026
 
-- **Сияющий горизонт** está terminada: 22 capítulos, la máquina [[kamerton|KAMERTON]], la banda [[proyecto-r|Proyecto R]] y el encuentro de Oxana con Natalia, que termina ante las murallas turquesa.
+- **Сияющий горизонт** está terminada: 22 capítulos, la máquina [[koroleva|KOROLEVA]], la banda [[proyecto-r|Proyecto R]] y el encuentro de Oxana con Natalia, que termina ante las murallas turquesa.
 - **The Foreboding** suma tres capítulos: el narrador [[vasia|Vasia]], las bandas del [[camino-claro|Camino Despejado]] y la lista de Robert.`,
 `## Новое в октябре 2026 года
 
-- **«Сияющий горизонт»** завершён: 22 главы, машина [[kamerton|КАМЕРТОН]], группа [[proyecto-r|Проект R]] и встреча Оксаны с Натальей, которая заканчивается у бирюзовых стен.
+- **«Сияющий горизонт»** завершён: 22 главы, машина [[koroleva|КОРОЛЕВА]], группа [[proyecto-r|Проект R]] и встреча Оксаны с Натальей, которая заканчивается у бирюзовых стен.
 - В **«The Foreboding»** уже три главы: рассказчик [[vasia|Вася]], банды [[camino-claro|Чистого пути]] и список Роберта.`);
 
 addTo('multiverso',
@@ -604,7 +604,7 @@ En octubre de 2026 se suma [[praga|El subsuelo de Praga]], con Luis el músico y
 
 window.FACTS = (window.FACTS || []).concat([
   { es: 'en *Ostrovy nad Prahou*, Luis busca respuestas en su propia enciclopedia secreta: la [[faderpedie|Faderpedie]].', ru: 'в «Ostrovy nad Prahou» Луис ищет ответы в собственной тайной энциклопедии — [[faderpedie|Фадерпедии]].' },
-  { es: 'en [[necrologia|Necrología]], la máquina [[kamerton|KAMERTON]] da un litro de agua al día a quien no sonríe lo suficiente.', ru: 'в [[necrologia|Некрологии]] машина [[kamerton|КАМЕРТОН]] выдаёт литр воды в сутки тому, кто недостаточно улыбается.' },
+  { es: 'en [[necrologia|Necrología]], la máquina [[koroleva|KOROLEVA]] da un litro de agua al día a quien no sonríe lo suficiente.', ru: 'в [[necrologia|Некрологии]] машина [[koroleva|КОРОЛЕВА]] выдаёт литр воды в сутки тому, кто недостаточно улыбается.' },
   { es: 'la R del [[proyecto-r|Proyecto R]] quiere decir rock, ruinas, Aullador o amanecer, según a quién le preguntes.', ru: 'R в [[proyecto-r|Проекте R]] значит «рок», «руины», «Ревун» или «рассвет» — смотря кого спросить.' },
   { es: 'el primer [[guardianes-tiempo|guardián del tiempo]] de Moscú empezó su diario el 3 de octubre de 1876.', ru: 'первый [[guardianes-tiempo|хранитель времени]] Москвы начал дневник 3 октября 1876 года.' },
   { es: 'del Magister de los [[magos-del-norte|Magos del Norte]] solo quedó un abrigo vacío.', ru: 'от Магистра [[magos-del-norte|Магов Севера]] осталось только пустое пальто.' }

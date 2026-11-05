@@ -158,7 +158,7 @@ In *Предчувствие 2* Necrology gains strength beyond the horizon: it 
 
 ## Inside (Radiant Horizon)
 
-The complete version of *Radiant Horizon* shows Necrology from the inside: fountains flow at the top and down below they hand out one glass of water per person; everyone smiles "by protocol", and the [[kamerton|KAMERTON]] machine decides how much each person drinks, whom to love and which songs to sing. The harmony index fixes the level where you live. There is a Council, a "quiet room", a "cold level" and the **coolers**, workers who give the machine thousands of litres of water. When they themselves run out of water, the whole city goes out to the fountains with empty cups.`
+The complete version of *Radiant Horizon* shows Necrology from the inside: fountains flow at the top and down below they hand out one glass of water per person; everyone smiles "by protocol", and the [[koroleva|KOROLEVA]] machine decides how much each person drinks, whom to love and which songs to sing. The harmony index fixes the level where you live. There is a Council, a "quiet room", a "cold level" and the **coolers**, workers who give the machine thousands of litres of water. When they themselves run out of water, the whole city goes out to the fountains with empty cups.`
 });
 
 EN('venecia-lugar', {

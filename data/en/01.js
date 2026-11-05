@@ -133,7 +133,7 @@ The Utopia defines itself by opposition: no masters, no fear and no greed. Its g
 
 ## News from October 2026
 
-- **Сияющий горизонт** is finished: 22 chapters, the [[kamerton|KAMERTON]] machine, the band [[proyecto-r|Project R]] and Oxana's meeting with Natalia, which ends before the turquoise walls.
+- **Сияющий горизонт** is finished: 22 chapters, the [[koroleva|KOROLEVA]] machine, the band [[proyecto-r|Project R]] and Oxana's meeting with Natalia, which ends before the turquoise walls.
 - **The Foreboding** gains three chapters: the narrator [[vasia|Vasya]], the gangs of the [[camino-claro|Clear Path]] and Robert's list.`
 });
 

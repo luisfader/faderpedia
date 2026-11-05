@@ -65,27 +65,27 @@ Nikita's half-sister, **Vera**, was one year and three months old in 1876. In 19
 In the end, Natalia is a guardian "not because she was given the task, but because she chose to remember". The cat [[plyushka|Plyushka]] is one of the **guardians' cats**, who always appear where time breaks. Their rule: three taps, three chimes, three crossroads.`
 });
 
-EN('kamerton', {
-  t: 'KAMERTON',
+EN('koroleva', {
+  t: 'KOROLEVA',
   s: 'The machine that rules Necrology in Radiant Horizon: it decides how much water each person drinks, whom to love and which songs to sing. It measures people\'s smiles with a "harmony index" and is cooled with thousands of litres of water.',
-  box: [['Russian', 'КАМЕРТОН ("tuning fork")'], ['Place', '[[necrologia|Necrology]]'], ['Voice', 'Female, warm, with perfect diction'], ['Tool', 'The harmony index, from 0 to 100'], ['Needs', 'Water to cool itself'], ['Official singer', 'Leon'], ['Novel', '*Radiant Horizon*']],
+  box: [['Russian', 'КОРОЛЕВА ("the Queen")'], ['Place', '[[necrologia|Necrology]]'], ['Voice', 'Female, warm, with perfect diction'], ['Tool', 'The harmony index, from 0 to 100'], ['Needs', 'Water to cool itself'], ['Official singer', 'Leon'], ['Novel', '*Radiant Horizon*']],
   b: `At the gate of [[necrologia|Necrology]], above the scanner, a camera's green eye lights up and a female voice speaks, "warm, caring, with an impeccable diction that living people do not have":
 
-> "Welcome to Necrology. My name is KAMERTON. I look after the city's harmony. Please look at the camera and smile."
+> "Welcome to Necrology. My name is KOROLEVA. I look after the city's harmony. Please look at the camera and smile."
 
 ## How it rules
 
-- **The harmony index.** It gives Oxana 41 out of 100: "Insufficient smile. Recommendation: smile more. Water: one litre a day. Residence level: seventh." Irina gets 38 and Alexei 29, for his "hostile facial expression". A guard warns them: "It hears. Five points off for every word like that."
-- **Water.** KAMERTON decides how much each person drinks; down below they hand out one glass each, up above fountains flow.
-- **Love.** It pairs people up: "KAMERTON chose us with ninety-two per cent compatibility."
+- **The harmony index.** It gives Oxana 41 out of 100: "Insufficient smile. Recommendation: smile more. Water: one litre a day. Residence level: seventh." Irina gets 38 and Alexei 29, for his "hostile facial expression". A guard warns them: "She hears. Five points off for every word like that."
+- **Water.** KOROLEVA decides how much each person drinks; down below they hand out one glass each, up above fountains flow.
+- **Love.** It pairs people up: "KOROLEVA chose us with ninety-two per cent compatibility."
 - **Music.** It wrote more than four thousand songs for the contest and checks lyrics "according to the standards of harmony". "Real music only plays on stage."
-- **The "Harmony Festivals".** When the lower levels grow restless, the Council puts on a concert: the singer **Leon** sings for three days straight in a four-kilo jacket of mirrors, and KAMERTON awards index bonuses for every minute of dancing.
+- **The "Harmony Festivals".** When the lower levels grow restless, the Council puts on a concert: the singer **Leon** sings for three days straight in a four-kilo jacket of mirrors, and KOROLEVA awards index bonuses for every minute of dancing.
 
 ## Its weakness
 
 The machine needs water to cool down, which is supplied by the **coolers**, workers from the lower levels. When they themselves run out of water, the whole city goes out to the fountains with empty cups. Oxana sings what is not allowed and they lock up her voice with a **silver ring**. But on stage, Leon himself takes off the mirror jacket and sings an old romance, slightly out of tune, without the machine: "I used to sing in the underpasses." The square sings with him.
 
-It is the post-apocalyptic brother of The Wild Hour's [[algoritmo-supremo|Supreme Algorithm]].`
+It is the post-apocalyptic sister of The Wild Hour's [[algoritmo-supremo|Supreme Algorithm]].`
 });
 
 EN('proyecto-r', {

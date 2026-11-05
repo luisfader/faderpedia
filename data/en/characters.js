@@ -273,13 +273,13 @@
   C('mikhail', 'Mikhail', null, 'A broad-shouldered former soldier, Oksana\'s husband. He guards the walls of Our Utopia and is the first to talk of storming Necrologia. In Предчувствие 2.3 he stays at the walls on the night of the evacuation and, with a sword charged by Sasha\'s power, cuts through the shield of an Heiresses tank, at the cost of his life.');
   C('alexey-gorizont', 'Alexei', 'Radiant Horizon', 'Oksana\'s companion on the road through the ruins. In Necrologia he works the day shift and finds support in Dasha.');
   C('irina-gorizont', 'Irina', 'Radiant Horizon', 'A guitarist travelling with Oksana and Alexei, used to nobody caring about her music, until she finds her audience.');
-  C('tikhon-ilyich', 'Tikhon Ilyich', null, 'The old keeper of the pumps that cool KAMERTON: without water the machine would overheat in forty minutes.');
+  C('tikhon-ilyich', 'Tikhon Ilyich', null, 'The old keeper of the pumps that cool KOROLEVA: without water the machine would overheat in forty minutes.');
   C('eleonora-veis', 'Eleonora Weiss', null, 'A Necrologia official who always appears out of nowhere and explains the rules of the "society of harmony".');
   C('dasha-gorizont', 'Dasha', null, 'A Necrologia worker who holds Alexei\'s hand like a rail in the swaying lift cage.');
   C('roma-gorizont', 'Roma', null, 'A bearded musician who once played in bars with the band "Romensky and Co.".');
   C('fyodor-bogdan', 'Fyodor and Bogdan', null, 'Oksana\'s two companions in the desert: upright, motionless Fyodor with his rifle, and red-haired, jug-eared Bogdan, her first audience by the campfire.');
   C('syoma', 'Syoma', null, 'A trumpeter whose enthusiastic, not always accurate playing echoes across the desert.');
-  C('kamerton', 'KAMERTON', null, 'Necrologia\'s machine, which decides how much each person may drink, whom to love and which songs to sing, and watches over the "harmony index".');
+  C('koroleva', 'KOROLEVA', null, 'Necrologia\'s machine, which decides how much each person may drink, whom to love and which songs to sing, and watches over the "harmony index".');
   C('emil', 'Émile', null, 'A Frenchman from Marseille in the diary of Natalia\'s great-great-grandfather. He brought the family the "Mystic South" deck, worked for it long before Luis, and vanished so that nobody remembers him.');
   C('vika', 'Vika', null, 'Always ready with her notebooks: she keeps the founding memory of Our Utopia.');
   C('olga-sergio', 'Olga', null, 'Sergio\'s wife, who spends the whole night altering Natasha\'s red dress with gold embroidery for the Vendimia parade.');
