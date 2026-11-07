@@ -241,3 +241,16 @@ In *[[argenta|Звёздный роман: Связь с Марсом]]* Luciano
   };
   (window.LIBRARY || { characters: [] }).characters.forEach(function (c) { if (EN_CH[c.id]) c.en = EN_CH[c.id]; });
 })();
+
+/* ---------- Метеоритный дождь ---------- */
+ENadd('sinea',
+`## Метеоритный дождь: a different ending
+
+The Russian version of *Lluvia de meteoritos* is now finished, and it has **its own ending**. There is no tank war and no family revelations. The crystal dome feeds on the lies Felipe forces people to tell with his "Law of Truth". Elena goes back alone into sealed-off Sinea, to the radio station where she once hosted "The Voice of Sinea", and tells on air the truth she kept silent for twenty years. Her neighbours call in and tell theirs; so do Svetlana and Sasha. The dome dissolves into a rain of light that does no harm.
+
+Felipe neither dies nor flees: he is left alone, with no one to command. In the end Luciano gives up his way back to the stars to live as an ordinary man, and Elena sums up the novel with two Spanish verbs: "Yo estaba casada… Ahora yo soy Elena."`);
+(function () {
+  (window.LIBRARY || { characters: [] }).characters.forEach(function (c) {
+    if (c.id === 'dmitrij-meteor') c.en = { name: 'Dmitri', tag: 'Meteor Shower', description: 'A nineteen-year-old engineering student who lifted the crystal seed from the crater above the crowd. He helps Elena go on air from the old radio station.' };
+  });
+})();

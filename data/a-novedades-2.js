@@ -568,10 +568,10 @@ En [[la-roma-soto-tera|La Roma soto tera]], subiendo la escalera del hotel junto
 addTo('sinea',
 `## Novedad: Lluvia de meteoritos en ruso
 
-**Метеоритный дождь** (en curso, 14 capítulos) es la versión rusa de *Lluvia de meteoritos*: Elena, casada desde hace más de veinte años con el coronel Felipe, es salvada en Sinea por Luciano, un joven extranjero relacionado con los meteoritos, justo cuando a Felipe le encargan atrapar al «forastero».`,
+**Метеоритный дождь** (terminada, 22 capítulos, con un final propio distinto del español) es la versión rusa de *Lluvia de meteoritos*: Elena, casada desde hace más de veinte años con el coronel Felipe, es salvada en Sinea por Luciano, un joven extranjero relacionado con los meteoritos, justo cuando a Felipe le encargan atrapar al «forastero».`,
 `## Новое: «Метеоритный дождь» по-русски
 
-**«Метеоритный дождь»** (пишется, 14 глав) — русская версия «Lluvia de meteoritos»: Елену, больше двадцати лет замужем за полковником Фелипе, в Синее спасает Лучано, юный иностранец, связанный с метеоритами, — как раз тогда, когда Фелипе поручают поймать «чужака».`);
+**«Метеоритный дождь»** (роман завершён, 22 главы, со своим финалом, не таким, как в испанской версии) — русская версия «Lluvia de meteoritos»: Елену, больше двадцати лет замужем за полковником Фелипе, в Синее спасает Лучано, юный иностранец, связанный с метеоритами, — как раз тогда, когда Фелипе поручают поймать «чужака».`);
 
 /* ---------- Universos y novelas ---------- */
 

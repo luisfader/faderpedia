@@ -279,4 +279,4 @@ In [[la-roma-soto-tera|La Roma soto tera]], climbing the stairs of the hotel by 
 ENadd('sinea',
 `## News: Meteor Shower in Russian
 
-**Метеоритный дождь** (in progress, 14 chapters) is the Russian version of *Lluvia de meteoritos*: Elena, married for more than twenty years to Colonel Felipe, is saved in Sinea by Luciano, a young foreigner linked to the meteorites, just as Felipe is ordered to catch "the outsider".`);
+**Метеоритный дождь** (finished, 22 chapters, with its own ending, different from the Spanish one) is the Russian version of *Lluvia de meteoritos*: Elena, married for more than twenty years to Colonel Felipe, is saved in Sinea by Luciano, a young foreigner linked to the meteorites, just as Felipe is ordered to catch "the outsider".`);

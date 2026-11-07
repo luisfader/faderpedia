@@ -57,3 +57,16 @@ En *[[argenta|Звёздный роман: Связь с Марсом]]* Luciano
 `## Чужое отражение
 
 В «[[argenta|Звёздном романе: Связь с Марсом]]» Лусиано слышит язык марсианских кристаллов. Настраивая их вместе с Марией, он чувствует её мир как свой и думает, что влюбляется: даже шепчет во сне «Мирэна» — так Марию ласково зовёт Иван. Потом он понимает, что видел в Марии Лауру, какой она была до всех бед, и снова выбирает её: «Я хочу эту. Со всеми шрамами».`);
+
+// «Метеоритный дождь»: la versión rusa terminada con un final propio (noviembre de 2026).
+addTo('sinea',
+`## Метеоритный дождь: otro final
+
+La versión rusa de *Lluvia de meteoritos* ya está terminada y tiene **su propio final**. No hay guerra de tanques ni revelaciones de parentesco. La cúpula de cristal se alimenta de las mentiras que Felipe obliga a decir con su «Ley de la verdad». Elena vuelve sola a la Sinea cerrada, a la radio donde de joven conducía el programa «La voz de Sinea», y cuenta en directo la verdad que calló veinte años. Los vecinos llaman y dicen las suyas; Svetlana y Sasha también. La cúpula se deshace en una lluvia de luz que no hiere.
+
+Felipe no muere ni huye: se queda solo, sin nadie a quien mandar. Al final, Luciano renuncia a volver a las estrellas para vivir como un hombre común, y Elena resume la novela con dos verbos españoles: «Yo estaba casada… Ahora yo soy Elena».`,
+`## «Метеоритный дождь»: другой финал
+
+Русская версия «Lluvia de meteoritos» закончена — и у неё **свой финал**. Здесь нет войны танков и семейных разоблачений. Хрустальный купол питается ложью, которую Фелипе заставляет говорить своим «Законом о правде». Елена одна возвращается в закрытую Синею, на радио, где в юности вела программу «Голос Синеи», и в прямом эфире говорит правду, о которой молчала двадцать лет. Горожане звонят и говорят свою; Светлана и Саша — тоже. Купол рассыпается светлым дождём, который не ранит.
+
+Фелипе не гибнет и не бежит: он остаётся один, без тех, кем можно командовать. В конце Лучано отказывается от дороги к звёздам, чтобы жить обычной жизнью, а Елена подводит итог романа двумя испанскими глаголами: «Yo estaba casada… Ahora yo soy Elena».`);
