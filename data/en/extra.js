@@ -109,6 +109,9 @@ A musical novel with the songs of the album "Onde d'amore": adventure, humour an
 The sequel to "Mask of Venice".`,
     'mysteres-sous-paris': `After their adventurous meeting in underground Prague, Luis, an Argentine musician, and Jana, a young Czech woman, set off for a romantic holiday in Paris. But an unknown melody and a strange woman in a black veil draw them into the mystery of the awakening catacombs. A secret brotherhood, a song that was never finished and the embroidered skirt of Jana's mother hold the key to the Heart of Paris.
 Translated from Esperanto.`,
+    'volny-lyubvi-gorod-bez-ulybok': `On the anniversary of Luis's disappearance, Natalia receives a letter from Marisa, a childhood friend she hasn't seen in years. Marisa invites her to Sinea, and the fox persuades her to go: it has long wanted to see again the city where it once stepped out of a drawing.
+But Sinea has changed. The new mayor, Octavio Grande, has banned smiling in the streets, laughter is fined, and above people's heads Natalia sees grey threads stretching toward four invisible towers. In the city without smiles, someone has launched Plan B.
+The third part of the novel "Waves of Love". Its events take place in Sinea at the same time as the novel "The Sad City".`,
     'golos': `The city of Sinea is cut off from the world in a single night. No sirens, no warnings, no protection. From the depths of the old legends come shadows: leshies and twisted spirits that feed on people's fear and life.
 Sasha, a thirty-five-year-old woman tired of ordinary life, hears a voice calling her to the sea. Oxana, her friend, who does not believe in mysticism, is dragged into a flight she cannot escape. Dima, a student trapped in the besieged city, receives a strange message.
 Dolphins. An ancient rift beneath the city. "The Event". And a choice on which depends not only the fate of Sinea, but the boundary between light and darkness.
