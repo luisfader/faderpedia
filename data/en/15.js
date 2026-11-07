@@ -195,3 +195,49 @@ Someone did it on purpose. To find out who, the couple fly to Buenos Aires, wher
   };
   (window.LIBRARY || { characters: [] }).characters.forEach(function (c) { if (EN_CH[c.id]) c.en = EN_CH[c.id]; });
 })();
+
+/* ---------- Звёздный роман: Связь с Марсом ---------- */
+ENadd('argenta',
+`## The sky that was going out
+
+In *[[argenta|Звёздный роман: Связь с Марсом]]* the pink sky of Argenta begins to go out: from the Earth of 2026, [[maskvell|Maskvell]] is drawing the energy of living Mars through the [[cristales-argenta|crystals]]. At the other end of the thread he is helped by **Varon**, head of the Council of Argenta, who dreamed of being a "god of war". Four people save it: Ivan and Maria, and their Earth doubles, [[laura-estelar|Laura]] and [[luciano|Luciano]].
+
+## The Council's judgement
+
+Before the mirror of truth, Varon confesses in front of the whole city. Maria proposes the sentence: whoever wanted to own Mars should belong to Mars. Varon loses his Council seat and becomes the gardener of the Forbidden Desert until the first grove blooms there; every seventh night he tells the children the truth about Europa and about himself. Years later the children call him "Grandpa Gardener".`,
+[['Novel', '[[argenta|Звёздный роман: Связь с Марсом]]']]);
+
+ENadd('maskvell',
+`## The mirror of truth
+
+He wanted to open "a bridge as wide as an avenue" to living Mars, live, in front of millions. He knew that every pull on the thread caused earthquakes in his own city, and he paid to have the inspections closed. During the broadcast Laura turns his ring into a mirror in which no one can lie, and Maskvell confesses everything: the bribes, the pact with Varon and, finally, "I wanted to be loved. But I don't know how. So I buy."
+
+## The sentence
+
+His whole fortune goes to a fund for the earthquake victims, run by his former assistant George. For five years he must work with his own hands rebuilding the damaged districts, and he is barred from running space projects. They say he has been unable to lie since that night. He plants trees in the ruined park, still crookedly.`);
+
+ENadd('cristales-argenta',
+`## Blue, red and violet
+
+The Guardian of Europa, a memory living in a great crystal beneath the Forbidden Desert, explains that the crystals do not give power: they **translate** feeling into energy and energy into paths. Greed they translate into emptiness; that is how Europa died. **Blue** light is born of trust and tenderness; **red**, the fire of Mars, of passion, anger and jealousy. Only together, as **violet**, can they fuse and close the thread that greed stretched open. In the end all that remains is a tiny crystal with a pink glow on Laura and Luciano's windowsill.`);
+
+ENadd('laura-estelar',
+`## The fire of Mars
+
+In *[[argenta|Звёздный роман: Связь с Марсом]]* Laura swaps places in time with Maria, her Martian double and distant ancestor. When Luciano briefly falls for Maria, Laura's jealousy bursts out as a **red fire** that shatters windows and kills machines. That fire turns out to be exactly what was missing to save Argenta's sky. Laura learns to live it through without harming anyone, and with it she defeats Maskvell on live television. On her wrist she wears Maria's hair ribbon.`);
+
+ENadd('luciano',
+`## Someone else's reflection
+
+In *[[argenta|Звёздный роман: Связь с Марсом]]* Luciano hears the language of the Martian crystals. Tuning them together with Maria, he feels her world as his own and thinks he is falling in love; he even whispers "Mirena", Ivan's pet name for her, in his sleep. Then he understands that in Maria he was seeing Laura as she was before all their troubles, and chooses her again: "I want this one. With all her scars."`);
+
+(function () {
+  var EN_CH = {
+    'elena-argenta': { name: 'Elena', tag: 'Звёздный роман: Связь с Марсом', description: 'Maria\'s mother and Pyotr\'s wife. She shouts at the strangers at first, then knocks out two guards with a copper jug to save them.' },
+    'varon': { name: 'Varon', tag: 'Звёздный роман: Связь с Марсом', description: 'Head of the Council of Argenta, who secretly showed Maskvell the way to Mars and dreamed of becoming a god of war. Sentenced to be a gardener in the Forbidden Desert until a grove blooms there.' },
+    'dzhordzh': { name: 'George', tag: 'Звёздный роман: Связь с Марсом', description: 'Maskvell\'s assistant who stopped being a coward: he helps Ivan and Maria escape, holds the portal open and now runs the fund for the earthquake victims.' },
+    'irma-argenta': { name: 'Irma', tag: 'Звёздный роман: Связь с Марсом', description: 'A grey-haired elder of the Council of Argenta, the first to stand up to Varon.' },
+    'khranitelnitsa-evropy': { name: 'Guardian of Europa', tag: 'Звёздный роман: Связь с Марсом', description: 'The last memory of the lost civilisation of Europa, a moon of Jupiter, living in a crystal beneath the Forbidden Desert.' }
+  };
+  (window.LIBRARY || { characters: [] }).characters.forEach(function (c) { if (EN_CH[c.id]) c.en = EN_CH[c.id]; });
+})();

@@ -13,7 +13,7 @@ A({
   es: {
     t: 'Argenta',
     s: 'Ciudad de un Marte vivo, en el año 4085 antes de nuestra era, y título de la segunda novela de Laura y Luciano: bajo un cielo rosado, Iván y María encuentran en el Desierto Prohibido unos cristales que abren un paso entre dos mundos y dos épocas.',
-    box: [['Ruso', 'Аргента'], ['Novela', '[[argenta|Аргента]] (en curso, 10 capítulos)'], ['Serie', 'Laura y Luciano, tras [[zvezdnyj-roman|Звёздный роман]]'], ['Época', '4085 a. C. y 2026'], ['Habitantes', 'Iván, María y su padre Piotr'], ['Peligro', '[[maskvell|Elondar Maskvell]]'], ['Artefacto', '[[cristales-argenta|Los cristales del desierto]]']],
+    box: [['Ruso', 'Аргента'], ['Novela', '[[argenta|Звёздный роман: Связь с Марсом]] (antes «Аргента»; terminada, 25 capítulos, 18+)'], ['Serie', 'Laura y Luciano, tras [[zvezdnyj-roman|Звёздный роман]]'], ['Época', '4085 a. C. y 2026'], ['Habitantes', 'Iván, María y su padre Piotr'], ['Peligro', '[[maskvell|Elondar Maskvell]]'], ['Artefacto', '[[cristales-argenta|Los cristales del desierto]]']],
     b: `En el año 4085 antes de nuestra era, Marte no era el desierto mudo que verán los astrónomos del futuro, sino un mundo vivo y tranquilo bajo un cielo **rosado**, con una luz de eterno atardecer. Entre sus valles se alzaban ciudades pequeñas y cuidadas, y una de las más bellas era **Argenta**, llamada así por la piedra clara de sus edificios: plateada de día, cálida como la luz de la luna al anochecer.
 
 ## La ciudad
@@ -40,7 +40,7 @@ Iván y María salen al desierto, encuentran los [[cristales-argenta|cristales]]
   ru: {
     t: 'Аргента',
     s: 'Город живого Марса в 4085 году до нашей эры и название второго романа о Лауре и Лусиано: под розовым небом Иван и Мария находят в Запретной пустыне кристаллы, которые открывают переход между двумя мирами и двумя эпохами.',
-    box: [['Испанский', 'Argenta'], ['Роман', '[[argenta|Аргента]] (пишется, 10 глав)'], ['Серия', '«Лаура и Лусиано», после [[zvezdnyj-roman|«Звёздного романа»]]'], ['Время', '4085 год до н. э. и 2026 год'], ['Жители', 'Иван, Мария и её отец Пётр'], ['Угроза', '[[maskvell|Элондар Масквелл]]'], ['Артефакт', '[[cristales-argenta|Кристаллы пустыни]]']],
+    box: [['Испанский', 'Argenta'], ['Роман', '[[argenta|«Звёздный роман: Связь с Марсом»]] (раньше «Аргента»; роман завершён, 25 глав, 18+)'], ['Серия', '«Лаура и Лусиано», после [[zvezdnyj-roman|«Звёздного романа»]]'], ['Время', '4085 год до н. э. и 2026 год'], ['Жители', 'Иван, Мария и её отец Пётр'], ['Угроза', '[[maskvell|Элондар Масквелл]]'], ['Артефакт', '[[cristales-argenta|Кристаллы пустыни]]']],
     b: `В 4085 году до нашей эры Марс был не безмолвной пустыней, какой его увидят будущие астрономы, а живым и спокойным миром под **розовым** небом, в свете вечного вечера. Среди долин стояли небольшие, бережно построенные города, и одним из самых прекрасных была **Аргента**, названная так за светлый камень её зданий: днём они сияли серебром, а вечером становились тёплыми, как лунный свет.
 
 ## Город
@@ -524,10 +524,10 @@ A las once de la noche del tercer día, las islas bajan, los castillos se abren 
 addTo('estelar',
 `## La continuación: Argenta
 
-Laura y Luciano tienen ya su propia serie en litmir. La segunda novela, [[argenta|Аргента]] (en curso), los encuentra en la Tierra de 2026, entre libros sobre la Atlántida, mientras en el Marte vivo del año 4085 a. C. Iván y María encuentran los [[cristales-argenta|cristales del desierto]]. Un terremoto relacionado con el magnate [[maskvell|Elondar Maskvell]] y un paso entre épocas acaban llevando a Laura y Luciano a Argenta, donde todos los confunden con Iván y María.`,
+Laura y Luciano tienen ya su propia serie en litmir. La segunda novela, [[argenta|Звёздный роман: Связь с Марсом]] (antes «Аргента», terminada), los encuentra en la Tierra de 2026, entre libros sobre la Atlántida, mientras en el Marte vivo del año 4085 a. C. Iván y María encuentran los [[cristales-argenta|cristales del desierto]]. Un terremoto relacionado con el magnate [[maskvell|Elondar Maskvell]] y un paso entre épocas acaban llevando a Laura y Luciano a Argenta, donde todos los confunden con Iván y María.`,
 `## Продолжение: «Аргента»
 
-У Лауры и Лусиано теперь своя серия в «Литературном мире». Второй роман, [[argenta|«Аргента»]] (пишется), застаёт их на Земле в 2026 году среди книг об Атлантиде, а на живом Марсе 4085 года до н. э. Иван и Мария находят [[cristales-argenta|кристаллы пустыни]]. Землетрясение, связанное с магнатом [[maskvell|Элондаром Масквеллом]], и переход между эпохами приводят Лауру и Лусиано в Аргенту, где все принимают их за Ивана и Марию.`,
+У Лауры и Лусиано теперь своя серия в «Литературном мире». Второй роман, [[argenta|«Звёздный роман: Связь с Марсом»]] (раньше «Аргента», роман завершён), застаёт их на Земле в 2026 году среди книг об Атлантиде, а на живом Марсе 4085 года до н. э. Иван и Мария находят [[cristales-argenta|кристаллы пустыни]]. Землетрясение, связанное с магнатом [[maskvell|Элондаром Масквеллом]], и переход между эпохами приводят Лауру и Лусиано в Аргенту, где все принимают их за Ивана и Марию.`,
 [['Serie', 'Laura y Luciano'], ['Continuación', '[[argenta|Аргента]]']], [['Серия', '«Лаура и Лусиано»'], ['Продолжение', '[[argenta|Аргента]]']]);
 
 addTo('laura-estelar',

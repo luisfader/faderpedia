@@ -11,7 +11,7 @@ window.ENadd = function (id, b, box) {
 EN('argenta', {
   t: 'Argenta',
   s: 'A city on a living Mars in 4085 BC, and the title of the second novel about Laura and Luciano: under a pink sky, Ivan and Maria find crystals in the Forbidden Desert that open a passage between two worlds and two eras.',
-  box: [['Russian', 'Аргента'], ['Novel', '[[argenta|Аргента]] (in progress, 10 chapters)'], ['Series', 'Laura and Luciano, after [[zvezdnyj-roman|Звёздный роман]]'], ['Time', '4085 BC and 2026'], ['Inhabitants', 'Ivan, Maria and her father Pyotr'], ['Threat', '[[maskvell|Elondar Maskvell]]'], ['Artifact', '[[cristales-argenta|The desert crystals]]']],
+  box: [['Russian', 'Аргента'], ['Novel', '[[argenta|Звёздный роман: Связь с Марсом]] (formerly «Аргента»; finished, 25 chapters, 18+)'], ['Series', 'Laura and Luciano, after [[zvezdnyj-roman|Звёздный роман]]'], ['Time', '4085 BC and 2026'], ['Inhabitants', 'Ivan, Maria and her father Pyotr'], ['Threat', '[[maskvell|Elondar Maskvell]]'], ['Artifact', '[[cristales-argenta|The desert crystals]]']],
   b: `In 4085 BC Mars was not the silent desert that future astronomers would see, but a calm, living world under a **pink** sky, in the light of an endless evening. Small, carefully built cities stood among its valleys, and one of the most beautiful was **Argenta**, named after the pale stone of its buildings: silvery by day, warm as moonlight in the evening.
 
 ## The city
@@ -251,7 +251,7 @@ At eleven at night on the third day, the islands come down, the castles open and
 ENadd('estelar',
 `## The sequel: Argenta
 
-Laura and Luciano now have their own series on Litmir. The second novel, [[argenta|Аргента]] (in progress), finds them on Earth in 2026, among books about Atlantis, while on the living Mars of 4085 BC Ivan and Maria find the [[cristales-argenta|desert crystals]]. An earthquake linked to the tycoon [[maskvell|Elondar Maskvell]] and a passage between eras end up taking Laura and Luciano to Argenta, where everyone mistakes them for Ivan and Maria.`,
+Laura and Luciano now have their own series on Litmir. The second novel, [[argenta|Звёздный роман: Связь с Марсом]] (formerly «Аргента», finished), finds them on Earth in 2026, among books about Atlantis, while on the living Mars of 4085 BC Ivan and Maria find the [[cristales-argenta|desert crystals]]. An earthquake linked to the tycoon [[maskvell|Elondar Maskvell]] and a passage between eras end up taking Laura and Luciano to Argenta, where everyone mistakes them for Ivan and Maria.`,
 [['Series', 'Laura and Luciano'], ['Sequel', '[[argenta|Аргента]]']]);
 
 ENadd('laura-estelar',
