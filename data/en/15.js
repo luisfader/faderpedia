@@ -254,3 +254,16 @@ Felipe neither dies nor flees: he is left alone, with no one to command. In the 
     if (c.id === 'dmitrij-meteor') c.en = { name: 'Dmitri', tag: 'Meteor Shower', description: 'A nineteen-year-old engineering student who lifted the crystal seed from the crater above the crowd. He helps Elena go on air from the old radio station.' };
   });
 })();
+
+/* ---------- Дикий час: Судьба Аркаима ---------- */
+(function () {
+  var en = "In Belgrade, Natasha and Luis receive a mysterious letter: Professor Igor Vasilyevich writes that Arkaim, the ancient circular city in the Urals, is awakening, and that only a couple of pure love can tame its energy. On the night train they are hunted by the secret Order of the Crimson Dragon, which wants to wake a fire monster from ancient legends. Against it Natasha summons the Serbian Zmaj, and Luis the Argentine Pig with Chains. But after the victory, Supreme East arrives at Arkaim: a powerful secret organisation and rival of the Mystic South.\nA novel about a love that starts trains, wakes mythical beings and always finds its way home.";
+  window.SINOPSIS = window.SINOPSIS || {};
+  ['dikij-chas-sudba-arkaima', 'divlji-chas-sudbina-arkaima'].forEach(function (slug) {
+    window.SINOPSIS[slug] = Object.assign(window.SINOPSIS[slug] || {}, { en: en });
+  });
+})();
+ENadd('sur-mistico',
+`## The rivals: Supreme East and the Order of the Crimson Dragon
+
+In *[[dikij-chas-sudba-arkaima|Дикий час: Судьба Аркаима]]* two secret organisations appear that compete with the Mystic South and with each other. The **Order of the Crimson Dragon** hunts ancient forces all over the world and wants to wake its fire dragon at Arkaim to rule with it. **Supreme East** is as old as the Mystic South, or older: "We gather knowledge. They gather… everything." Its agents, in ash-coloured coats, arrive without a sound, switch off Luis and Natasha's magic and take every find from Arkaim. The Mystic South gets only "an official notice".`);

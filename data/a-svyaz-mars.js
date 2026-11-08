@@ -70,3 +70,12 @@ Felipe no muere ni huye: se queda solo, sin nadie a quien mandar. Al final, Luci
 Русская версия «Lluvia de meteoritos» закончена — и у неё **свой финал**. Здесь нет войны танков и семейных разоблачений. Хрустальный купол питается ложью, которую Фелипе заставляет говорить своим «Законом о правде». Елена одна возвращается в закрытую Синею, на радио, где в юности вела программу «Голос Синеи», и в прямом эфире говорит правду, о которой молчала двадцать лет. Горожане звонят и говорят свою; Светлана и Саша — тоже. Купол рассыпается светлым дождём, который не ранит.
 
 Фелипе не гибнет и не бежит: он остаётся один, без тех, кем можно командовать. В конце Лучано отказывается от дороги к звёздам, чтобы жить обычной жизнью, а Елена подводит итог романа двумя испанскими глаголами: «Yo estaba casada… Ahora yo soy Elena».`);
+
+// «Дикий час: Судьба Аркаима»: los rivales del Sur Místico.
+addTo('sur-mistico',
+`## Los rivales: el Oriente Supremo y la Orden del Dragón Carmesí
+
+En *[[dikij-chas-sudba-arkaima|Дикий час: Судьба Аркаима]]* aparecen dos organizaciones secretas que compiten con el Sur Místico y también entre sí. La **Orden del Dragón Carmesí** caza fuerzas antiguas en todo el mundo y quiere despertar en Arkaim a su dragón de fuego para gobernar con él. El **Oriente Supremo** es tan antiguo como el Sur Místico, o más: «nosotros reunimos conocimiento; ellos lo reúnen… todo». Sus agentes, con abrigos de color ceniza, llegan sin hacer ruido, apagan la magia de Luis y Natasha y se quedan con todos los hallazgos de Arkaim. Al Sur Místico solo le mandan «una notificación oficial».`,
+`## Соперники: Верховный Восток и Орден Багрового Дракона
+
+В «[[dikij-chas-sudba-arkaima|Дикий час: Судьба Аркаима]]» появляются две тайные организации, которые соперничают с «Мистическим Югом» и друг с другом. **Орден Багрового Дракона** охотится за древними силами по всему миру и хочет пробудить в Аркаиме своего огненного дракона, чтобы с его помощью править. **Верховный Восток** так же древен, как «Мистический Юг», а может, и древнее: «Мы собираем знания. Они собирают… всё». Его агенты в пепельных пальто приходят бесшумно, гасят магию Луиса и Наташи и забирают все находки Аркаима. «Мистическому Югу» они лишь посылают «официальное уведомление».`);
