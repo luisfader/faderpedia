@@ -61,3 +61,45 @@ In *[[la-corazonada-2|La Corazonada 2: El Refugio]]* the fortress has become the
   };
   (window.LIBRARY || { characters: [] }).characters.forEach(function (c) { if (EN_CH[c.id]) c.en = EN_CH[c.id]; });
 })();
+
+ENadd('luis',
+`## Timeline of his loves
+
+The love life of the [[sur-mistico|Mystic South]] agent, in the order he lives it rather than the order of publication. The adventures with Nátasha come from different versions of the multiverse (in Russian, Serbian, Italian, Esperanto and Spanish).
+
+**1. Nátasha, first life**
+
+With [[natasha|Nátasha Petrović]], the girl from Belgrade on the scooter, whom he marries in Belgrade.
+
+- **[[dikij-chas|Дикий час]] / [[divlji-chas|Дивљи час]]** — the scooter on Knez Mihailova; together they stop the [[la-hora-salvaje|Wild Hour]] and wake [[zmaj|Zmaj]].
+- **[[dikij-chas-2|Духи гор]]** — in Mendoza, at [[sergio|Sergio]]'s, the [[espiritus-montanas|mountain spirits]] wake; Nátasha climbs into the fog to find [[olguina|Olguina]] and becomes queen of Las Heras.
+- **[[divlji-chas-malbec|Љубав укуса малбека]]** — the honeymoon in Mendoza: Nastia kidnapped during the Vía Blanca and the Huarpe gold, with Nátasha burning with jealousy.
+- **[[dikij-chas-karnaval-razdora|Карнавал раздора]]** — carnival madness in [[madrid|Madrid]], the [[malon|Malón]] and [[agente-l|Agent L]].
+- **[[epicheskij-match|Эпический матч]]** — captain of [[seleccion-humanidad|Team Humanity]].
+- **[[dikij-chas-venecianskoe-koldovstvo|Венецианское колдовство]]** — the soul-stealing machine; a Venetian woman, Natalia, stirs fierce jealousy in Nátasha.
+- **Судьба Аркаима** — Arkaim awakens, the Order of the Crimson Dragon hunts them, and in the end the Supreme East, rival of the Mystic South, appears.
+- **[[divlji-chas-7|Плач шума]]** and **[[divlji-chas-52|Против империје друштвених мрежа]]** — the weeping forests, the [[dirigibles-fantasma|phantom airships]] and the [[algoritmo-supremo|Supreme Algorithm]].
+- **[[la-savo-de-zmaj|La Savo de Zmaj]]** — rescuing Zmaj, held prisoner in Prague.
+- **[[la-hora-salvaje-tango|El tango más triste]]** — the men of Argentina are crying; they have been together **eleven years** and he has never asked her to dance a tango.
+
+**2. Natalia, in Moscow**
+
+A distance grows between him and Nátasha, and Luis almost runs away to [[moscu|Moscow]]. In **[[anomalnyj-chas|Аномальный час]]** he hunts for the [[pergaminos-imperiales|Imperial Scrolls]] and falls in love with [[natalia-anomala|Natalia]] by the Patriarch's Ponds. At the end the scrolls send him back to Kalemegdan, to the morning of the scooter, and Natalia stays behind as their keeper.
+
+**3. Nátasha, second life**
+
+Luis lives *The Wild Hour* again without remembering Moscow, "as if for the first time", and this time without the distance. Even so, it ends: "It ended well, without hatred."
+
+**4. Jana**
+
+With [[jana|Jana]], the Czech girl with the [[falda-jana|burgundy skirt]].
+
+- **[[podzemni-tajemstvi|Podzemní tajemství]]** — they meet in a Prague café; his music wakes Princess Ludmila underground.
+- **[[misteroj-sub-parizo|Misteroj sub Parizo]] / [[mysteres-sous-paris|Mystères sous Paris]]** — a holiday in Paris and the waking catacombs.
+- **[[ostrovy-nad-prahou|Ostrovy nad Prahou]]** — the five islands of [[cernobog|Chernobog]] over [[praga|Prague]].
+- **[[la-reina-de-la-vendimia|La reina de la Vendimia]]** — Luis hides his Mendoza mission from her; Jana becomes Yanina, a candidate for queen. The [[mulanima|Mulánima]] and [[hunuc-huar|Hunuc Huar]] awaken, and Nátasha returns as the girlfriend of [[rodrigo|Rodrigo]], Luis's brother. Luis and Jana end up together.
+
+**5. Natalia, in Verdegrad (ongoing)**
+
+In **[[volny-lyubvi-labirint-zabveniya|Лабиринт забвения]]** he follows the smell that makes people forget to the Northern City and sits down at a table with [[natalia-verdegrad|Natalia of Verdegrad]]. Of Moscow he only says: "Once. Don't ask." The novel does not yet say when in his life this happens.`,
+[['Loves', '[[natasha|Nátasha]] → [[natalia-anomala|Natalia (Moscow)]] → Nátasha → [[jana|Jana]] → [[natalia-verdegrad|Natalia (Verdegrad)]]']]);

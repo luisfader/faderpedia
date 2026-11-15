@@ -625,3 +625,87 @@ window.LINKS = (window.LINKS || []).concat([
   ['olguina', 'natasha', { es: 'Natasha le rompe la maldición', ru: 'Наташа снимает с неё проклятие', en: 'Natasha breaks her curse' }],
   ['mulanima', 'jana', { es: '«Cuando me llames, vendré»', ru: '«Когда позовёшь — я приду»', en: '"When you call me, I will come"' }]
 ]);
+
+/* ---------- Luis del Sur Místico: cronología de sus parejas ---------- */
+
+addTo('luis',
+`## Cronología de sus parejas
+
+La vida sentimental del agente del [[sur-mistico|Sur Místico]], en el orden en que la vive él y no en el de publicación. Las aventuras con Nátasha vienen de distintas versiones del multiverso (en ruso, serbio, italiano, esperanto y español).
+
+**1. Nátasha, primera vida**
+
+Con [[natasha|Nátasha Petrović]], la belgradense del monopatín, con la que se casa en Belgrado.
+
+- **[[dikij-chas|Дикий час]] / [[divlji-chas|Дивљи час]]** — el monopatín en Knez Mihailova; juntos detienen la [[la-hora-salvaje|Hora salvaje]] y despiertan a [[zmaj|Zmaj]].
+- **[[dikij-chas-2|Духи гор]]** — en Mendoza, en lo de [[sergio|Sergio]], despiertan los [[espiritus-montanas|espíritus de las montañas]]; Nátasha sube a la niebla a buscar a [[olguina|Olguina]] y sale reina de Las Heras.
+- **[[divlji-chas-malbec|Љубав укуса малбека]]** — la luna de miel en Mendoza: el secuestro de Nastia en la Vía Blanca y el oro huarpe, con Nátasha ardiendo de celos.
+- **[[dikij-chas-karnaval-razdora|Карнавал раздора]]** — la locura del carnaval en [[madrid|Madrid]], el [[malon|Malón]] y el [[agente-l|Agente L]].
+- **[[epicheskij-match|Эпический матч]]** — capitán de la [[seleccion-humanidad|Selección de la Humanidad]].
+- **[[dikij-chas-venecianskoe-koldovstvo|Венецианское колдовство]]** — la máquina que roba almas; una veneciana, Natalia, despierta en Nátasha unos celos feroces.
+- **Судьба Аркаима** — Arkaim despierta, la Orden del Dragón Carmesí los persigue y al final aparece el Oriente Supremo, rival del Sur Místico.
+- **[[divlji-chas-7|Плач шума]]** y **[[divlji-chas-52|Против империје друштвених мрежа]]** — los bosques que lloran, los [[dirigibles-fantasma|dirigibles fantasma]] y el [[algoritmo-supremo|Algoritmo Supremo]].
+- **[[la-savo-de-zmaj|La Savo de Zmaj]]** — rescatan a Zmaj, prisionero en Praga.
+- **[[la-hora-salvaje-tango|El tango más triste]]** — los hombres de la Argentina lloran; llevan **once años juntos** y él nunca la sacó a bailar tango.
+
+**2. Natalia, en Moscú**
+
+Entre él y Nátasha aparece una distancia, y Luis viaja a [[moscu|Moscú]] casi huyendo. En **[[anomalnyj-chas|Аномальный час]]** busca los [[pergaminos-imperiales|Pergaminos Imperiales]] y se enamora de [[natalia-anomala|Natalia]] junto a los estanques del Patriarca. Al final los pergaminos lo devuelven a Kalemegdan, a la mañana del monopatín, y Natalia se queda como guardiana.
+
+**3. Nátasha, segunda vida**
+
+Luis vuelve a vivir *La hora salvaje* sin recordar Moscú, «como si fuera la primera vez», y esta vez sin distancia. Aun así, la historia termina: «Terminó bien, sin odio».
+
+**4. Jana**
+
+Con [[jana|Jana]], la checa de la [[falda-jana|falda bordó]].
+
+- **[[podzemni-tajemstvi|Podzemní tajemství]]** — se conocen en un café de [[praga|Praga]]; su música despierta a la princesa Ludmila en el subsuelo.
+- **[[misteroj-sub-parizo|Misteroj sub Parizo]] / [[mysteres-sous-paris|Mystères sous Paris]]** — vacaciones en París y las catacumbas que despiertan.
+- **[[ostrovy-nad-prahou|Ostrovy nad Prahou]]** — las cinco islas de [[cernobog|Chernobog]] sobre Praga.
+- **[[la-reina-de-la-vendimia|La reina de la Vendimia]]** — Luis le miente sobre su misión en Mendoza; Jana se convierte en Yanina, candidata a reina. Despiertan la [[mulanima|Mulánima]] y [[hunuc-huar|Hunuc Huar]], y Nátasha reaparece como novia de [[rodrigo|Rodrigo]], el hermano de Luis. Luis y Jana terminan juntos.
+
+**5. Natalia, en Verdegrad (en curso)**
+
+En **[[volny-lyubvi-labirint-zabveniya|Лабиринт забвения]]** llega a la Ciudad del Norte detrás del olor que hace olvidar y se sienta a la mesa con [[natalia-verdegrad|Natalia de Verdegrad]]. De Moscú solo dice: «Una vez. No pregunten». La novela todavía no aclara en qué momento de su vida ocurre.`,
+`## Хронология его любви
+
+Личная жизнь агента [[sur-mistico|Мистического Юга]] — в том порядке, в каком её проживает он сам, а не в порядке публикации. Приключения с Наташей взяты из разных версий мультивселенной (на русском, сербском, итальянском, эсперанто и испанском).
+
+**1. Наташа, первая жизнь**
+
+С [[natasha|Наташей Петрович]], белградкой на самокате, на которой он женится в Белграде.
+
+- **[[dikij-chas|Дикий час]] / [[divlji-chas|Дивљи час]]** — самокат на улице Кнеза Михаила; вместе они останавливают [[la-hora-salvaje|Дикий час]] и будят [[zmaj|Змая]].
+- **[[dikij-chas-2|Духи гор]]** — в Мендосе, у [[sergio|Серхио]], просыпаются [[espiritus-montanas|духи гор]]; Наташа поднимается в туман за [[olguina|Ольгиной]] и становится королевой Лас-Эраса.
+- **[[divlji-chas-malbec|Љубав укуса малбека]]** — медовый месяц в Мендосе: похищение Насти на Виа Бланке и золото уарпе, а Наташа сгорает от ревности.
+- **[[dikij-chas-karnaval-razdora|Карнавал раздора]]** — безумие карнавала в [[madrid|Мадриде]], [[malon|Малон]] и [[agente-l|агент Л]].
+- **[[epicheskij-match|Эпический матч]]** — капитан [[seleccion-humanidad|сборной Человечества]].
+- **[[dikij-chas-venecianskoe-koldovstvo|Венецианское колдовство]]** — машина, крадущая души; венецианка Наталья будит в Наташе яростную ревность.
+- **Судьба Аркаима** — Аркаим пробуждается, их преследует Орден Багрового Дракона, а в конце появляется Верховный Восток, соперник Мистического Юга.
+- **[[divlji-chas-7|Плач шума]]** и **[[divlji-chas-52|Против империје друштвених мрежа]]** — плачущие леса, [[dirigibles-fantasma|призрачные дирижабли]] и [[algoritmo-supremo|Верховный Алгоритм]].
+- **[[la-savo-de-zmaj|La Savo de Zmaj]]** — спасение Змая, пленённого в Праге.
+- **[[la-hora-salvaje-tango|El tango más triste]]** — мужчины Аргентины плачут; они вместе **одиннадцать лет**, а он так ни разу и не пригласил её на танго.
+
+**2. Наталья, в Москве**
+
+Между ним и Наташей появляется отдаление, и Луис почти сбегает в [[moscu|Москву]]. В «**[[anomalnyj-chas|Аномальном часе]]**» он ищет [[pergaminos-imperiales|Имперские пергаменты]] и влюбляется в [[natalia-anomala|Наталью]] у Патриарших прудов. В финале пергаменты возвращают его на Калемегдан, в то самое утро самоката, а Наталья остаётся хранительницей.
+
+**3. Наташа, вторая жизнь**
+
+Луис заново проживает «Дикий час», не помня Москвы, «как будто впервые» — и на этот раз без отдаления. И всё же история заканчивается: «Всё закончилось хорошо, без ненависти».
+
+**4. Яна**
+
+С [[jana|Яной]], чешкой в [[falda-jana|бордовой юбке]].
+
+- **[[podzemni-tajemstvi|Podzemní tajemství]]** — знакомство в пражском кафе; его музыка будит в подземелье принцессу Людмилу.
+- **[[misteroj-sub-parizo|Misteroj sub Parizo]] / [[mysteres-sous-paris|Mystères sous Paris]]** — каникулы в Париже и просыпающиеся катакомбы.
+- **[[ostrovy-nad-prahou|Ostrovy nad Prahou]]** — пять островов [[cernobog|Чернобога]] над [[praga|Прагой]].
+- **[[la-reina-de-la-vendimia|La reina de la Vendimia]]** — Луис скрывает от неё задание в Мендосе; Яна становится Яниной, кандидаткой в королевы. Просыпаются [[mulanima|Муланима]] и [[hunuc-huar|Хунук Хуар]], а Наташа возвращается невестой [[rodrigo|Родриго]], брата Луиса. Луис и Яна остаются вместе.
+
+**5. Наталья, в Вердеграде (продолжается)**
+
+В «**[[volny-lyubvi-labirint-zabveniya|Лабиринте забвения]]**» он приезжает в Северный Город по следу запаха, от которого всё забывается, и садится за столик с [[natalia-verdegrad|Натальей из Вердеграда]]. О Москве говорит только: «Один раз. Не спрашивайте». В какой момент его жизни это происходит, роман пока не говорит.`,
+[['Parejas', '[[natasha|Nátasha]] → [[natalia-anomala|Natalia (Moscú)]] → Nátasha → [[jana|Jana]] → [[natalia-verdegrad|Natalia (Verdegrad)]]']],
+[['Возлюбленные', '[[natasha|Наташа]] → [[natalia-anomala|Наталья (Москва)]] → Наташа → [[jana|Яна]] → [[natalia-verdegrad|Наталья (Вердеград)]]']]);
