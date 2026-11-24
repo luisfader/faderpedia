@@ -170,10 +170,22 @@ EN('roberto-venecia', {
 });
 
 EN('marco-dandolo', {
-  t: 'Marco Dandolo',
-  s: 'Heir of the old Venetian Dandolo family, grandson of the last doge before the catastrophe. He appears in the Order\'s secret hall with a gold medallion and demands the Mask by right of blood.',
-  box: [['Family', 'Dandolo'], ['Lineage', 'Grandson of the last doge'], ['Object', 'Gold medallion'], ['Goal', '[[mascara-venecia|The Mask]]'], ['Traits', 'Ambitious, cold, dangerously charming']],
-  b: `**Marco Dandolo** bears the surname of one of the great dynasties of the Republic of Venice. Ambitious, cold-blooded and dangerously charming, he bursts into the hall of the [[orden-veneciana|Order]] with a gold medallion and claims the [[mascara-venecia|Mask]] as his inheritance. "Betrayal of blood" and the "duel for the Mask" mark his path.`
+  t: 'Nicolò Dandolo',
+  s: 'Heir of the Venetian Dandolo family, grandson of the last doge before the catastrophe. He demands the Mask by right of blood. He is the son of Commissioner Zancan, though he bears his mother\'s surname.',
+  box: [['Russian', 'Никколо Дандоло'], ['Formerly', 'Marco Dandolo (renamed in November 2026)'], ['Family', 'Dandolo, on his mother\'s side'], ['Father', 'Commissioner Zancan'], ['Lineage', 'Grandson of the last doge before the catastrophe'], ['Objects', 'Gold medallion with the lion of St Mark, the Key of the Blind'], ['Goal', '[[mascara-venecia|The Mask]]']],
+  b: `**Nicolò Dandolo** bears the surname of one of the great dynasties of the Republic of Venice. Ambitious, cold-blooded and dangerously charming, he walks into the hall of the [[orden-veneciana|Order]] with a gold medallion engraved with the lion of St Mark, the Dandolo coat of arms, and claims the [[mascara-venecia|Mask]] as his inheritance: his grandfather was "the last doge before the waters swallowed the true Venice".
+
+## His mother's name
+
+Nicolò is the son of Commissioner Zancan, the corrupt policeman who wants the Mask at any price, but he gave up his father's surname. "I bear my mother's surname," he says in the Italian version; her family gave the drowned Venice some of its most important doges. Zancan never forgave him for it.
+
+## The Russian version
+
+In *[[venecianskaya-maska|Венецианская маска]]*, after the "Duel for the Mask", Roberto pulls him out from under the rubble of the Order's hall: "Because then I'd be just like you." In the courtyard, just as Natalia tells him it is not too late, a black helicopter appears and Nicolò sees his father in its doorway. Zancan shoots him, wounds Roberto and takes the Mask. With his last strength Nicolò pushes his phone towards Natalia and shouts a code, 5640: "He betrayed me." From his chest Natalia takes the **Key of the Blind**, which later helps her uncover the secret beneath San Marco. In a packed Piazza San Marco, Antonio accuses Zancan before the crowd of killing his own son. But in the epilogue, one night in Rome, a familiar voice stops Zancan: Nicolò is alive, and now it is the father who will have to obey.
+
+## The Italian version
+
+In *[[maschera-di-venezia|Maschera di Venezia]]* Nicolò imposes martial law during the revolt and fights Roberto in a duel, beating him again and again thanks to the medallions, until Laura spots the weak point: the eye-shaped clasp that joins the Key of the Blind to the chain. With no mask and no power left, Nicolò gives himself up.`
 });
 
 EN('alessio', {

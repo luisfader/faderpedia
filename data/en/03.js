@@ -102,7 +102,7 @@ Throughout the tournament Team Humanity faces teams that are allegories: the usu
 EN('orden-veneciana', {
   t: 'The Order (Venice)',
   s: 'A Venetian secret society that exists so that the city keeps forgetting its sunken truth. It controls secrets, has eyes everywhere and turns Roberto into its "point of entry" to the Mask.',
-  box: [['Original name', 'L’Ordine / Орден'], ['Type', 'Secret society'], ['Seat', 'A secret hall in Venice'], ['Goal', 'Guard the boundaries; seize the [[mascara-venecia|Mask]]'], ['Related', '[[marco-dandolo|Marco Dandolo]], Ludovico and the Lodge']],
+  box: [['Original name', 'L’Ordine / Орден'], ['Type', 'Secret society'], ['Seat', 'A secret hall in Venice'], ['Goal', 'Guard the boundaries; seize the [[mascara-venecia|Mask]]'], ['Related', '[[marco-dandolo|Nicolò Dandolo]], Ludovico and the Lodge']],
   b: `"L’Ordine sta perdendo il controllo" (the Order is losing control), says one of its members, with a narrow face and a cold gaze, in the chapter "The Shadow of the Order".
 
 ## Its reason for being
@@ -114,7 +114,7 @@ EN('orden-veneciana', {
 
 ## Against Roberto
 
-In the secret hall, the Order makes its decision: "The Mask has become the target. Roberto, the point of entry." It does not know his name yet, but it already senses his presence. In that very place [[marco-dandolo|Marco Dandolo]] appears with a gold medallion, demanding the [[mascara-venecia|Mask]] by right of blood.
+In the secret hall, the Order makes its decision: "The Mask has become the target. Roberto, the point of entry." It does not know his name yet, but it already senses his presence. In that very place [[marco-dandolo|Nicolò Dandolo]] appears with a gold medallion, demanding the [[mascara-venecia|Mask]] by right of blood.
 
 ## The trap
 
@@ -247,8 +247,8 @@ The vine thus joins the author's two poles: the land of Mendoza and the Slavic w
 
 EN('mascara-venecia', {
   t: 'The Venetian Mask',
-  s: 'A mask of unlimited power hidden, along with a lost city, in the waters of Venice. The Order pursues it, Marco Dandolo claims it by right of blood and Roberto discovers its powers.',
-  box: [['Type', 'Artifact of power'], ['Power', 'Unlimited'], ['Location', 'Beneath the waters of [[venecia-lugar|Venice]]'], ['Bearer', '[[roberto-venecia|Roberto]]'], ['Claimants', '[[orden-veneciana|The Order]], [[marco-dandolo|Marco Dandolo]]']],
+  s: 'A mask of unlimited power hidden, along with a lost city, in the waters of Venice. The Order pursues it, Nicolò Dandolo claims it by right of blood and Roberto discovers its powers.',
+  box: [['Type', 'Artifact of power'], ['Power', 'Unlimited'], ['Location', 'Beneath the waters of [[venecia-lugar|Venice]]'], ['Bearer', '[[roberto-venecia|Roberto]]'], ['Claimants', '[[orden-veneciana|The Order]], [[marco-dandolo|Nicolò Dandolo]]']],
   b: `The **Mask** is the heart of [[venecia|The Venetian Mask]]. "Venice hides its darkest secret in its own waters: a lost city and a mask of unlimited power."
 
 ## Key chapters
@@ -258,7 +258,7 @@ EN('mascara-venecia', {
 ## Who wants it
 
 - **[[roberto-venecia|Roberto]]**, the Argentine who discovers its powers and becomes its target.
-- **[[marco-dandolo|Marco Dandolo]]**, who appears in the Order's hall with a gold medallion and demands it by right of blood.
+- **[[marco-dandolo|Nicolò Dandolo]]**, who appears in the Order's hall with a gold medallion and demands it by right of blood.
 - **[[orden-veneciana|The Order]]**, for whom "the Mask has become the target; Roberto, the point of entry".
 
 ## Symbolism

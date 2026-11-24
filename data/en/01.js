@@ -232,7 +232,7 @@ The books include interviews with the author, with Natalia… and with the Fox, 
 EN('venecia', {
   t: 'The Venetian Mask (universe)',
   s: 'Venice hides a lost city and a mask of unlimited power in its waters. An Argentine archaeologist, a woman with mysterious intentions and a group of unpredictable friends face a secret Order.',
-  box: [['Genre', 'Urban fantasy · adventure'], ['Languages', 'Russian, Italian'], ['Protagonists', '[[roberto-venecia|Roberto]] and Natalia'], ['Artifact', '[[mascara-venecia|The Mask]]'], ['Enemies', '[[orden-veneciana|The Order]], [[marco-dandolo|Marco Dandolo]], Commissioner Zancan'], ['Opening date', 'Carnival, 20 February 2025']],
+  box: [['Genre', 'Urban fantasy · adventure'], ['Languages', 'Russian, Italian'], ['Protagonists', '[[roberto-venecia|Roberto]] and Natalia'], ['Artifact', '[[mascara-venecia|The Mask]]'], ['Enemies', '[[orden-veneciana|The Order]], [[marco-dandolo|Nicolò Dandolo]], Commissioner Zancan'], ['Opening date', 'Carnival, 20 February 2025']],
   b: `**The Venetian Mask** (*Венецианская маска*, *Maschera di Venezia*) opens on a Carnival night (20 February 2025) with a man running away, clutching a small object wrapped in a dark cloth. From that moment, among streets, masks and ancient secrets, nothing is ever the same again.
 
 ## The truth under the water
@@ -243,7 +243,7 @@ EN('venecia', {
 
 - [[roberto-venecia|Roberto]], an Argentine who lives among the canals and discovers the powers of the mask.
 - Natalia, an enigmatic Venetian, daughter of a Duke of a secret lineage.
-- [[marco-dandolo|Marco Dandolo]], heir of the Dandolos, grandson of the last doge "before the catastrophe", who claims the Mask by right of blood.
+- [[marco-dandolo|Nicolò Dandolo]], heir of the Dandolos, grandson of the last doge "before the catastrophe", who claims the Mask by right of blood.
 - The corrupt Commissioner Zancan and Ludovico, head of the Lodge.
 - Alessio and Laura, from *Thief of Hearts*, cross paths with this story.
 

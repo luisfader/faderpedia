@@ -789,7 +789,7 @@ A({
   es: {
     t: 'La Orden (Venecia)',
     s: 'Sociedad secreta veneciana que existe para que la ciudad siga olvidando su verdad sumergida. Controla secretos, tiene ojos en todas partes y convierte a Roberto en su «punto de entrada» hacia la Máscara.',
-    box: [['Nombre original', 'L’Ordine / Орден'], ['Tipo', 'Sociedad secreta'], ['Sede', 'Una sala secreta de Venecia'], ['Objetivo', 'Guardar los límites; apoderarse de la [[mascara-venecia|Máscara]]'], ['Relacionados', '[[marco-dandolo|Marco Dandolo]], Ludovico y la Logia']],
+    box: [['Nombre original', 'L’Ordine / Орден'], ['Tipo', 'Sociedad secreta'], ['Sede', 'Una sala secreta de Venecia'], ['Objetivo', 'Guardar los límites; apoderarse de la [[mascara-venecia|Máscara]]'], ['Relacionados', '[[marco-dandolo|Nicolò Dandolo]], Ludovico y la Logia']],
     b: `«L’Ordine sta perdendo il controllo» —la Orden está perdiendo el control—, dice uno de sus miembros, de rostro estrecho y mirada fría, en el capítulo «La sombra de la Orden».
 
 ## Su razón de ser
@@ -801,7 +801,7 @@ A({
 
 ## Contra Roberto
 
-En la sala secreta, la Orden toma su decisión: «La Máscara se convirtió en el objetivo. Roberto, en el punto de entrada». Todavía no conoce su nombre, pero ya siente su presencia. Allí mismo aparece [[marco-dandolo|Marco Dandolo]] con un medallón de oro, exigiendo la [[mascara-venecia|Máscara]] por derecho de sangre.
+En la sala secreta, la Orden toma su decisión: «La Máscara se convirtió en el objetivo. Roberto, en el punto de entrada». Todavía no conoce su nombre, pero ya siente su presencia. Allí mismo aparece [[marco-dandolo|Nicolò Dandolo]] con un medallón de oro, exigiendo la [[mascara-venecia|Máscara]] por derecho de sangre.
 
 ## La trampa
 
@@ -810,7 +810,7 @@ La novela incluye «La trampa de la Orden» y una «Revelación de la Orden»: l
   ru: {
     t: 'Орден (Венеция)',
     s: 'Тайное венецианское общество, существующее для того, чтобы город продолжал забывать свою затонувшую правду. Управляет тайнами, имеет глаза повсюду и делает Роберто «точкой входа» к Маске.',
-    box: [['Тип', 'тайное общество'], ['Место', 'тайный зал в Венеции'], ['Цель', 'удерживать границы; завладеть [[mascara-venecia|Маской]]'], ['Связанные', '[[marco-dandolo|Марко Дандоло]], Людовико и Ложа']],
+    box: [['Тип', 'тайное общество'], ['Место', 'тайный зал в Венеции'], ['Цель', 'удерживать границы; завладеть [[mascara-venecia|Маской]]'], ['Связанные', '[[marco-dandolo|Никколо Дандоло]], Людовико и Ложа']],
     b: `«L’Ordine sta perdendo il controllo» — «Орден теряет контроль», — говорит один из его членов с узким лицом и холодным взглядом в главе «Тень Ордена».
 
 ## Смысл существования
@@ -822,7 +822,7 @@ La novela incluye «La trampa de la Orden» y una «Revelación de la Orden»: l
 
 ## Против Роберто
 
-В тайном зале Орден принимает решение: «Маска стала целью. Роберто — точкой входа». Он ещё не знает его имени, но уже чувствует присутствие. Там же появляется [[marco-dandolo|Марко Дандоло]] с золотым медальоном и требует [[mascara-venecia|Маску]] по праву крови.
+В тайном зале Орден принимает решение: «Маска стала целью. Роберто — точкой входа». Он ещё не знает его имени, но уже чувствует присутствие. Там же появляется [[marco-dandolo|Никколо Дандоло]] с золотым медальоном и требует [[mascara-venecia|Маску]] по праву крови.
 
 ## Ловушка
 
@@ -1112,8 +1112,8 @@ A({
   see: ['orden-veneciana', 'roberto-venecia', 'marco-dandolo', 'venecia-lugar'],
   es: {
     t: 'La Máscara de Venecia',
-    s: 'Máscara de poder ilimitado escondida, junto con una ciudad perdida, en las aguas de Venecia. La Orden la persigue, Marco Dandolo la reclama por derecho de sangre y Roberto descubre sus poderes.',
-    box: [['Tipo', 'Artefacto de poder'], ['Poder', 'Ilimitado'], ['Ubicación', 'Bajo las aguas de [[venecia-lugar|Venecia]]'], ['Portador', '[[roberto-venecia|Roberto]]'], ['Pretendientes', '[[orden-veneciana|La Orden]], [[marco-dandolo|Marco Dandolo]]']],
+    s: 'Máscara de poder ilimitado escondida, junto con una ciudad perdida, en las aguas de Venecia. La Orden la persigue, Nicolò Dandolo la reclama por derecho de sangre y Roberto descubre sus poderes.',
+    box: [['Tipo', 'Artefacto de poder'], ['Poder', 'Ilimitado'], ['Ubicación', 'Bajo las aguas de [[venecia-lugar|Venecia]]'], ['Portador', '[[roberto-venecia|Roberto]]'], ['Pretendientes', '[[orden-veneciana|La Orden]], [[marco-dandolo|Nicolò Dandolo]]']],
     b: `La **Máscara** es el corazón de [[venecia|Máscara de Venecia]]. «Venecia esconde su secreto más oscuro en sus propias aguas: una ciudad perdida y una máscara de poder ilimitado.»
 
 ## Capítulos clave
@@ -1123,7 +1123,7 @@ A({
 ## Quién la quiere
 
 - **[[roberto-venecia|Roberto]]**, el argentino que descubre sus poderes y se convierte en su objetivo.
-- **[[marco-dandolo|Marco Dandolo]]**, que aparece en la sala de la Orden con un medallón de oro y la exige por derecho de sangre.
+- **[[marco-dandolo|Nicolò Dandolo]]**, que aparece en la sala de la Orden con un medallón de oro y la exige por derecho de sangre.
 - **[[orden-veneciana|La Orden]]**, para la que «la Máscara se convirtió en el objetivo; Roberto, en el punto de entrada».
 
 ## Simbolismo
@@ -1132,8 +1132,8 @@ En una ciudad de máscaras, la más poderosa no esconde el rostro: revela lo que
   },
   ru: {
     t: 'Венецианская маска (артефакт)',
-    s: 'Маска безграничной силы, спрятанная вместе с затерянным городом в водах Венеции. Орден охотится за ней, Марко Дандоло требует её по праву крови, а Роберто открывает её силу.',
-    box: [['Тип', 'артефакт силы'], ['Сила', 'безграничная'], ['Где', 'под водами [[venecia-lugar|Венеции]]'], ['Носитель', '[[roberto-venecia|Роберто]]'], ['Претенденты', '[[orden-veneciana|Орден]], [[marco-dandolo|Марко Дандоло]]']],
+    s: 'Маска безграничной силы, спрятанная вместе с затерянным городом в водах Венеции. Орден охотится за ней, Никколо Дандоло требует её по праву крови, а Роберто открывает её силу.',
+    box: [['Тип', 'артефакт силы'], ['Сила', 'безграничная'], ['Где', 'под водами [[venecia-lugar|Венеции]]'], ['Носитель', '[[roberto-venecia|Роберто]]'], ['Претенденты', '[[orden-veneciana|Орден]], [[marco-dandolo|Никколо Дандоло]]']],
     b: `**Маска** — сердце «[[venecia|Венецианской маски]]». «Венеция скрывает свою самую тёмную тайну в собственных водах: затерянный город и маску с безграничной силой».
 
 ## Ключевые главы
@@ -1143,7 +1143,7 @@ En una ciudad de máscaras, la más poderosa no esconde el rostro: revela lo que
 ## Кто её хочет
 
 - **[[roberto-venecia|Роберто]]** — аргентинец, открывший её силу и ставший мишенью.
-- **[[marco-dandolo|Марко Дандоло]]** — появляется в зале Ордена с золотым медальоном и требует её по праву крови.
+- **[[marco-dandolo|Никколо Дандоло]]** — появляется в зале Ордена с золотым медальоном и требует её по праву крови.
 - **[[orden-veneciana|Орден]]**, для которого «Маска стала целью, Роберто — точкой входа».
 
 ## Символ

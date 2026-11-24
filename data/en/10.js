@@ -162,15 +162,15 @@ The saga takes the legendary figure, not the historical one. The book of legends
 
 EN('dandolo', {
   t: 'The Dandolos and the doges of Venice',
-  s: 'One of the great families of the Republic of Venice, which produced four doges. In The Venetian Mask, its fictional heir Marco Dandolo claims the Mask as grandson of the "last doge".',
-  box: [['Russian', 'Дандоло и венецианские дожи'], ['Most famous doge', 'Enrico Dandolo (doge 1192–1205), Fourth Crusade'], ['Last real doge', 'Ludovico Manin, 1797'], ['Fictional character', '[[marco-dandolo|Marco Dandolo]]']],
+  s: 'One of the great families of the Republic of Venice, which produced four doges. In The Venetian Mask, its fictional heir Nicolò Dandolo claims the Mask as grandson of the "last doge".',
+  box: [['Russian', 'Дандоло и венецианские дожи'], ['Most famous doge', 'Enrico Dandolo (doge 1192–1205), Fourth Crusade'], ['Last real doge', 'Ludovico Manin, 1797'], ['Fictional character', '[[marco-dandolo|Nicolò Dandolo]]']],
   b: `## In history
 
 The **doge** was the head of state of the Republic of Venice for more than a thousand years, until Napoleon ended it in 1797; the last one was Ludovico Manin. The **Dandolos** produced four doges, among them **Enrico Dandolo**, who, old and almost blind, led the Venetian fleet in the Fourth Crusade and the sack of Constantinople in 1204.
 
 ## In The Venetian Mask
 
-In the Order's secret hall, a young man announces: "I am Marco Dandolo", and the room holds its breath. He introduces himself as the grandson of the last doge, but not the historical one: in the Italian version he says his grandfather was "the last doge before the waters swallowed the real Venice". The novel thus invents a secret history of the city, with a sunken Venice, and attaches a real surname to it to give it weight. With a gold medallion, [[marco-dandolo|Marco]] demands the [[mascara-venecia|Mask]] by right of blood.`
+In the Order's secret hall, a young man announces: "I am Nicolò Dandolo", and the room holds its breath. He introduces himself as the grandson of the last doge, but not the historical one: in the Italian version he says his grandfather was "the last doge before the waters swallowed the real Venice". The novel thus invents a secret history of the city, with a sunken Venice, and attaches a real surname to it to give it weight. With a gold medallion, [[marco-dandolo|Nicolò]] demands the [[mascara-venecia|Mask]] by right of blood.`
 });
 
 EN('botticelli', {

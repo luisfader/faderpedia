@@ -49,7 +49,7 @@
   C('fabrizio', 'Fabrizio', null, 'Menichetti\'s personal assistant.');
   C('aurora', 'Aurora', null, 'Daughter of Carlotta and Lorenzo.');
   C('roberto-venezia', 'Roberto', 'Venice', 'An Argentine who discovers the powers of an ancient mask in Venice.');
-  C('marco-dandolo', 'Marco Dandolo', null, 'Heir of an illustrious Venetian family who seeks power.');
+  C('marco-dandolo', 'Nicolò Dandolo', null, 'Heir of an illustrious Venetian family who seeks power.');
   C('zancan', 'Commissioner Zancan', null, 'A corrupt Venetian police commissioner.');
   C('ludovico', 'Ludovico', null, 'Head of the Venetian Lodge.');
   C('duca-venezia', 'The Duke', null, 'Natalia\'s father, a Duke of a secret lineage.');
@@ -309,4 +309,7 @@
   C('ettore', 'Ettore', null, 'Pietro\'s teacher, who died at three in the morning. His last notebook holds formulas nobody understands.');
   C('signor-gallo', 'Signor Gallo', null, 'One of Irina\'s patients who, after a beautiful dream, really does take the train to the sea with his wife.');
   C('signora-teresa', 'Signora Teresa', null, 'An old woman who tells of a wartime Christmas and applauds louder than anyone.');
+  C('lume', 'Lume', null, 'A young dolphin, the son of Ael and Nira.');
+  C('valli', 'Ernesto Valli', null, 'A former scientist from Sinea\'s secret laboratory.');
+  C('valeria-verdegrad', 'Valeria', 'Waves of Love', 'An inventor from Verdegrad and Natalia\'s friend. She runs the "Fix Everything" workshop in Blacksmiths\' Lane. She lost her husband Dima four years ago, and everything she can do she learned from him. She builds the smell visor from his blueprints and drives his old racing Lada "Five" as if the road owed her money.');
 })();

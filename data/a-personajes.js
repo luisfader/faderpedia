@@ -1192,18 +1192,42 @@ A({
 A({
   id: 'marco-dandolo', type: 'personaje', uni: 'venecia', img: 'img/chars/marco-dandolo-1.webp',
   novels: ['venecianskaya-maska', 'maschera-di-venezia'],
-  see: ['mascara-venecia', 'orden-veneciana'],
+  see: ['mascara-venecia', 'orden-veneciana', 'dandolo', 'roberto-venecia'],
   es: {
-    t: 'Marco Dandolo',
-    s: 'Heredero de la antigua familia veneciana Dandolo, nieto del último dux antes de la catástrofe. Aparece en la sala secreta de la Orden con un medallón de oro y exige la Máscara por derecho de sangre.',
-    box: [['Familia', 'Dandolo'], ['Linaje', 'Nieto del último dux'], ['Objeto', 'Medallón de oro'], ['Objetivo', '[[mascara-venecia|La Máscara]]'], ['Rasgos', 'Ambicioso, frío, peligrosamente encantador']],
-    b: `**Marco Dandolo** lleva el apellido de una de las grandes dinastías de la República de Venecia. Ambicioso, de sangre fría y peligrosamente encantador, irrumpe en la sala de la [[orden-veneciana|Orden]] con un medallón de oro y reclama la [[mascara-venecia|Máscara]] como herencia. La «traición de sangre» y el «duelo por la Máscara» marcan su recorrido.`
+    t: 'Nicolò Dandolo',
+    s: 'Heredero de la familia veneciana Dandolo, nieto del último dux antes de la catástrofe. Exige la Máscara por derecho de sangre. Es hijo del comisario Zancan, aunque lleva el apellido de su madre.',
+    box: [['Ruso', 'Никколо Дандоло'], ['Antes llamado', 'Marco Dandolo (nombre cambiado en noviembre de 2026)'], ['Familia', 'Dandolo, por su madre'], ['Padre', 'El comisario Zancan'], ['Linaje', 'Nieto del último dux antes de la catástrofe'], ['Objetos', 'Medallón de oro con el león de San Marcos, la Llave del Ciego'], ['Objetivo', '[[mascara-venecia|La Máscara]]']],
+    b: `**Nicolò Dandolo** lleva el apellido de una de las grandes dinastías de la República de Venecia. Ambicioso, de sangre fría y peligrosamente encantador, irrumpe en la sala de la [[orden-veneciana|Orden]] con un medallón de oro que lleva grabado el león de San Marcos, escudo de los Dandolo, y reclama la [[mascara-venecia|Máscara]] como herencia: su abuelo fue «el último dux antes de que las aguas se tragaran la verdadera Venecia».
+
+## El apellido de la madre
+
+Nicolò es hijo del comisario Zancan, el policía corrupto que quiere la Máscara a cualquier precio, pero renunció al apellido del padre: «Llevo el apellido de mi madre», dice en la versión italiana; la familia de ella dio a la Venecia sumergida algunos de sus dux más importantes. Zancan nunca se lo perdonó.
+
+## La versión rusa
+
+En *[[venecianskaya-maska|Венецианская маска]]*, después del «Duelo por la Máscara», Roberto lo saca de debajo de los escombros de la sala de la Orden: «Porque entonces sería como ustedes». En el patio, cuando Natalia le dice que todavía no es tarde, aparece un helicóptero negro y Nicolò ve en la puerta a su padre. Zancan le dispara, hiere a Roberto y se lleva la Máscara. Antes de quedar inmóvil, Nicolò le pasa a Natalia su teléfono y un código, 5640: «Me traicionó». Natalia le quita del cuello la **Llave del Ciego**, que más tarde la ayuda a abrir el secreto bajo San Marcos. En la plaza de San Marco, ante la multitud, Antonio acusa a Zancan de haber matado a su propio hijo. Pero en el epílogo, una noche en Roma, una voz conocida detiene a Zancan: Nicolò está vivo, y ahora es el padre quien tendrá que obedecer.
+
+## La versión italiana
+
+En *[[maschera-di-venezia|Maschera di Venezia]]* Nicolò impone la ley marcial durante la revuelta, se bate a duelo con Roberto y lo vence una y otra vez gracias a los medallones, hasta que Laura descubre el punto débil: el broche en forma de ojo que une la Llave del Ciego a la cadena. Sin máscara y sin poder, Nicolò se entrega solo.`
   },
   ru: {
-    t: 'Марко Дандоло',
-    s: 'Наследник древнего венецианского рода Дандоло, внук последнего дожа до катастрофы. Появляется в тайном зале Ордена с золотым медальоном и требует Маску по праву крови.',
-    box: [['Род', 'Дандоло'], ['Происхождение', 'внук последнего дожа'], ['Предмет', 'золотой медальон'], ['Цель', '[[mascara-venecia|Маска]]'], ['Черты', 'честолюбивый, хладнокровный, опасно обаятельный']],
-    b: `**Марко Дандоло** носит фамилию одной из великих династий Венецианской республики. Честолюбивый, хладнокровный и опасно обаятельный, он врывается в зал [[orden-veneciana|Ордена]] с золотым медальоном и требует [[mascara-venecia|Маску]] как наследство. «Предательство крови» и «Дуэль за Маску» отмечают его путь.`
+    t: 'Никколо Дандоло',
+    s: 'Наследник венецианского рода Дандоло, внук последнего дожа до катастрофы. Требует Маску по праву крови. Сын комиссара Занкана, хотя носит фамилию матери.',
+    box: [['Итальянский', 'Nicolò Dandolo'], ['Прежнее имя', 'Марко Дандоло (переименован в ноябре 2026 года)'], ['Род', 'Дандоло, по матери'], ['Отец', 'комиссар Занкан'], ['Происхождение', 'внук последнего дожа до катастрофы'], ['Предметы', 'золотой медальон со львом Святого Марка, Ключ Слепца'], ['Цель', '[[mascara-venecia|Маска]]']],
+    b: `**Никколо Дандоло** носит фамилию одной из великих династий Венецианской республики. Честолюбивый, хладнокровный и опасно обаятельный, он входит в зал [[orden-veneciana|Ордена]] с золотым медальоном, на котором выгравирован лев Святого Марка — герб рода Дандоло, и требует [[mascara-venecia|Маску]] как наследство: его дед был «последним дожем до катастрофы, до того как воды поглотили истинную Венецию».
+
+## Фамилия матери
+
+Никколо — сын комиссара Занкана, продажного полицейского, который готов на всё ради Маски. Но от фамилии отца он отказался и взял фамилию матери: её род дал затонувшей Венеции нескольких важнейших дожей. Занкан так ему этого и не простил: «Решил, что кровь дожей стоит больше, чем кровь полицейского?»
+
+## Русская версия
+
+В «[[venecianskaya-maska|Венецианской маске]]» после «Дуэли за Маску» Роберто вытаскивает его из-под обломков рушащегося зала Ордена: «Потому что тогда я стал бы таким же, как вы». Во дворе, когда Наталья говорит ему, что ещё не поздно, над крышами появляется чёрный вертолёт, и Никколо видит в его дверях отца. Занкан стреляет в сына, ранит Роберто и увозит Маску. Последним усилием Никколо толкает к Наталье свой телефон и выкрикивает код — 5640: «Он предал меня». С его груди Наталья снимает **Ключ Слепца**, который потом помогает ей раскрыть тайну под Сан-Марко. На переполненной площади Сан-Марко Антонио обвиняет Занкана в убийстве собственного сына. Но в эпилоге, ночью в Риме, Занкана останавливает знакомый голос: Никколо жив, и теперь слушаться будет отец.
+
+## Итальянская версия
+
+В «[[maschera-di-venezia|Maschera di Venezia]]» Никколо вводит военное положение во время восстания, сражается с Роберто на дуэли и раз за разом побеждает благодаря медальонам, пока Лаура не находит слабое место — застёжку в форме глаза, которая соединяет Ключ Слепца с цепью. Без маски и без силы Никколо сдаётся сам.`
   }
 });
 

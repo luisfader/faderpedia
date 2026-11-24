@@ -97,7 +97,7 @@ In Luis's words, it ended "well, without hatred."
 With [[jana|Jana]], the Czech girl with the [[falda-jana|burgundy skirt]].
 
 - **[[podzemni-tajemstvi|Podzemní tajemství]]** — they meet in a Prague café; his music wakes Princess Ludmila underground.
-- **[[misteroj-sub-parizo|Misteroj sub Parizo]] / [[mysteres-sous-paris|Mystères sous Paris]]** — a holiday in Paris and the waking catacombs.
+- **[[misteroj-sub-parizo|Misteroj sub Parizo]] / [[tajemstvi-pod-parizi|Tajemství pod Paříží]]** — a holiday in Paris and the waking catacombs.
 - **[[ostrovy-nad-prahou|Ostrovy nad Prahou]]** — the five islands of [[cernobog|Chernobog]] over [[praga|Prague]].
 - **[[la-reina-de-la-vendimia|La reina de la Vendimia]]** — Luis hides his Mendoza mission from her; Jana becomes Yanina, a candidate for queen. The [[mulanima|Mulánima]] and [[hunuc-huar|Hunuc Huar]] awaken, and Nátasha returns as the girlfriend of [[rodrigo|Rodrigo]], Luis's brother. Luis and Jana end up together.
 

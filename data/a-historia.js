@@ -789,27 +789,27 @@ A({
   see: ['marco-dandolo', 'mascara-venecia', 'orden-veneciana'],
   es: {
     t: 'Los Dandolo y los dux de Venecia',
-    s: 'Una de las grandes familias de la República de Venecia, que dio cuatro dux. En Máscara de Venecia, su heredero ficticio Marco Dandolo reclama la Máscara como nieto del «último dux».',
-    box: [['Ruso', 'Дандоло и венецианские дожи'], ['Dux más célebre', 'Enrico Dandolo (dux 1192–1205), Cuarta Cruzada'], ['Último dux real', 'Ludovico Manin, 1797'], ['Personaje ficticio', '[[marco-dandolo|Marco Dandolo]]']],
+    s: 'Una de las grandes familias de la República de Venecia, que dio cuatro dux. En Máscara de Venecia, su heredero ficticio Nicolò Dandolo reclama la Máscara como nieto del «último dux».',
+    box: [['Ruso', 'Дандоло и венецианские дожи'], ['Dux más célebre', 'Enrico Dandolo (dux 1192–1205), Cuarta Cruzada'], ['Último dux real', 'Ludovico Manin, 1797'], ['Personaje ficticio', '[[marco-dandolo|Nicolò Dandolo]]']],
     b: `## En la historia
 
 El **dux** fue el jefe de Estado de la República de Venecia durante más de mil años, hasta que Napoleón la puso fin en 1797; el último fue Ludovico Manin. Los **Dandolo** dieron cuatro dux, entre ellos **Enrico Dandolo**, que, anciano y casi ciego, dirigió la flota veneciana en la Cuarta Cruzada y el saqueo de Constantinopla en 1204.
 
 ## En Máscara de Venecia
 
-En la sala secreta de la Orden, un joven anuncia: «Soy Marco Dandolo», y la sala contiene el aliento. Se presenta como nieto del último dux, pero no del histórico: en la versión italiana dice que su abuelo fue «el último dux antes de que las aguas se tragaran la verdadera Venecia». La novela inventa así una historia secreta de la ciudad, con una Venecia sumergida, y une a ella un apellido real para darle peso. Con un medallón de oro, [[marco-dandolo|Marco]] exige la [[mascara-venecia|Máscara]] por derecho de sangre.`
+En la sala secreta de la Orden, un joven anuncia: «Soy Nicolò Dandolo», y la sala contiene el aliento. Se presenta como nieto del último dux, pero no del histórico: en la versión italiana dice que su abuelo fue «el último dux antes de que las aguas se tragaran la verdadera Venecia». La novela inventa así una historia secreta de la ciudad, con una Venecia sumergida, y une a ella un apellido real para darle peso. Con un medallón de oro, [[marco-dandolo|Nicolò]] exige la [[mascara-venecia|Máscara]] por derecho de sangre.`
   },
   ru: {
     t: 'Дандоло и венецианские дожи',
-    s: 'Один из великих родов Венецианской республики, давший четырёх дожей. В «Венецианской маске» вымышленный наследник Марко Дандоло требует Маску как внук «последнего дожа».',
-    box: [['Испанский', 'Los Dandolo'], ['Самый известный дож', 'Энрико Дандоло (1192–1205), Четвёртый крестовый поход'], ['Последний настоящий дож', 'Лудовико Манин, 1797'], ['Вымышленный персонаж', '[[marco-dandolo|Марко Дандоло]]']],
+    s: 'Один из великих родов Венецианской республики, давший четырёх дожей. В «Венецианской маске» вымышленный наследник Никколо Дандоло требует Маску как внук «последнего дожа».',
+    box: [['Испанский', 'Los Dandolo'], ['Самый известный дож', 'Энрико Дандоло (1192–1205), Четвёртый крестовый поход'], ['Последний настоящий дож', 'Лудовико Манин, 1797'], ['Вымышленный персонаж', '[[marco-dandolo|Никколо Дандоло]]']],
     b: `## В истории
 
 **Дож** более тысячи лет был главой Венецианской республики, пока в 1797 году её не упразднил Наполеон; последним дожем был Лудовико Манин. Род **Дандоло** дал четырёх дожей, среди них **Энрико Дандоло**, который, глубоким стариком и почти слепым, возглавил венецианский флот в Четвёртом крестовом походе и разграблении Константинополя в 1204 году.
 
 ## В «Венецианской маске»
 
-В тайном зале Ордена молодой человек объявляет: «Я — Марко Дандоло», — и зал замирает. Он называет себя внуком последнего дожа, но не исторического: в итальянской версии он говорит, что его дед был «последним дожем до того, как воды поглотили настоящую Венецию». Роман придумывает тайную историю города с затонувшей Венецией и привязывает к ней настоящую фамилию, чтобы придать ей вес. С золотым медальоном [[marco-dandolo|Марко]] требует [[mascara-venecia|Маску]] по праву крови.`
+В тайном зале Ордена молодой человек объявляет: «Я — Никколо Дандоло», — и зал замирает. Он называет себя внуком последнего дожа, но не исторического: в итальянской версии он говорит, что его дед был «последним дожем до того, как воды поглотили настоящую Венецию». Роман придумывает тайную историю города с затонувшей Венецией и привязывает к ней настоящую фамилию, чтобы придать ей вес. С золотым медальоном [[marco-dandolo|Никколо]] требует [[mascara-venecia|Маску]] по праву крови.`
   }
 });
 

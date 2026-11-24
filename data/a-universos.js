@@ -483,7 +483,7 @@ A({
   es: {
     t: 'Máscara de Venecia (universo)',
     s: 'Venecia esconde en sus aguas una ciudad perdida y una máscara de poder ilimitado. Un arqueólogo argentino, una mujer de intenciones misteriosas y un grupo de amigos imprevisibles se enfrentan a una Orden secreta.',
-    box: [['Género', 'Fantasía urbana · aventura'], ['Idiomas', 'ruso, italiano'], ['Protagonistas', '[[roberto-venecia|Roberto]] y Natalia'], ['Artefacto', '[[mascara-venecia|La Máscara]]'], ['Enemigos', '[[orden-veneciana|La Orden]], [[marco-dandolo|Marco Dandolo]], comisario Zancan'], ['Fecha inicial', 'Carnaval, 20 de febrero de 2025']],
+    box: [['Género', 'Fantasía urbana · aventura'], ['Idiomas', 'ruso, italiano'], ['Protagonistas', '[[roberto-venecia|Roberto]] y Natalia'], ['Artefacto', '[[mascara-venecia|La Máscara]]'], ['Enemigos', '[[orden-veneciana|La Orden]], [[marco-dandolo|Nicolò Dandolo]], comisario Zancan'], ['Fecha inicial', 'Carnaval, 20 de febrero de 2025']],
     b: `**Máscara de Venecia** (*Венецианская маска*, *Maschera di Venezia*) arranca en una noche de Carnaval —el 20 de febrero de 2025— con un hombre que huye apretando entre las manos un pequeño objeto envuelto en un paño oscuro. Desde ese momento, entre calles, máscaras y secretos antiguos, nada vuelve a ser igual.
 
 ## La verdad bajo el agua
@@ -494,7 +494,7 @@ A({
 
 - [[roberto-venecia|Roberto]], argentino que vive entre los canales y descubre los poderes de la máscara.
 - Natalia, veneciana enigmática, hija de un Duque de un linaje secreto.
-- [[marco-dandolo|Marco Dandolo]], heredero de los Dandolo, nieto del último dux «antes de la catástrofe», que reclama la Máscara por derecho de sangre.
+- [[marco-dandolo|Nicolò Dandolo]], heredero de los Dandolo, nieto del último dux «antes de la catástrofe», que reclama la Máscara por derecho de sangre.
 - El comisario corrupto Zancan y Ludovico, jefe de la Logia.
 - Alessio y Laura, de *Ladrón de corazones*, se cruzan en esta historia.
 
@@ -507,7 +507,7 @@ La misma pareja vuelve en *La hora salvaje: la brujería veneciana*, donde Rober
   ru: {
     t: 'Венецианская маска (вселенная)',
     s: 'Венеция скрывает в своих водах затерянный город и маску безграничной силы. Аргентинский археолог, женщина с загадочными намерениями и компания непредсказуемых друзей бросают вызов тайному Ордену.',
-    box: [['Жанр', 'городское фэнтези · приключения'], ['Языки', 'русский, итальянский'], ['Герои', '[[roberto-venecia|Роберто]] и Наталья'], ['Артефакт', '[[mascara-venecia|Маска]]'], ['Враги', '[[orden-veneciana|Орден]], [[marco-dandolo|Марко Дандоло]], комиссар Дзанкан'], ['Начало', 'карнавал, 20 февраля 2025 года']],
+    box: [['Жанр', 'городское фэнтези · приключения'], ['Языки', 'русский, итальянский'], ['Герои', '[[roberto-venecia|Роберто]] и Наталья'], ['Артефакт', '[[mascara-venecia|Маска]]'], ['Враги', '[[orden-veneciana|Орден]], [[marco-dandolo|Никколо Дандоло]], комиссар Занкан'], ['Начало', 'карнавал, 20 февраля 2025 года']],
     b: `**«Венецианская маска»** начинается в карнавальную ночь 20 февраля 2025 года: беглец сжимает в руках маленький предмет, завёрнутый в тёмную ткань. С этого момента среди калле, масок и старинных тайн ничто уже не будет прежним.
 
 ## Правда под водой
@@ -518,8 +518,8 @@ La misma pareja vuelve en *La hora salvaje: la brujería veneciana*, donde Rober
 
 - [[roberto-venecia|Роберто]] — аргентинец, живущий среди каналов, открывает силу маски.
 - Наталья — загадочная венецианка, дочь Герцога тайного рода.
-- [[marco-dandolo|Марко Дандоло]] — наследник рода Дандоло, внук последнего дожа «до катастрофы», требует Маску по праву крови.
-- Коррумпированный комиссар Дзанкан и Людовико, глава Ложи.
+- [[marco-dandolo|Никколо Дандоло]] — наследник рода Дандоло, внук последнего дожа «до катастрофы», требует Маску по праву крови.
+- Коррумпированный комиссар Занкан и Людовико, глава Ложи.
 - Алессио и Лаура из «Похитителя сердец» тоже оказываются в этой истории.
 
 ## Мотивы

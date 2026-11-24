@@ -663,7 +663,7 @@ La historia termina, según Luis, «bien, sin odio».
 Con [[jana|Jana]], la checa de la [[falda-jana|falda bordó]].
 
 - **[[podzemni-tajemstvi|Podzemní tajemství]]** — se conocen en un café de [[praga|Praga]]; su música despierta a la princesa Ludmila en el subsuelo.
-- **[[misteroj-sub-parizo|Misteroj sub Parizo]] / [[mysteres-sous-paris|Mystères sous Paris]]** — vacaciones en París y las catacumbas que despiertan.
+- **[[misteroj-sub-parizo|Misteroj sub Parizo]] / [[tajemstvi-pod-parizi|Tajemství pod Paříží]]** — vacaciones en París y las catacumbas que despiertan.
 - **[[ostrovy-nad-prahou|Ostrovy nad Prahou]]** — las cinco islas de [[cernobog|Chernobog]] sobre Praga.
 - **[[la-reina-de-la-vendimia|La reina de la Vendimia]]** — Luis le miente sobre su misión en Mendoza; Jana se convierte en Yanina, candidata a reina. Despiertan la [[mulanima|Mulánima]] y [[hunuc-huar|Hunuc Huar]], y Nátasha reaparece como novia de [[rodrigo|Rodrigo]], el hermano de Luis. Luis y Jana terminan juntos.
 
@@ -704,7 +704,7 @@ En **[[volny-lyubvi-labirint-zabveniya|Лабиринт забвения]]** lle
 С [[jana|Яной]], чешкой в [[falda-jana|бордовой юбке]].
 
 - **[[podzemni-tajemstvi|Podzemní tajemství]]** — знакомство в пражском кафе; его музыка будит в подземелье принцессу Людмилу.
-- **[[misteroj-sub-parizo|Misteroj sub Parizo]] / [[mysteres-sous-paris|Mystères sous Paris]]** — каникулы в Париже и просыпающиеся катакомбы.
+- **[[misteroj-sub-parizo|Misteroj sub Parizo]] / [[tajemstvi-pod-parizi|Tajemství pod Paříží]]** — каникулы в Париже и просыпающиеся катакомбы.
 - **[[ostrovy-nad-prahou|Ostrovy nad Prahou]]** — пять островов [[cernobog|Чернобога]] над [[praga|Прагой]].
 - **[[la-reina-de-la-vendimia|La reina de la Vendimia]]** — Луис скрывает от неё задание в Мендосе; Яна становится Яниной, кандидаткой в королевы. Просыпаются [[mulanima|Муланима]] и [[hunuc-huar|Хунук Хуар]], а Наташа возвращается невестой [[rodrigo|Родриго]], брата Луиса. Луис и Яна остаются вместе.
 
